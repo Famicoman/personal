@@ -1,6 +1,6 @@
 # personal
 <a href="https://twitter.com/intent/follow?screen_name=famicoman">
-        <img src="https://img.shields.io/twitter/follow/shields_io.svg?style=social"
+        <img src="https://img.shields.io/twitter/follow/Famicoman.svg?style=social"
             alt="follow on Twitter"></a>
 
 This is a repository to track all of my ongoing projects, research, thoughts, work, code, etc. Some of it may be useful to you, most of it will likely be nonsense.
