@@ -43,7 +43,7 @@ Not a task yet, but something where I've looked into things and taken notes.
 
 ### Uncategorized
 
-- [ ] - [***CONSUME!***](research/consume.md)
+- [ ] - [**CONSUME!**](research/consume.md)
 - [ ] - [Bulletin Board System](research/bbs.md)
 - [ ] - [Usenet Server](research/usenet-server.md)
 - [ ] - [Plan9 System](research/plan9-system.md)
