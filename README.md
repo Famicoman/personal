@@ -3,7 +3,7 @@
         <img src="https://img.shields.io/twitter/follow/Famicoman.svg?style=social"
             alt="follow on Twitter"></a>
 
-This is a repository to track all of my ongoing projects, research, thoughts, work, code, etc. Some of it may be useful to you, most of it will likely be nonsense. This will hopefully replace, open browser tabs, Google Docs, Pocket, Trello, Evernote, Any.do, text files, wiki pages, and good old fashioned paper, creating one unified place for all of my notes.
+This is a repository to track all of my ongoing projects, research, thoughts, work, code snippets, etc. Some of it may be useful to you, most of it will likely be nonsense. This will hopefully replace, open browser tabs, Google Docs, Pocket, Trello, Evernote, Any.do, text files, wiki pages, and good old fashioned paper, creating one unified place for all of my notes.
 
 * [Tasks](#Tasks)
 	* [In Progress](#in-progress)
