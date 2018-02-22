@@ -46,6 +46,7 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [**CONSUME!**](research/consume.md)
 - [ ] - [Bulletin Board System](research/bbs.md)
 - [ ] - [Usenet Server](research/usenet-server.md)
+- [ ] - [Dial-up ISP](research/dial-up-isp.md)
 - [ ] - [Plan9 System](research/plan9-system.md)
 - [ ] - [GPG](research/gpg.md)
 - [ ] - [SKS Keyserver](research/sks-keyserver.md)
