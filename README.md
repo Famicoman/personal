@@ -35,7 +35,8 @@ Let's start with a *task list*. This will list key things I'm working on, couple
 
 ### Finished
 
-- [x] - **Nothing here yet!**
+- [x] - [archivebotjr](projects/software/archivebotjr.md) (2016)
+- [x] - [Boxee Hacks](projects/software/boxee-hacks.md) (2012)
 
 ## Research
 
@@ -44,13 +45,24 @@ Not a task yet, but something where I've looked into things and taken notes.
 ### Uncategorized
 
 - [ ] - [**CONSUME!**](research/consume.md)
+- [ ] - [**Decentralized Tech**](research/decentralized-tech.md)
+- [ ] - [Amazon Dash Button Hacks](research/amazon-dash-button-hacks.md)
+- [ ] - [Arduino](research/arduino.md)
+- [ ] - [Beaglebone Black](research/beaglebone-black.md)
 - [ ] - [Bulletin Board System](research/bbs.md)
-- [ ] - [Usenet Server](research/usenet-server.md)
 - [ ] - [Dial-up ISP](research/dial-up-isp.md)
-- [ ] - [Plan9 System](research/plan9-system.md)
 - [ ] - [GPG](research/gpg.md)
-- [ ] - [SKS Keyserver](research/sks-keyserver.md)
+- [ ] - [IRC](research/irc.md)
+- [ ] - [JeOS &(Just Enough OS)](research/jeos.md)
+- [ ] - [Mailgun](research/mailgun.md)
+- [ ] - [Mechanical Keyboards](research/mechanical-keyboards.md)
 - [ ] - [OpenNIC Tier 2 Server](research/opennic-tier-2-server.md)
+- [ ] - [Plan9 System](research/plan9-system.md)
+- [ ] - [Pogoplug Hacks](research/pogoplug-hacks.md)
+- [ ] - [SKS Keyserver](research/sks-keyserver.md)
+- [ ] - [Software](research/software.md)
+- [ ] - [Usenet Server](research/usenet-server.md)
+- [ ] - [Webdev Tools](research/webdev-tools.md)
 
 ## Miscellania
 
@@ -68,10 +80,3 @@ Things that I'm looking for.
 	- [ ] - Satellite Watch News
 	- [ ] - Scrambling News
 	- [ ] - American Hacker
-
-## Archive
-
-Things to save.
-
-- [ ] - 4Firsts videos (playlist of four videos), https://www.youtube.com/playlist?list=PLACD612DA26831C8F
-- [ ] - Wireless Networking in the Developing World (book) - http://wndw.net/
