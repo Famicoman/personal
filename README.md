@@ -22,7 +22,7 @@ Let's start with a *task list*. This will list key things I'm working on, couple
 
 ### In Progress
 
-- [ ] - [z/OS Mainframe](projects/emulation/zos-mainframe.md) (2015)
+- [ ] - [z/OS Mainframe](projects/emulation/zos-mainframe/zos-mainframe.md) (2015)
 - [ ] - [RC2014 Plus](prohects/hardware/rc2014-plus.md) (2018-01-01)
 - [ ] - [Magazine Scans](projects/scans/magazine-scans.md) (2013)
 - [ ] - [Philly Mesh](projects/groups/phillymesh.md) (2014)
@@ -36,7 +36,8 @@ Let's start with a *task list*. This will list key things I'm working on, couple
 ### Finished
 
 - [x] - [archivebotjr](projects/software/archivebotjr.md) (2016)
-- [x] - [Boxee Hacks](projects/software/boxee-hacks.md) (2012)
+- [x] - [Bitcoin Mining](projects/software/bitcoin-mining) (2013)
+- [x] - [Boxee Hacks](projects/software/boxee-hacks.md) (2013)
 
 ## Research
 
@@ -50,19 +51,30 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [Arduino](research/arduino.md)
 - [ ] - [Beaglebone Black](research/beaglebone-black.md)
 - [ ] - [Bulletin Board System](research/bbs.md)
+- [ ] - [Cisco ATA 186 SIP](research/cisco-ata-186-sip.md)
+- [ ] - [cjdns](research/cjdns.md)
 - [ ] - [Dial-up ISP](research/dial-up-isp.md)
+- [ ] - [Emulation](research/emulation.md)
+- [ ] - [Google Search Appliance](research/google-search-appliance.md)
 - [ ] - [GPG](research/gpg.md)
+- [ ] - HAM Radio
 - [ ] - [IRC](research/irc.md)
 - [ ] - [JeOS &(Just Enough OS)](research/jeos.md)
 - [ ] - [Mailgun](research/mailgun.md)
 - [ ] - [Mechanical Keyboards](research/mechanical-keyboards.md)
+- [ ] - [N64 Hacks](research/n64-hacks.md)
 - [ ] - [OpenNIC Tier 2 Server](research/opennic-tier-2-server.md)
+- [ ] - [PBX](research/pbx.md)
+- [ ] - [Pirate Radio](research/pirate-radio.md)
 - [ ] - [Plan9 System](research/plan9-system.md)
 - [ ] - [Pogoplug Hacks](research/pogoplug-hacks.md)
+- [ ] - [Raspberry Pi](research/raspberry-pi.md)
 - [ ] - [SKS Keyserver](research/sks-keyserver.md)
 - [ ] - [Software](research/software.md)
+- [ ] - [Tor](research/tor.md)
 - [ ] - [Usenet Server](research/usenet-server.md)
 - [ ] - [Webdev Tools](research/webdev-tools.md)
+- [ ] - [WYSE WY-60](research/wyse-wy-60/wyse-wy-60.md)
 
 ## Miscellania
 
