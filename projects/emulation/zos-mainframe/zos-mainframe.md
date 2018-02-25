@@ -8,7 +8,7 @@
 
 * Debian non-free packages - http://serverfault.com/questions/240920/how-do-i-enable-non-free-packages-on-debian
 * Install zOS in Hercules - http://phocean.net/wp-content/uploads/2013/05/install_zOS_in_Hercules.txt
-* Install zOS in Hercules (other version) - http://pastebin.com/raw.php?i=umhdBsPu
+* Install zOS in Hercules (dupe?) - http://pastebin.com/raw/umhdBsPu
 * SSH To VirtualBox from host - http://stackoverflow.com/questions/5906441/how-to-ssh-to-a-virtualbox-guest-externally-through-a-host
 * Booting Z/OS Emulation Files with Hercules - http://leo.steamr.com/2012/07/booting-zos-emulation-files-with-hercules/
 * I got mainframed! - http://phocean.net/2013/05/28/my-goodness-i-got-mainframed.html

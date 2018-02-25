@@ -22,6 +22,7 @@ Let's start with a *task list*. This will list key things I'm working on, couple
 
 ### In Progress
 
+- [ ] - [dn42 Node](projects/networking/dn42-node.md) (2017)
 - [ ] - [z/OS Mainframe](projects/emulation/zos-mainframe/zos-mainframe.md) (2015)
 - [ ] - [RC2014 Plus](prohects/hardware/rc2014-plus.md) (2018-01-01)
 - [ ] - [Magazine Scans](projects/scans/magazine-scans.md) (2013)
@@ -50,6 +51,7 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [Amazon Dash Button Hacks](research/amazon-dash-button-hacks.md)
 - [ ] - [Arduino](research/arduino.md)
 - [ ] - [Beaglebone Black](research/beaglebone-black.md)
+- [ ] - [BGP](research/bgp.md)
 - [ ] - [Bulletin Board System](research/bbs.md)
 - [ ] - [Cisco ATA 186 SIP](research/cisco-ata-186-sip.md)
 - [ ] - [cjdns](research/cjdns.md)
@@ -58,13 +60,18 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [Google Search Appliance](research/google-search-appliance.md)
 - [ ] - [GPG](research/gpg.md)
 - [ ] - HAM Radio
+- [ ] - [Incentivized Mesh](research/incentivised-mesh.md)
+- [ ] - [IPv6](research/ipv6.md)
+- [ ] - [IPv6](research/ipv6.md)
 - [ ] - [IRC](research/irc.md)
 - [ ] - [JeOS &(Just Enough OS)](research/jeos.md)
 - [ ] - [Mailgun](research/mailgun.md)
+- [ ] - [Matrix](research/matrix.md)
 - [ ] - [Mechanical Keyboards](research/mechanical-keyboards.md)
 - [ ] - [N64 Hacks](research/n64-hacks.md)
 - [ ] - [OpenNIC Tier 2 Server](research/opennic-tier-2-server.md)
 - [ ] - [PBX](research/pbx.md)
+- [ ] - [PC Engines](research/pc-engines.md)
 - [ ] - [Pirate Radio](research/pirate-radio.md)
 - [ ] - [Plan9 System](research/plan9-system.md)
 - [ ] - [Pogoplug Hacks](research/pogoplug-hacks.md)

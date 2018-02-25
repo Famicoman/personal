@@ -21,7 +21,7 @@
 * Set up your own VPN for torrenting - https://what.cd/forums.php?action=viewthread&threadid=104374
 * Build a tor server on a cheap vps - https://web.archive.org/web/20130730032018/http://kendildonic.wordpress.com/2011/08/03/build-a-tor-hidden-service-onion-web-site-with-a-cheap-vps
 * Ubuntu Seedbox with rtorrent | rutorrent | pureftpd | multi-user (optional) - http://forums.rutorrent.org/?topic=256.0
-
+* Disk Encryption: hard and flash drives - https://we.riseup.net/riseuphelp+en/disk-encryption-kde
 
 ## Native
 
