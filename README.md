@@ -49,6 +49,7 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [**CONSUME!**](research/consume.md)
 - [ ] - [**Decentralized Tech**](research/decentralized-tech.md)
 - [ ] - [Amazon Dash Button Hacks](research/amazon-dash-button-hacks.md)
+- [ ] - [Archive.org](research/archive-org.md)
 - [ ] - [Arduino](research/arduino.md)
 - [ ] - [Beaglebone Black](research/beaglebone-black.md)
 - [ ] - [BGP](research/bgp.md)
@@ -57,6 +58,7 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [cjdns](research/cjdns.md)
 - [ ] - [Dial-up ISP](research/dial-up-isp.md)
 - [ ] - [Emulation](research/emulation.md)
+- [ ] - [Floppy Archiving](research/floppy-archiving.md)
 - [ ] - [Google Search Appliance](research/google-search-appliance.md)
 - [ ] - [GPG](research/gpg.md)
 - [ ] - HAM Radio
