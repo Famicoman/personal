@@ -6,4 +6,5 @@ There looks to be some resources for FREE access to text-only Usenet through a f
 
 * Eternal September - https://www.eternal-september.org/
 * aioe.org - https://news.aioe.org/documentation/how-to-setup-a-feed-with-aioeorg/
+* Usenet, authentication, and engineering: early design decisions for Usenet - https://news.ycombinator.com/item?id=16473679
 
