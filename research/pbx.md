@@ -11,3 +11,4 @@
 * Incredible PBX for Raspberry Pi - http://nerdvittles.com/?p=8178
 * FreePBX Voip.ms Outbound routes - http://pbxinaflash.com/community/index.php?threads/voip-ms-outbound-routes.14035/
 * Dialing Rules & Patterns - http://wiki.voip.ms/article/Dialing_Rules_and_Patterns
+* Phone Losers Of America Telephone Network Interface - http://www.phonelosers.org/tni/
