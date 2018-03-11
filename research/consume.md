@@ -55,3 +55,4 @@ These things need to be read and processed. Newest stuff goes on top!
 * The Layer 8 Network - http://layer8.network/
 * Introduction to Networking - http://openbookproject.net/courses/intro2ict/networking/intro.html
 * The Radio Specrum Archive - http://spectrumarchive.org/
+* Hypercard Zine - https://news.ycombinator.com/item?id=16548508
