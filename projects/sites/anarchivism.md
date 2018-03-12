@@ -43,6 +43,10 @@
 * Stuck In The Middle of Somewhere - https://web.archive.org/web/20131211073952/http://sitmos.net/video.php
 * wasdtv
 * Digital Undergound TV - http://www.metacafe.com/channels/digitalundergroundtv/
+* OldGoldTech - http://oldgoldtech.tv/
+* Brotherhood of leet - http://www.brotherhoodofleet.com/
+* DeAuthThis - http://blip.tv/deauththis/
+* Developing Philly - http://developingphilly.com/
 
 ### Documentaries
 
@@ -63,6 +67,8 @@
 * Atari: Game Over - http://video.xbox.com/movie/atari-game-over/4b8575c6-bd05-48e8-92c9-c61ba57e8025
 * Planned Obsolescence Documentary - https://archive.org/details/PlannedObsolescenceDocumentary
 * The Internet's Own Boy: The Story of Aaron Swartz (June 27, 2014) - https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz
+* Two Hands Project - https://archive.org/details/twohandsproject
+* Jason Scott Documentaries (dead) - http://documentary.textfiles.com
 
 ### Magazines
 

@@ -56,3 +56,4 @@ These things need to be read and processed. Newest stuff goes on top!
 * Introduction to Networking - http://openbookproject.net/courses/intro2ict/networking/intro.html
 * The Radio Specrum Archive - http://spectrumarchive.org/
 * Hypercard Zine - https://news.ycombinator.com/item?id=16548508
+* Russia Telekom - https://web.archive.org/web/20170930022223/http://www.russiatelekom.info/
