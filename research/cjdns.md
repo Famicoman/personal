@@ -19,3 +19,4 @@ A lot of this stuff is really, really old and possibly irrelevant. Needs cleanup
 * Public Node in Newark, NJ - http://transitiontech.ca/public
 * Public Node List - https://pad.meshwith.me/p/public
 * Raspberry Pi into Wifi Router - http://raspberrypihq.com/how-to-turn-a-raspberry-pi-into-a-wifi-router/
+* CJDNS Supernodes Purposal - https://cryptpad.fr/pad/#/1/view/XUHwVwqprc60wBSM7OtSRA/Pn-Qq9z93zCGlznWqU1-loEe08nxkJY8f6ekmr7RjqU/

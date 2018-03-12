@@ -8,3 +8,4 @@ I'm currently working on setting up one or more nodes on the dn42 network. I hav
 * howto/bird - https://dn42.eu/howto/Bird
 * UCIS IX - http://ix.ucis.nl/
 * bird-dn42 - https://github.com/Mic92/bird-dn42/tree/master/wireguard
+* Route BGP with Bird - https://www.packet.net/developers/guides/route-bgp-with-bird/

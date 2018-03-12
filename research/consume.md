@@ -57,3 +57,34 @@ These things need to be read and processed. Newest stuff goes on top!
 * The Radio Specrum Archive - http://spectrumarchive.org/
 * Hypercard Zine - https://news.ycombinator.com/item?id=16548508
 * Russia Telekom - https://web.archive.org/web/20170930022223/http://www.russiatelekom.info/
+* HomeNet HowTo - https://www.homenethowto.com/
+* How the West Was Wired - https://www.inc.com/magazine/19970615/1416.html
+* Bruce Sterling in 1994, talking about crypto backdoors and the future of VR - https://boingboing.net/2017/08/04/shots-fired.html
+* Teenage Engineering - https://www.teenageengineering.com/products
+* The Life and Sad Demise of a Party Robot - https://www.vice.com/en_au/article/4w79bj/the-life-of-a-party-robot-915
+* NeXT: Steve Jobs’ dot.com IPO that Never Happened - http://www.computerhistory.org/atchm/next-steve-jobs-dot-com-ipo-that-never-happened/
+* DEF CON 22 - Dark Mail - https://www.youtube.com/watch?v=TWzvXaxR6us
+* Magma Mail Daemon - https://magmadaemon.org/
+* Gnoosic (New Music) - http://www.gnoosic.com/opinion.php?s=159106366
+* Schleuder (GPG Mailing List) - https://schleuder2.nadir.org/
+* Ask HN: A good primer on cryptocurrencies? - https://news.ycombinator.com/item?id=14659775
+* FUTURE FOSSILS #0033: Jon Lebkowsky on Pluralist Utopias & The Web’s Wild West - https://www.mindpodnetwork.com/future-fossils-0033-jon-lebkowsky-pluralist-utopias-webs-wild-west/
+* The Untold Story of Atari Founder Nolan Bushnell’s Visionary 1980s Tech Incubator - https://www.fastcompany.com/3068135/the-untold-story-of-atari-founder-nolan-bushnells-visionary-1980s-tech-incubator
+* Hippy Internet - The Whole Earth Catalog - http://www.bbc.co.uk/programmes/p03cp8c2
+* The Ghost of Invention: A Visit to Bell Labs - https://www.wired.com/2014/09/coupland-bell-labs/
+* Oppressive regime has cut off our internet (3G & Cable) from our region. Our people fear possible genocide as a result. Any ideas to restore or provide internet to some people in the region? - https://ceddit.com/r/darknetplan/comments/5pjanc/oppressive_regime_has_cut_off_our_internet_3g/
+* International Journal of Proof-of-Concept or Get The Fuck Out (PoC||GTFO or PoC or GTFO) - https://www.alchemistowl.org/pocorgtfo/
+* Ask HN: What's your favorite tech talk? - https://news.ycombinator.com/item?id=12637239
+* Linux Home Networking Tutorials - http://www.linuxhomenetworking.com/
+* dekuNukem's Log - https://dekunukem.wordpress.com/
+* Set up Synapse (Matrix Homeserver) on Ubuntu 16.04 - https://www.topbug.net/blog/2016/12/05/set-up-synapse-matrix-homeserver-on-ubuntu-16-04/
+* David Bowie’s Favorite Albums - https://www.vanityfair.com/culture/2016/04/david-bowie-favorite-albums
+* WIP Wearable Computer - https://www.reddit.com/r/Cyberpunk/comments/51i11f/wip_wearable_computer_took_this_pic_last_night/
+* Disc Encryption - https://we.riseup.net/riseuphelp+en/disk-encryption-kde
+* Mnet - https://en.m.wikipedia.org/wiki/Mnet_(peer-to-peer_network)#MojoNation
+* Cyberpunk Horror: A List of Man and Machine Terrors - https://www.neondystopia.com/cyberpunk-movies-anime/cyberpunk-horror-a-list-of-man-and-machine-terrors/
+* Ranking the Cyber Cinema of the 1990s! - https://www.tor.com/2016/06/10/ranking-the-cyber-cinema-of-the-1990s/
+* 1995: The Year That Killed Cyberpunk - https://www.pastemagazine.com/articles/2014/12/year-that-killed-cyberpunk.html
+* calculon/80 - http://calculon80.j89.se/
+* Ask HN: Would you be interested in a “cyberpunk” inspired news site? - https://news.ycombinator.com/item?id=14231642
+* 
