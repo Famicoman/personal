@@ -6,3 +6,5 @@
 * My Raspberry Pi Thinks Its a Mainframe - http://www.designspark.com/content/my-raspberry-pi-thinks-its-mainframe
 * Previous (NeXT Emulator) - http://previous.alternative-system.com/
 * VAX MP - http://www.oboguev.net/vax_mp/
+* OpenVMS Hobbyist Portal - http://www.openvmshobbyist.com/news.php
+* 9front - https://github.com/sirnewton01/rpi-9front/releases

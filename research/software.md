@@ -22,11 +22,19 @@
 * Build a tor server on a cheap vps - https://web.archive.org/web/20130730032018/http://kendildonic.wordpress.com/2011/08/03/build-a-tor-hidden-service-onion-web-site-with-a-cheap-vps
 * Ubuntu Seedbox with rtorrent | rutorrent | pureftpd | multi-user (optional) - http://forums.rutorrent.org/?topic=256.0
 * Disk Encryption: hard and flash drives - https://we.riseup.net/riseuphelp+en/disk-encryption-kde
+* SSHFS - https://wiki.archlinux.org/index.php/SSHFS
+* Find files with 777 permissions - https://superuser.com/questions/71041/find-all-files-on-server-with-777-permissions/71043#71043
+* rtorrent and rutorrent - https://jes.sc/kb/rTorrent-ruTorrent-Seedbox-Guide.php
+* How to Install and Configure: ruTorrent, rTorrent, Libtorrent, XMLRPC, Screen (Debian 8 Jessie) - https://terminal28.com/how-to-install-and-configure-rutorrent-rtorrent-libtorrent-xmlrpc-screen-debian-8-jessie/
+* Configuring OpenVPN on OpenWRT - https://blog.ipredator.se/howto/openwrt/configuring-openvpn-on-openwrt.html
+* Direct wifi traffic through a VPN with openwrt - https://watchmysys.com/blog/2014/05/wifi-vpn-openwrt-wr703n/
+* How To Install MediaWiki on Ubuntu 14.04 - https://www.digitalocean.com/community/tutorials/how-to-install-mediawiki-on-ubuntu-14-04
 
 ## Native
 
 * Packet Garden - http://ljudmila.org/~julian/pg/
 * Backup and covert Blu-Rays - http://forum.videohelp.com/threads/296167-How-to-backup-and-convert-Blu-ray-to-MP4-HD-or-MKV-HD
+* Official SDK's for Sony, Sega, Nintendo, Atari, NEC, Panasonic Systems - https://www.emuparadise.me/sdk/
 
 ## Web-based
 

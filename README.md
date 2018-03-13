@@ -78,6 +78,7 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [Plan9 System](research/plan9-system.md)
 - [ ] - [Pogoplug Hacks](research/pogoplug-hacks.md)
 - [ ] - [Raspberry Pi](research/raspberry-pi.md)
+- [ ] - [SILC](research/silc.md)
 - [ ] - [SKS Keyserver](research/sks-keyserver.md)
 - [ ] - [Software](research/software.md)
 - [ ] - [Tor](research/tor.md)

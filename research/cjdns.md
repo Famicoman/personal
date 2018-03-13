@@ -20,3 +20,7 @@ A lot of this stuff is really, really old and possibly irrelevant. Needs cleanup
 * Public Node List - https://pad.meshwith.me/p/public
 * Raspberry Pi into Wifi Router - http://raspberrypihq.com/how-to-turn-a-raspberry-pi-into-a-wifi-router/
 * CJDNS Supernodes Purposal - https://cryptpad.fr/pad/#/1/view/XUHwVwqprc60wBSM7OtSRA/Pn-Qq9z93zCGlznWqU1-loEe08nxkJY8f6ekmr7RjqU/
+* Cjdroute.net - https://cjdroute.net/forum/index.php?sid=eab3059036f6a8905d56f50cedf00b28
+* Hyperboria old wiki - https://github.com/hyperboria/old-wiki?files=1
+* Docs - https://docs.meshwith.me/
+* Docs2 - https://docs2.meshwith.me/

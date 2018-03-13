@@ -35,6 +35,8 @@
 * http://irc.hitb.org/events/
 * https://vimeo.com/ekoparty/videos/page:5/sort:date
 * http://archive.li/q9JZq
+* Battlemesh Downloads - https://download.battlemesh.org/
+* A History of Jason Never Shutting Up - http://ascii.textfiles.com/speaking
 
 ### IPTV / Podcasts
 
@@ -47,6 +49,9 @@
 * Brotherhood of leet - http://www.brotherhoodofleet.com/
 * DeAuthThis - http://blip.tv/deauththis/
 * Developing Philly - http://developingphilly.com/
+* NeoFiles - https://web.archive.org/web/20050721034507/http://www.mondoglobo.net/neofiles/
+* An Open Source History of Mondo 2000 - https://www.kickstarter.com/blog/podcast-an-open-source-history-of-mondo-2000
+* Decentralize.fm - https://decentralize.fm/
 
 ### Documentaries
 
@@ -69,6 +74,12 @@
 * The Internet's Own Boy: The Story of Aaron Swartz (June 27, 2014) - https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz
 * Two Hands Project - https://archive.org/details/twohandsproject
 * Jason Scott Documentaries (dead) - http://documentary.textfiles.com
+* ReMade: The Rebirth of the Maker Movement (1st Trailer) - https://vimeo.com/15729047
+* Silicon Cowboys
+* Insert Coin - https://www.kickstarter.com/projects/joshuatsui/insert-coin-inside-midways-90s-revolution/posts/1567903
+* Hypertext: an Educational Experiment in English and Computer Science at Brown University - https://archive.org/details/AndyVanDamHypertextFilm
+* Traceroute - https://vimeo.com/ondemand/traceroute/147111732
+* Owned
 
 ### Magazines
 
@@ -89,12 +100,17 @@
 * TEL Newsletter - http://servv89pn0aj.sn.sourcedns.com/~gbpprorg/2600/TEL/index.html
 * Videophile Newsletter - http://www.betainfoguide.net/tvnpage.html
 * Videophile Newsletter - https://web.archive.org/web/20090704230040/http://pages.prodigy.net/handel31/tvnpage.html
+* Literary Machines - https://archive.org/details/@jonur
+* Morph's Outpost - https://www.wired.com/1993/04/morphs-outpost/
+* Cheap Truth - https://en.m.wikipedia.org/wiki/Cheap_Truth
+* Interesting Times - https://web.archive.org/web/20171216061019/http://interestingtimesmagazine.net
 
 ### eZines
 
 * Chaos Digest
 * 40Hex
 * Computer Underground Digest
+* The Torist - http://thetorist.tumblr.com/
 
 ### Index On Anarchivism
 

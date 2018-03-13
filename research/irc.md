@@ -13,3 +13,4 @@
 * Irssi - https://wiki.swiftirc.net/wiki/Irssi
 * CertFP - https://freenode.net/kb/answer/certfp
 * How do I configure irssi? - https://askubuntu.com/questions/61549/how-do-i-configure-irssi
+* Setting up an IRC server with charybdis and atheme - http://matthughes.io/setting-up-an-irc-server-with-charybdis-and-atheme/

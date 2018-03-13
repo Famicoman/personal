@@ -9,3 +9,5 @@ I'm currently working on setting up one or more nodes on the dn42 network. I hav
 * UCIS IX - http://ix.ucis.nl/
 * bird-dn42 - https://github.com/Mic92/bird-dn42/tree/master/wireguard
 * Route BGP with Bird - https://www.packet.net/developers/guides/route-bgp-with-bird/
+* Souris Registry - https://util.sour.is/
+* Getting Started with DN42 - https://damn.technology/getting-started-with-dn42
