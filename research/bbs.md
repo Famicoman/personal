@@ -2,10 +2,12 @@
 
 * Break Into Chat Wiki - http://breakintochat.com/wiki/
 * BBS over VoIP - https://www.reddit.com/r/bbs/comments/5btgfa/would_anyone_here_call_a_dialup_bbs/
+* Unix/Linux BBS server written from scratch (not port of old code) - https://www.reddit.com/r/bbs/comments/2s8k82/unixlinux_bbs_server_written_from_scratch_not/
 
 ## Software
 
 * x84 - https://github.com/jquast/x84/tree/master/x84
+* Disboardia - http://blog.austinseraphin.com/2016/02/02/disboardia/
 
 ### Synchronet
 

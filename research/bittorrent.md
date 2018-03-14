@@ -21,3 +21,9 @@
 * We already have distributed trackers (DHT). Is anyone working on distributed metadata (comments, descriptions) databases? - https://www.reddit.com/r/trackers/comments/5drpve/we_already_have_distributed_trackers_dht_is/
 * Does decentralized BitTorrent software exist to create a private tracker? - https://www.reddit.com/r/trackers/comments/5c2we4/does_decentralized_bittorrent_software_exist_to/
 * Migrating from xbtit to gazelle - https://www.reddit.com/r/trackers/comments/56mx9j/migrating_from_xbtit_to_gazelle/
+* What is the cost of running a tracker? - https://www.reddit.com/r/trackers/comments/3bbsmp/what_is_the_cost_of_running_a_tracker/
+* How hard would it be to create and maintain a tracker? - https://www.reddit.com/r/trackers/comments/3dvhl1/how_hard_would_it_be_to_create_and_maintain_a/
+* Looking to start a smallish private tracker - https://www.reddit.com/r/trackers/comments/40oz4r/looking_to_start_a_smallish_private_tracker/
+* What are some tips for torrent site operators? - https://www.reddit.com/r/trackers/comments/4wibu2/what_are_some_tips_for_torrent_site_operators/
+* An Open Letter to Tracker Staff - https://www.reddit.com/r/trackers/comments/4ltpcj/an_open_letter_to_tracker_staff/
+* Hosting for torrent sites - https://www.reddit.com/r/trackers/comments/4lk9x7/hosting_for_torrent_sites/

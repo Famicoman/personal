@@ -12,6 +12,7 @@
 * Creating Private Onion Services - https://matt.traudt.xyz/p/GmiiUPQL.html
 * Configuring a Tor relay on Digital Ocean - https://www.reddit.com/r/TOR/comments/5gg3y1/configuring_a_tor_relay_on_digital_ocean/
 * Cooking with Onions: Finding the OnionBalance - https://blog.torproject.org/cooking-onions-finding-onionbalance
+* 30c3: To Protect And Infect, Part 2 - https://www.youtube.com/watch?v=b0w36GAyZIA
 
 ## V3 Onion Series
 

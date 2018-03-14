@@ -161,6 +161,9 @@ These things need to be read and processed. Newest stuff goes on top!
 * Decentralized Web Summit - https://decentralizedweb.net/
 * Revisiting the Original 1992 WIRED Media Kit - http://brianstorms.com/2013/04/revisiting-the-original-1992-wired-media-kit.html
 * Stack Overflow: How We Do Deployment - 2016 Edition - https://nickcraver.com/blog/2016/05/03/stack-overflow-how-we-do-deployment-2016-edition/
+* Stack Overflow: The Hardware - 2016 Edition - https://nickcraver.com/blog/2016/03/29/stack-overflow-the-hardware-2016-edition/
+* Stack Overflow: The Architecture - 2016 Edition - https://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/
+* Managing Machines at Spotify - https://labs.spotify.com/2016/03/25/managing-machines-at-spotify/
 * The Early Video Project - http://davidsonsfiles.org/Videobooks.html
 * From Paintbox to PC: How London became the home of Hollywood VFX - https://arstechnica.com/gaming/2016/05/how-london-became-the-home-of-hollywood-vfx-2/
 * Hermicity - http://offline.computer/hermicity/
@@ -265,3 +268,62 @@ Cuckoo Automated Malware Analysis - https://cuckoosandbox.org/
 * Hound Demo - https://www.youtube.com/watch?v=M1ONXea0mXg&feature=youtu.be
 * DJEVELEN-BBS [Part 1] - https://www.reddit.com/r/nosleep/comments/535uet/djevelenbbs_part_1/
 * What is something very Cyberpunk that you have encountered in your real life? - https://www.reddit.com/r/Cyberpunk/comments/513alg/what_is_something_very_cyberpunk_that_you_have/
+* BITCOINCARD - https://vimeo.com/40711689
+* Cypherpunk rising: WikiLeaks, encryption, and the coming surveillance dystopia - https://www.theverge.com/2013/3/7/4036040/cypherpunks-julian-assange-wikileaks-encryption-surveillance-dystopia
+* Laserdisc control software - https://www.reddit.com/r/LaserDisc/comments/16u3ag/does_anyone_know_where_i_can_find_laserdisc/
+* Cuba has an illegal 'Internet' that connects thousands of computers - https://www.techspot.com/news/59527-cuba-has-illegal-internet-connects-thousands-computers.html?
+* "Was isolated from 1999 to 2006 with a 486. Built my own late 80s OS"  - https://news.ycombinator.com/item?id=8747053
+* HOW THE WORLD'S FIRST COMPUTER WAS RESCUED FROM THE SCRAP HEAP - https://www.wired.com/2014/11/eniac-unearthed/
+* Why modern music owes a big debt to Japanese video games - https://www.theverge.com/2014/11/19/7244859/rbma-diggin-in-the-carts
+* The Archivist: A DIY Book Scanner - https://makezine.com/projects/make-41-tinkering-toys/diy-book-scanner/
+* How to be a Linux admin - https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/
+* 500Mbps broadband for $55 a month offered by wireless ISP - https://arstechnica.com/information-technology/2015/06/500mbps-broadband-for-55-a-month-offered-by-wireless-isp/
+* Dial-Up Access by Using the Michigan Terminal System - https://www.youtube.com/watch?v=cO6asQjQmPM
+* Garage Virtual Reality: DIY VR from 1993 - https://web.archive.org/web/20140420202400/http://thegrue.com/garage-virtual-reality-diy-vr-1993/
+* Sloot Digital Coding System - https://stackoverflow.com/questions/41486933/sloot-digital-coding-system
+* Surfing the Internet… from my TRS-80 Model 100 - https://arstechnica.com/information-technology/2015/08/surfing-the-internet-from-my-trs-80-model-100/
+* Adding a Hard Drive to an Original IBM PC Using a Raspberry Pi - http://www.insentricity.com/a.cl/244/adding-a-hard-drive-to-an-original-ibm-pc-using-a-raspberry-pi
+* A Neural Network in 13 lines of Python (Part 2 - Gradient Descent) - http://iamtrask.github.io/2015/07/27/python-network-part2/
+* A Neural Network in 11 lines of Python (Part 1) - http://iamtrask.github.io/2015/07/12/basic-python-network/
+* I pulled an Apple II Plus out of my parents’ attic. Now what? - https://arstechnica.com/information-technology/2015/07/i-pulled-an-apple-ii-plus-out-of-my-parents-attic-now-what/
+* The diskette that blew Trixter’s mind - https://trixter.oldskool.org/2008/09/28/the-diskette-that-blew-trixters-mind/
+* Modems, wArEz, and ANSI art: Remembering BBS life at 2400bps - https://arstechnica.com/gadgets/2014/01/modems-warez-and-ansi-art-remembering-bbs-life-at-2400bps/
+* Part VI: TCP of 64 Network DO’s and DON’Ts for Multi-Player Game Developers - http://ithare.com/64-network-dos-and-donts-for-multi-player-game-developers-part-vi-tcp/
+* LPT Request: How to take effective and organized notes? - https://www.reddit.com/r/LifeProTips/comments/3cc208/lpt_request_how_to_take_effective_and_organized/
+* Meshnet for Music Festivals? - https://www.reddit.com/r/darknetplan/comments/3hhgnx/meshnet_for_music_festivals/
+* TELECOM TIME MACHINE - http://www.instructables.com/id/Telecom-Time-Machine/
+* Laundry Automation: insight and notifications - https://home-assistant.io/blog/2015/08/26/laundry-automation-with-moteino-mqtt-and-home-assistant/
+* Replaced dead iPod Classic SSHD with SD Card Reader - https://imgur.com/a/Azd1Y
+* Shaun Kenny - VideoCipher II Bible (New Testament) - https://www.youtube.com/watch?v=fyjbtAarEu4
+* Create a 900mhz wireless mesh network out of low powered computers with each node hosting a decentralized craigslist, messaging system, and domain registry. Regular users would use their mobile phones to connect to this node via wifi to access its services - https://www.reddit.com/r/Lightbulb/comments/3p045b/create_a_900mhz_wireless_mesh_network_out_of_low/
+* Recommendations for Beginners to learn how to network at home and how to do network projects at home to help learn by doing (instead of learning how to pass an exam)? - https://www.reddit.com/r/HomeNetworking/comments/3w9voj/recommendations_for_beginners_to_learn_how_to/
+* HE FOUR PILLARS OF OBJECT ORIENTED DESIGN - https://web.archive.org/web/20151011201811/https://theleancoder.wordpress.com/2015/10/11/the-four-pillars-of-object-oriented-design/
+* How to Produce Good Documentation - http://www.educationalcentre.co.uk/how-to-produce-good-documentation-part-1-the-foundation-of-any-it-infrastructure/
+* What is your favorite command? - https://www.reddit.com/r/sysadmin/comments/3xh7h4/what_is_your_favorite_command/cy4xcm5/
+* Uncanny Valley Short Film - https://www.youtube.com/watch?v=gR3lXEH80Nw&feature=youtu.be
+* Meet a Shenzhen Maker: Mr. Chen - http://www.hoektronics.com/2013/01/05/meet-a-shenzhen-maker-mr-chen/
+* Is there a Windows version of the epic "How did you get your start?" post? - https://www.reddit.com/r/sysadmin/comments/3zvor9/is_there_a_windows_version_of_the_epic_how_did/
+* What is busybox and what is it used for in the Linux boot process ? - https://www.reddit.com/r/linux/comments/1p4tb9/what_is_busybox_and_what_is_it_used_for_in_the/
+* The software engineer’s guide to asserting dominance in the workplace - https://medium.com/feature-creep/the-software-engineer-s-guide-to-asserting-office-dominance-ddea7b598df7
+* Twilight of the Phreaks: The Fates of the 10 Best Early Hackers - https://motherboard.vice.com/en_us/article/wnn7by/twilight-of-the-phreaks-the-fates-of-the-10-best-early-hackers
+* Download Robert Anton Wilson – Conspiracy Q&A FNORD - http://www.acceler8or.com/wp-content/uploads/2012/01/RAW-Conspiracy-QA.mp3
+* Gibson & Leary Audio (MONDO 2000 History Project) lo-fi - http://www.acceler8or.com/wp-content/uploads/2011/12/learyGibsonMP3_cleaned.mp3
+* Martin Lee discussing LSD, the CIA, and 1960s counterculture. MKULTRA - http://www.acceler8or.com/wp-content/uploads/2012/02/MartinLee_LSD-CIA-Counterculture.mp3
+* Data hoarders - What automated tasks or scripts are you running? - https://www.reddit.com/r/DataHoarder/comments/49dun4/data_hoarders_what_automated_tasks_or_scripts_are/
+* What are the most interesting CA projects going on right now? - https://www.reddit.com/r/CryptoAnarchy/comments/49qlt6/what_are_the_most_interesting_ca_projects_going/
+* The Website Is Down 1, 2, 3, 4, and 4.5 - https://www.youtube.com/watch?v=W8_Kfjo3VjU&list=PLUoLVDw98mFldkXExiD54Fwm0vITfE_fG
+* Defeating Ssl Using Sslstrip (Marlinspike Blackhat) - https://www.youtube.com/watch?v=MFol6IMbZ7Y
+* What "infrastructure" projects do you think offer the most radical potential to improve the free software, open internet, and libre technology world? - https://www.reddit.com/r/linux/comments/422i3h/what_infrastructure_projects_do_you_think_offer/
+* History of IRC (Internet Relay Chat) - https://daniel.haxx.se/irchistory.html
+* Open Homelab - https://openhomelab.org/index.php?title=Main_Page
+* Email-Worm.Win32.Loveletter (ILOVEYOU Worm) - https://www.youtube.com/watch?v=ZqkFfF5kAvw&feature=youtu.be
+* Fantastic radio show about virtual reality, c. 1992 - https://boingboing.net/2016/04/25/fantastic-radio-show-about-vir.html
+* Building a Home Lab to Become a Malware Hunter - A Beginner’s Guide - https://www.alienvault.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide
+* 4-node Open Compute Cluster Build - https://www.reddit.com/r/homelab/comments/4f7w82/4node_open_compute_cluster_build/
+* Why was Doom developed on a NeXT? - https://www.quora.com/Why-was-Doom-developed-on-a-NeXT?srid=uBz7H
+* Deep Learning - https://iamtrask.github.io/2016/08/17/grokking-deep-learning/
+* Describe your ideal Cyberpunk videogame. - https://www.reddit.com/r/Cyberpunk/comments/4q13uh/describe_your_ideal_cyberpunk_videogame/
+* Timothy Leary Neurocomics - https://www.reddit.com/r/Cyberpunk/comments/4pgnhr/yesss_our_godfather_timothy_learys_neurocomics/
+* bike messengers from the early 90s - https://www.youtube.com/watch?v=LQMJhapH1Z8
+* Meet the Hollowheads (1989) aka Life on the Edge - https://www.youtube.com/watch?v=RhwErX-V--A&feature=youtu.be
+* I realized that if you just change some words for everyday things, modern life becomes extremely cyberpunk. Here's the nonfiction story of my weekend. - https://www.reddit.com/r/Cyberpunk/comments/4yg563/i_realized_that_if_you_just_change_some_words_for/

@@ -43,6 +43,41 @@
 * Alan Kay Predicts Current Internet Services in 1990, Before Anyone Even had Internet - https://www.youtube.com/watch?v=4OQA0wMRCeo
 * This is SEGA TEST (1996) - https://vimeo.com/166472288
 * Ars Electronica 1990, VR-Symposium with Jaron Lanier, Marvin Minsky, Timothy Leary, John Perry Barlow, Bruce Sterling and William Gibson. (German narration, most speeches are in English) - https://vimeo.com/14888138
+* UCLA’s 1948 Mechanical Computer - https://vimeo.com/70589461
+* Radio Teletypewriter Set AN/GRC-46 (1963) - United States Army - https://www.youtube.com/watch?v=DkYWwN4EmiE
+* American Exxxtasy Descrambler (1985) - https://www.youtube.com/watch?v=0tRjr6uImXs&feature=share
+* Sabrina In "Plight Of The Artist" (Amiga) - https://www.youtube.com/watch?v=XyrgC6XTp28
+* POWER OF CHOICE Nintendo Demonstrator Program - https://www.youtube.com/watch?v=_PaMvtWWQ_8&feature=youtu.be
+* Nintendo Training 1991 - https://www.youtube.com/watch?v=WYjgHLFZMa0
+* Blockbuster Kid Print Instructional Video - https://www.youtube.com/watch?v=ydCfesJXmLo
+* Beginners Guide To The Internet Starring John Turturro - https://archive.org/details/BeginnersGuideToInternet
+* Cliff Hanger laserdisc arcade game promotional video - https://www.youtube.com/watch?v=mc5MKWJ7j6Y
+* Pioneer LaserDisc - What It Is with Patrick O'Neal - https://www.youtube.com/watch?v=FQVG8K_cCek
+* Old Symantec Antivirus Video - About Viruses - https://www.youtube.com/watch?v=ak8avdFoDik
+* Early CGI Facial Animation (1974) - https://www.youtube.com/watch?v=SPMFhcC4SvQ
+* Creepy Anti-Cable (Pay TV) PSA - https://www.youtube.com/watch?v=QIgZHZpiq1U
+* Phone Phreak Captain Crunch Rare Interview from '78 - https://www.youtube.com/watch?v=n6TjjE8NHV0&feature=share
+* The Greatest Computer Programmer Was Its Firs - https://www.youtube.com/watch?v=Po3vwMq_2xA
+* The Digital Love Industry - https://video.vice.com/en_us/video/the-digital-love-industry/559aa3d0300e4a9d5dab4e1d
+* Wired In - http://mediaburn.org/video/wired-in-16-minute-video-demo/
+* Apple's Future Concept Video Made In 1987 - Based In 1997 - https://www.youtube.com/watch?v=ZyFvRX3Y_7A
+* Fringe - http://fringe.davesource.com/Fringe/
+* Virtual Reality 1991 - https://www.youtube.com/watch?v=rVn3H93Ysag
+* Pixar in a Box - https://www.youtube.com/watch?v=3Iu1Z0h1i1Y
+* Old 3D Computer Graphics Showreel from 1992 - https://www.youtube.com/watch?v=HKfQN5xYaQo
+* Video Drug 3 - https://www.youtube.com/watch?v=D1ChY3vIAok
+* bulletin 1000 video magazine Volume 1 - https://www.youtube.com/watch?v=g8hbjY_SMGY&feature=youtu.be
+* The Lost Art of Canada's Doomed Pre-Internet Web - https://www.youtube.com/watch?v=vjMUe7hkwRs
+* MAGI Synthavision Demo Reel (1980) - https://www.youtube.com/watch?v=lAYaX6NuI4M
+* Pixar Marketing Tape 1990 - https://www.youtube.com/watch?v=2GIVk6YebS0&feature=youtu.be
+* Houston Community College : How to Buy a Computer (Fall 1995) - https://www.youtube.com/watch?v=BhWpNQAGU4M
+* Video Professor: Learning Windows 3.1 - https://www.youtube.com/watch?v=KRi5mjMgORk
+* 1994 Pirate TV - Episode 1 - https://www.youtube.com/watch?v=i5FmYIypVIg
+* The New Literacy - http://www.imdb.com/title/tt5921702/
+* The Computer Chronicles - New PCs (1996) - https://www.youtube.com/watch?v=cElVxDoCEsI&feature=youtu.be
+* Silly MS-DOS 5 Promo Video (High Quality) - https://www.youtube.com/watch?v=WxC6PytZMqc
+* Mr. Robot Decoded - https://www.geek.com/news/mr-robot-decoded-explores-how-authentic-the-shows-hacking-is-1658537/
+* Discovery Channel Beyond 2000 Wearable Computers 1992 - https://www.youtube.com/watch?v=qbK-Bo3k9KQ
 
 ### Hacker Cons
 
@@ -75,6 +110,7 @@
 * Possibly Unsafe - https://www.patreon.com/possiblyunsafe?rf=80574&ty=2
 * Jason Scott & Uberleeto - http://archive.org/search.php?query=creator%3A%22Jason%20Scott%20and%20Uberleeto%22
 * BBS Podcasts - http://breakintochat.com/collections/podcasts/index.html
+* Cyberpunk Librarian - http://cyberpunklibrarian.com/
 
 ### Documentaries
 
@@ -112,6 +148,16 @@
 * Inside Pirate Radio - https://www.youtube.com/watch?v=D_oXEMu7Rzo
 * Kevin Mitnick: I Am Rebel - http://channel.nationalgeographic.com/i-am-rebel/
 * Zero Days - https://en.wikipedia.org/wiki/Zero_Days
+* Article 12 - http://www.article12themovie.com/
+* So wrong they're right - https://www.youtube.com/watch?v=B7nva7meVv0
+* HUMAN RESOURCES Social Engineering In The 20th Century - https://www.youtube.com/watch?v=4rnJEdDNDsI
+* 18 documentaries about vinyl and record collecting - http://coloredvinylrecords.com/blog/documentaries-about-vinyl-and-record-collecting/
+* Terminal Madness (A 1980 Documentary About Personal Computers) - https://www.youtube.com/watch?v=F4jr1I17Gxs
+* Videozine Cyberpunk I, Doc Raro - https://www.youtube.com/watch?v=MQ7CYeprqnU
+* Winners Tape All - https://winnerstapeall.vhx.tv/
+* BBC Three Documentary 'The Virtual Reality Virgin' - https://www.youtube.com/watch?v=HXFCapEFR0E
+* Machine Dreams - https://www.youtube.com/watch?v=SvGv1eOx8sQ
+* Moleman 2 - https://www.youtube.com/watch?v=5MexnBunH_g
 
 ### Magazines
 
@@ -143,6 +189,8 @@
 * Black Sun Magazine - https://www.behance.net/gallery/683793/Black-Sun-Magazine-Volume-1-Issue-2
 * Cyberpunk - Interface Magazine - https://www.scribd.com/document/317372604/Cyberpunk-Interface-Magazine-Volume-1-Number-4-pdf
 * Boot Magazine
+* Hyper Magazine #1 "Virtual Sex" - http://oldgamemags.tumblr.com/post/127400049346/hyper-magazine-1-it-may-be-possible-before
+* OZ - http://ro.uow.edu.au/ozlondon/
 
 ### eZines
 
@@ -150,11 +198,16 @@
 * 40Hex
 * Computer Underground Digest
 * The Torist - http://thetorist.tumblr.com/
+* anus - http://www.anus.com/zine/
 
 ### Books
 
 * Distributed Systems 3rd edition (2017) - https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/
 * Beej's Guide to Network Programming - http://beej.us/guide/bgnet/
+* Reverse Engineering for Beginners - https://beginners.re/
+* Build Your Own Computer books - https://www.ceddit.com/r/Piracy/comments/4avcqn/trying_to_find_a_pdfebook_for_an_oldrare_book/
+* IT Coloring books - https://www.reddit.com/r/sysadmin/comments/4bm8d5/adult_coloring_books_for_it_professionals/
+* Cyberpunk Coloringbook - https://www.reddit.com/r/Cyberpunk/comments/4irubn/just_finished_my_cyberpunk_colouring_book/
 
 ### Index On Anarchivism
 

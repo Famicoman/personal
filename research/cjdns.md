@@ -24,3 +24,5 @@ A lot of this stuff is really, really old and possibly irrelevant. Needs cleanup
 * Hyperboria old wiki - https://github.com/hyperboria/old-wiki?files=1
 * Docs - https://docs.meshwith.me/
 * Docs2 - https://docs2.meshwith.me/
+* Meshberry - https://nycmesh.net/meshberry/
+* How to get your BeagleBone Black running CJDNS with optimized NaCl (10x better performance) - https://www.reddit.com/r/hyperboria/comments/1flpty/how_to_get_your_beaglebone_black_running_cjdns/
