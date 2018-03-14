@@ -17,3 +17,4 @@
 * Airmesh - https://web.archive.org/web/20160922160227/http://www.netlore.co.uk/airmesh/
 * Wasabinet - http://gowasabi.net/
 * Guifi - https://en.wikipedia.org/wiki/Guifi.net
+* underdark-android - https://github.com/udark/underdark-android

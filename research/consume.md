@@ -187,6 +187,7 @@ Cuckoo Automated Malware Analysis - https://cuckoosandbox.org/
 * How a DIY Network Plans to Subvert Time Warner Cable's NYC Internet Monopoly - https://motherboard.vice.com/en_us/article/gv5qb4/how-a-diy-network-plans-to-subvert-time-warner-cables-nyc-internet-monopoly
 * You Can't javascript Under Pressure - http://zpalexander.com/you-cant-javascript-under-pressure/
 * the 414s: the original teenage hackers - https://thesprawl.org/simstim/414s-original-teenage-hackers/
+* I hacked into a nuclear facility in the '80s. You're welcome. - https://www.cnn.com/2015/03/11/tech/computer-hacker-essay-414s/index.html
 * gomma.tv - http://www.gomma.tv/videoz/index.html
 * Unscrewed; a Story About OpenBSD - http://www.skeptech.org/blog/2013/01/13/unscrewed-a-story-about-openbsd/
 * Websites most people probably haven't heard of - https://www.reddit.com/r/AskReddit/comments/3co3yc/what_website_could_you_recommend_that_most/csxkmqr/
@@ -195,3 +196,27 @@ Cuckoo Automated Malware Analysis - https://cuckoosandbox.org/
 * MTV's Buzz: fantastically forward-thinking TV from 1990 - https://boingboing.net/2009/11/19/mtvs-buzz-fantastica.html
 * MySensors - https://www.mysensors.org/store#guide
 * Home Automation for Geeks - http://www.homeautomationforgeeks.com/index.php
+* Cyberia TV Series - http://media.hyperreal.org/cyberia/
+* Sysadmin Posters - https://imgur.com/a/y6udh
+* Obsolete Power connectors - https://web.archive.org/web/20151227191910/http://www.cs.ubc.ca/~hilpert/e/powerConn/index.html
+* Julia Stiles in '94: 'Can You Jam with the Console Cowboys in Cyberspace?' - https://motherboard.vice.com/en_us/article/9aa83p/julia-stiles-in-94-%E2%80%9Ccan-you-jam-with-the-console-cowboys-in-cyberspace-%E2%80%9D
+* James Cameron to create sparks with Robogeddon on Discovery Channel - https://www.engadget.com/2012/04/11/james-cameron-to-create-robogeddon/
+* Virtual World Entertainment - http://www.sarna.net/wiki/Virtual_World_Entertainment
+* 3Com Audrey - https://en.m.wikipedia.org/wiki/3Com_Audrey
+* What every computer science major should know - http://matt.might.net/articles/what-cs-majors-should-know/
+* A/V Artifact Atlas - https://web.archive.org/web/20161230064422/http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas
+* Six works of Computer Science-Fiction - https://news.ycombinator.com/item?id=9447097
+* Creating a BBS in 2015 - https://jcs.org/notaweblog/2015/04/02/creating_a_bbs_in_2015/
+* The Last Mile: Inside San Quentin’s Tech Incubator - https://www.wired.com/video/2015/03/the-last-mile-the-last-mile-inside-san-quentin-s-tech-incubator/
+* 1980s computer controls GRPS heat and AC - http://woodtv.com/2015/06/11/1980s-computer-controls-grps-heat-and-ac/
+* Why Netscape Almost Never Happened - https://web.archive.org/web/20140314191929/http://www.notenoughshaders.com/2012/07/13/why-netscape-almost-didnt-exist/
+* The Pixar Story: Dick Shoup, Alex Schure, George Lucas, Steve Jobs, and Disney - http://lowendmac.com/2013/pixar-story-steve-jobs-disney-toy-story/
+* Vidbits/Superpaint Video Index - https://excelsior.asc.ohio-state.edu/~carlson/history/video-index.html
+* A Critical History of Computer Graphics and Animation - https://excelsior.asc.ohio-state.edu/~carlson/history/
+* Vidbits Superpaint Google Search - https://www.google.com/search?q=%22vidbits%22+superpaint&cad=h
+* Vidbits Artifact Details - http://www.computerhistory.org/collections/catalog/102739952
+* VRML - https://en.m.wikipedia.org/wiki/VRML
+* 'DEATH IS THEIR DESTINY’: HOME-MOVIES OF LONDON PUNKS 1978-81 - https://dangerousminds.net/comments/death_is_their_destiny_home_movies_of_london_punks_1978_81
+* I can't get enough of these 90s internet videos - https://www.theverge.com/2015/1/10/7525519/early-internet-nostalgia
+* If It Ain't Broke, Don't Fix It: Ancient Computers in Use Today - https://www.pcworld.com/article/249951/computers/if-it-aint-broke-dont-fix-it-ancient-computers-in-use-today.html
+* How Old VHS Tapes Helped Save Early Web Design - https://www.fastcodesign.com/3040491/how-old-vhs-tapes-helped-save-early-web-design

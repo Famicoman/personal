@@ -25,6 +25,13 @@
 * TechTV Videos - https://www.youtube.com/user/th3l4bf4n
 * The Verge Features - https://www.youtube.com/playlist?list=PL3633D4808B8D3E65&feature=plcp
 * SimStim - http://thesprawl.org/simstim/
+* Urban Survivalist stuff - https://urbansurvivalsite.com/files/
+* Nightline Virtual Reality (1993) - https://www.youtube.com/watch?v=OfczNTYOpss&app=desktop
+* Brian Springer - Spin - https://www.youtube.com/watch?v=PlJkgQZb0VU&app=desktop
+* Videocipher Bible - https://www.youtube.com/watch?v=fPf9h_CW53Y&app=desktop
+* NDIIIPP Special Event: Ian MacKaye - https://www.youtube.com/watch?list=PLEA69BE43AA9F7E68&v=AvqtY_7Q7hI&app=desktop
+* Ubiquitous Computing - http://www.ubiq.com/hypertext/weiser/UbiMovies.html
+* olia lialina: The Only Thing We Know About Cyberspace Is That Its 640x480 - https://www.youtube.com/watch?v=AetzK1FbGHI&app=desktop
 
 ### Hacker Cons
 
@@ -52,6 +59,7 @@
 * NeoFiles - https://web.archive.org/web/20050721034507/http://www.mondoglobo.net/neofiles/
 * An Open Source History of Mondo 2000 - https://www.kickstarter.com/blog/podcast-an-open-source-history-of-mondo-2000
 * Decentralize.fm - https://decentralize.fm/
+* Possibly Unsafe - https://www.patreon.com/possiblyunsafe?rf=80574&ty=2
 
 ### Documentaries
 
@@ -79,7 +87,8 @@
 * Insert Coin - https://www.kickstarter.com/projects/joshuatsui/insert-coin-inside-midways-90s-revolution/posts/1567903
 * Hypertext: an Educational Experiment in English and Computer Science at Brown University - https://archive.org/details/AndyVanDamHypertextFilm
 * Traceroute - https://vimeo.com/ondemand/traceroute/147111732
-* Owned
+* Owned - https://web.archive.org/web/20161223033038/https://vimeo.com/ondemand/owned
+* The Queen Of Code - https://vimeo.com/118556349
 
 ### Magazines
 
@@ -104,6 +113,8 @@
 * Morph's Outpost - https://www.wired.com/1993/04/morphs-outpost/
 * Cheap Truth - https://en.m.wikipedia.org/wiki/Cheap_Truth
 * Interesting Times - https://web.archive.org/web/20171216061019/http://interestingtimesmagazine.net
+* it3D Magazine - http://inspiriencethe3d.com/it3Dmag/
+* Kill Screen - https://web.archive.org/web/20170225021508/http://shop.killscreendaily.com/products/issue-0-maturity-ebook
 
 ### eZines
 
