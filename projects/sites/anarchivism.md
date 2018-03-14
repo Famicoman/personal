@@ -32,6 +32,7 @@
 * NDIIIPP Special Event: Ian MacKaye - https://www.youtube.com/watch?list=PLEA69BE43AA9F7E68&v=AvqtY_7Q7hI&app=desktop
 * Ubiquitous Computing - http://www.ubiq.com/hypertext/weiser/UbiMovies.html
 * olia lialina: The Only Thing We Know About Cyberspace Is That Its 640x480 - https://www.youtube.com/watch?v=AetzK1FbGHI&app=desktop
+* Dreamcast stuff? - https://www.megadrive.org/elbarto/
 
 ### Hacker Cons
 
@@ -60,6 +61,7 @@
 * An Open Source History of Mondo 2000 - https://www.kickstarter.com/blog/podcast-an-open-source-history-of-mondo-2000
 * Decentralize.fm - https://decentralize.fm/
 * Possibly Unsafe - https://www.patreon.com/possiblyunsafe?rf=80574&ty=2
+* Jason Scott & Uberleeto - http://archive.org/search.php?query=creator%3A%22Jason%20Scott%20and%20Uberleeto%22
 
 ### Documentaries
 
