@@ -190,3 +190,8 @@ Cuckoo Automated Malware Analysis - https://cuckoosandbox.org/
 * gomma.tv - http://www.gomma.tv/videoz/index.html
 * Unscrewed; a Story About OpenBSD - http://www.skeptech.org/blog/2013/01/13/unscrewed-a-story-about-openbsd/
 * Websites most people probably haven't heard of - https://www.reddit.com/r/AskReddit/comments/3co3yc/what_website_could_you_recommend_that_most/csxkmqr/
+* TENUGUI: A CLOTH WITHOUT LIMITS - http://www.tofugu.com/japan/tenugui/
+* Dasher for Amazon Dash buttons - https://github.com/maddox/dasher/blob/master/README.md
+* MTV's Buzz: fantastically forward-thinking TV from 1990 - https://boingboing.net/2009/11/19/mtvs-buzz-fantastica.html
+* MySensors - https://www.mysensors.org/store#guide
+* Home Automation for Geeks - http://www.homeautomationforgeeks.com/index.php
