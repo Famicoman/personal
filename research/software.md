@@ -29,6 +29,10 @@
 * Configuring OpenVPN on OpenWRT - https://blog.ipredator.se/howto/openwrt/configuring-openvpn-on-openwrt.html
 * Direct wifi traffic through a VPN with openwrt - https://watchmysys.com/blog/2014/05/wifi-vpn-openwrt-wr703n/
 * How To Install MediaWiki on Ubuntu 14.04 - https://www.digitalocean.com/community/tutorials/how-to-install-mediawiki-on-ubuntu-14-04
+* How to Run Your Own Public Time Server on Linux - https://www.linux.com/learn/intro-to-linux/2018/2/how-run-your-own-public-time-server-linux
+* How to defend your website with ZIP bombs - https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html
+* Attacked Over Tor - https://www.hackerfactor.com/blog/index.php?/archives/762-Attacked-Over-Tor.html
+* The Comprehensive Introduction to Docker - http://blog.brew.com.hk/introduction-to-docker/
 
 ## Native
 

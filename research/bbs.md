@@ -1,6 +1,7 @@
 # BBS
 
 * Break Into Chat Wiki - http://breakintochat.com/wiki/
+* BBS over VoIP - https://www.reddit.com/r/bbs/comments/5btgfa/would_anyone_here_call_a_dialup_bbs/
 
 ## Software
 

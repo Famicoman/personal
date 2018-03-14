@@ -16,3 +16,6 @@
 * Instructions to installing z/OS in Hercules - http://mainframed767.tumblr.com/post/40836059586/instructions-to-installing-zos-in-hercules
 * hercules-on-mac-os-x-yosemite - http://mainframed767.tumblr.com/post/114411700159/hercules-on-mac-os-x-yosemite
 * hercules and zos tcp/ip networking for adcd versions - https://web.archive.org/web/20141108093408/http://patata.homeip.net/blog/hercules-and-zos-tcp-ip-networking-for-adcd-versions
+* Having trouble with Hercules and NAT - https://www.reddit.com/r/mainframe/comments/48vldz/having_trouble_with_hercules_and_nat/
+* mainframe hercules installation - https://www.reddit.com/r/mainframe/comments/7bo7ip/mainframe_hercules_installation/
+* So You Want Your Own Mainframe - https://modernmainframer.com/2017/01/30/so-you-want-your-own-mainframe-hercules-zarchitecture-emulator-tutorial/

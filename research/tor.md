@@ -6,6 +6,12 @@
 * nload - http://www.cyberciti.biz/networking/nload-linux-command-to-monitor-network-traffic-bandwidth-usage/
 * Layer 4 vs Layer 7 DoS Attack - https://devcentral.f5.com/articles/layer-4-vs-layer-7-dos-attack
 * RUNNING AN OBFS4 TOR BRIDGE ON PORT 80/443 - https://lorenzo.mile.si/2017/02/running-obfs4-tor-bridge-on-port-80-443/
+* Relay Security - https://trac.torproject.org/projects/tor/wiki/doc/TorRelaySecurity
+* OpSec https://trac.torproject.org/projects/tor/wiki/doc/OperationalSecurity
+* PinkApp.io - https://medium.com/@PinkDate/pink-app-trading-latency-for-anonymity-and-other-techniques-815ee21c6da4
+* Creating Private Onion Services - https://matt.traudt.xyz/p/GmiiUPQL.html
+* Configuring a Tor relay on Digital Ocean - https://www.reddit.com/r/TOR/comments/5gg3y1/configuring_a_tor_relay_on_digital_ocean/
+* Cooking with Onions: Finding the OnionBalance - https://blog.torproject.org/cooking-onions-finding-onionbalance
 
 ## V3 Onion Series
 

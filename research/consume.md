@@ -71,6 +71,7 @@ These things need to be read and processed. Newest stuff goes on top!
 * FUTURE FOSSILS #0033: Jon Lebkowsky on Pluralist Utopias & The Web’s Wild West - https://www.mindpodnetwork.com/future-fossils-0033-jon-lebkowsky-pluralist-utopias-webs-wild-west/
 * The Untold Story of Atari Founder Nolan Bushnell’s Visionary 1980s Tech Incubator - https://www.fastcompany.com/3068135/the-untold-story-of-atari-founder-nolan-bushnells-visionary-1980s-tech-incubator
 * Hippy Internet - The Whole Earth Catalog - http://www.bbc.co.uk/programmes/p03cp8c2
+* A Call from Joybubbles - http://www.bbc.co.uk/programmes/b08hlnjq
 * The Ghost of Invention: A Visit to Bell Labs - https://www.wired.com/2014/09/coupland-bell-labs/
 * Oppressive regime has cut off our internet (3G & Cable) from our region. Our people fear possible genocide as a result. Any ideas to restore or provide internet to some people in the region? - https://ceddit.com/r/darknetplan/comments/5pjanc/oppressive_regime_has_cut_off_our_internet_3g/
 * International Journal of Proof-of-Concept or Get The Fuck Out (PoC||GTFO or PoC or GTFO) - https://www.alchemistowl.org/pocorgtfo/
@@ -120,6 +121,7 @@ These things need to be read and processed. Newest stuff goes on top!
 * "Hello world" in the BCPL language on the Xerox Alto simulator - http://www.righto.com/2016/06/hello-world-in-bcpl-language-on-xerox.html?m=1
 * Restoring Y Combinator's Xerox Alto, day 2: Repairing the display - http://www.righto.com/2016/07/restoring-y-combinators-xerox-alto-day.html?m=1
 * Y Combinator's Xerox Alto: restoring the legendary 1970s GUI computer - http://www.righto.com/2016/06/y-combinators-xerox-alto-restoring.html?m=1
+* Restoring a Xerox Alto day 7: experiments with disk and Ethernet emulators - http://www.righto.com/2016/09/restoring-ycs-xerox-alto-day-7.html
 * 1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond - https://www.gamasutra.com/view/feature/131503/1500_archers_on_a_288_network_.php?print=1
 * The DOOM 3 Network Architecture - https://news.ycombinator.com/item?id=12062562
 * Coastermelt - http://www.misc.name/coastermelt/
@@ -196,6 +198,8 @@ Cuckoo Automated Malware Analysis - https://cuckoosandbox.org/
 * MTV's Buzz: fantastically forward-thinking TV from 1990 - https://boingboing.net/2009/11/19/mtvs-buzz-fantastica.html
 * MySensors - https://www.mysensors.org/store#guide
 * Home Automation for Geeks - http://www.homeautomationforgeeks.com/index.php
+* Enlighten your old furnace with a Raspberry Pi, Home Assistant, an ESP8266, and some relays - https://partofthething.com/thoughts/enlighten-your-old-furnace-with-a-raspberry-pi-home-assistant-an-esp8266-and-some-relays/
+* hydroMazing - https://hydromazing.com/
 * Cyberia TV Series - http://media.hyperreal.org/cyberia/
 * Sysadmin Posters - https://imgur.com/a/y6udh
 * Obsolete Power connectors - https://web.archive.org/web/20151227191910/http://www.cs.ubc.ca/~hilpert/e/powerConn/index.html
@@ -220,3 +224,44 @@ Cuckoo Automated Malware Analysis - https://cuckoosandbox.org/
 * I can't get enough of these 90s internet videos - https://www.theverge.com/2015/1/10/7525519/early-internet-nostalgia
 * If It Ain't Broke, Don't Fix It: Ancient Computers in Use Today - https://www.pcworld.com/article/249951/computers/if-it-aint-broke-dont-fix-it-ancient-computers-in-use-today.html
 * How Old VHS Tapes Helped Save Early Web Design - https://www.fastcodesign.com/3040491/how-old-vhs-tapes-helped-save-early-web-design
+* The punk rock internet – how DIY ​​rebels ​are working to ​replace the tech giants - https://www.theguardian.com/technology/2018/feb/01/punk-rock-internet-diy-rebels-working-replace-tech-giants-snoopers-charter
+* Network 7: Hacking Show - https://www.youtube.com/watch?v=UtDHrChZCOg&feature=youtu.be
+* Turning your web traffic into a Super Computer - http://ben.akrin.com/?p=5997
+* Common approaches to securing Linux servers and what runs on them. - https://medium.com/@ageis/common-approaches-to-securing-linux-servers-and-what-runs-on-them-dadcacc5388b
+* André Staltz - The Decentralized Web: Decentralized Protocols that work over mesh-nets without Internet - https://www.youtube.com/watch?v=qZDJ1z0apVk&t=2h09m52s
+* How Douglas Engelbart Invented the Future - https://www.smithsonianmag.com/innovation/douglas-engelbart-invented-future-180967498/
+* Has anyone thought about using an old mobile phone as a server? [more info inside] - https://www.reddit.com/r/selfhosted/comments/7e0bkr/has_anyone_thought_about_using_an_old_mobile/
+* Explaining ISP Networks - https://www.reddit.com/r/HomeNetworking/comments/7deohp/explaining_isp_networks/
+* Ghost in a Box: The Haunting History of Television Broadcast Intrusions - https://wearethemutants.com/2017/11/09/ghost-in-a-box-the-haunting-history-of-television-broadcast-intrusions/
+* The underground story of Cobra, the 1980s' illicit handmade computer - https://arstechnica.com/gadgets/2017/11/the-underground-story-of-cobra-the-1980s-illicit-handmade-computer/
+* The view from a cofounder of an ISP in the 1990s - https://www.reddit.com/r/HaltAndCatchFire/comments/6vwm65/the_view_from_a_cofounder_of_an_isp_in_the_1990s/
+* Pokemon Games Were Written in Assembly - https://www.reddit.com/r/programming/comments/6u3alr/til_the_original_pokemon_games_were_written_in/?utm_content=comments&utm_medium=user&utm_source=reddit&utm_name=frontpage
+* BOFH - http://bofh.bjash.com/
+* folklore.org - http://www.folklore.org/
+* High Performance Browser Networking - https://hpbn.co/
+* My underground made in Africa Homelab (Details in the comments) - https://www.reddit.com/r/homelab/comments/6immtg/my_underground_made_in_africa_homelab_details_in/
+* Donald Sherman orders a pizza using a talking computer, Dec 4, 1974 - https://www.youtube.com/watch?v=94d_h_t2QAA
+* If we're living in a simulation, this UK startup probably built it - http://www.wired.co.uk/article/improbable-quest-to-build-the-matrix
+* 25 years of HyperCard—the missing link to the Web - https://arstechnica.com/gadgets/2012/05/25-years-of-hypercard-the-missing-link-to-the-web/
+* My 1978 Tape-by-Tape Video Library Tour - in Color!! - https://www.youtube.com/watch?v=offqFgZw1SE
+* ChaosKey - http://altusmetrum.org/ChaosKey/
+* We need to all start seriously consider beginning to prepare for a transition to a meshnet - https://www.reddit.com/r/conspiracy/comments/5wbo97/we_need_to_all_start_seriously_consider_beginning/
+* How 'Cyberpunk,' the 1988 Tabletop Adventure, Is Inspiring the Blockbuster Game Creators of 2017 - https://www.rollingstone.com/culture/how-1988s-cyberpunk-is-inspiring-game-creators-of-2017-w464411
+* Blockchain Demo - https://anders.com/blockchain/
+* The Meaning of Decentralization - https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
+* SO, YOU WANT TO LEARN TO BREAK CIPHERS - https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/
+* CRYPTO101 - https://www.crypto101.io/
+* Picked up some Sun equipment last weekend, including an UltraSPARC with an nCipher cryptography module - https://www.reddit.com/r/retrobattlestations/comments/5pw4fl/picked_up_some_sun_equipment_last_weekend/
+* Hacker House Blues - Hacker house blues: My life with 12 programmers, 2 rooms and one 21st-century dream
+* Finally got around to installing some shelves. IVAR from IKEA - https://www.reddit.com/r/retrobattlestations/comments/5kanci/finally_got_around_to_installing_some_shelves/
+* Render Pockets - http://renderpockets.com/
+* You Can Start Your Own Country, Thanks to Web 3.0 - https://futurism.com/you-can-start-your-own-country-thanks-to-web-3-0/
+* The Lost Civilization of Dial-Up Bulletin Board Systems - https://www.theatlantic.com/technology/archive/2016/11/the-lost-civilization-of-dial-up-bulletin-board-systems/506465/
+* The secret world of microwave networks - https://arstechnica.com/information-technology/2016/11/private-microwave-networks-financial-hft/
+* Social Media’s Dial-Up Ancestor: The Bulletin Board System - https://spectrum.ieee.org/tech-history/cyberspace/social-medias-dialup-ancestor-the-bulletin-board-system
+* Commander X, a Fugitive Homeless Hacker, Has a New Book About Hacking on the Run - https://motherboard.vice.com/en_us/article/4xabwp/commander-x-homeless-hacker-turned-fugitive-just-published-the-definitive-boo
+* Breadboard Tutorial - https://learn.adafruit.com/breadboards-for-beginners/introduction
+* Tunnel Vision (1976) In the (then-future) year of 1985, a new television network called TunnelVision is entirely free of censorship (aided by a new Bill of Rights, written in 1983), and has thus become the most-watched channel in history - https://www.youtube.com/watch?v=-Vf-l0Wj0nc
+* Hound Demo - https://www.youtube.com/watch?v=M1ONXea0mXg&feature=youtu.be
+* DJEVELEN-BBS [Part 1] - https://www.reddit.com/r/nosleep/comments/535uet/djevelenbbs_part_1/
+* What is something very Cyberpunk that you have encountered in your real life? - https://www.reddit.com/r/Cyberpunk/comments/513alg/what_is_something_very_cyberpunk_that_you_have/

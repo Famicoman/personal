@@ -33,6 +33,16 @@
 * Ubiquitous Computing - http://www.ubiq.com/hypertext/weiser/UbiMovies.html
 * olia lialina: The Only Thing We Know About Cyberspace Is That Its 640x480 - https://www.youtube.com/watch?v=AetzK1FbGHI&app=desktop
 * Dreamcast stuff? - https://www.megadrive.org/elbarto/
+* Videozine Cyberpunk I__ 1991's italian vhs  - https://www.youtube.com/watch?v=MQ7CYeprqnU&list=PLqaMf6r87xevdLDLsMzvZO1PRJSTwWaAa&index=4
+* 2000 Maniax - https://www.autistici.org/2000-maniax/
+* EPIC Testimony on Hacking by Cliff Stoll in 1989 - https://www.c-span.org/video/?c4594226/epic-testimony-hacking-cliff-stoll-1989
+* Beyond 2000 - Cyberspace episode (c1995) - https://www.youtube.com/watch?v=Rnyas0Ib_o8
+* Storyville Silk Road Drugs, Death and the Dark Web Documentary 2017 - https://archive.org/details/youtube-pACWVg5Y5zM
+* AT&T Archives: The UNIX Operating System - https://www.youtube.com/watch?v=tc4ROCJYbm0
+* The Net - https://www.youtube.com/playlist?list=PLUECS_SNAQjz44kyS1sAVAmhUkXeo2g9F
+* Alan Kay Predicts Current Internet Services in 1990, Before Anyone Even had Internet - https://www.youtube.com/watch?v=4OQA0wMRCeo
+* This is SEGA TEST (1996) - https://vimeo.com/166472288
+* Ars Electronica 1990, VR-Symposium with Jaron Lanier, Marvin Minsky, Timothy Leary, John Perry Barlow, Bruce Sterling and William Gibson. (German narration, most speeches are in English) - https://vimeo.com/14888138
 
 ### Hacker Cons
 
@@ -45,6 +55,8 @@
 * http://archive.li/q9JZq
 * Battlemesh Downloads - https://download.battlemesh.org/
 * A History of Jason Never Shutting Up - http://ascii.textfiles.com/speaking
+* https://infocon.hackingand.coffee/
+* https://vids.localmsp.org/
 
 ### IPTV / Podcasts
 
@@ -62,6 +74,7 @@
 * Decentralize.fm - https://decentralize.fm/
 * Possibly Unsafe - https://www.patreon.com/possiblyunsafe?rf=80574&ty=2
 * Jason Scott & Uberleeto - http://archive.org/search.php?query=creator%3A%22Jason%20Scott%20and%20Uberleeto%22
+* BBS Podcasts - http://breakintochat.com/collections/podcasts/index.html
 
 ### Documentaries
 
@@ -91,6 +104,14 @@
 * Traceroute - https://vimeo.com/ondemand/traceroute/147111732
 * Owned - https://web.archive.org/web/20161223033038/https://vimeo.com/ondemand/owned
 * The Queen Of Code - https://vimeo.com/118556349
+* Crypto Wars - NHK Documentary 1997 - https://www.youtube.com/watch?v=EcC0RNsallc
+* Zombies, Cyborgs & Chimeras - https://www.youtube.com/watch?v=TqtiM1hK6lU&feature=youtu.be
+* Roots of The Matrix 02 The Hard Problem - The Science Behind the Fiction - https://www.youtube.com/watch?v=h3tmaJnK8l0&feature=youtu.be
+* Net Cafe Refugees | Japan's Disposable Workers - https://www.youtube.com/watch?v=j5bVWzTyJ7E&feature=youtu.be
+* Shenzhen: The Silicon Valley of Hardware (Full Documentary) | Future Cities | WIRED - https://www.youtube.com/watch?v=SGJ5cZnoodY&feature=youtu.be&t=1h1m23s
+* Inside Pirate Radio - https://www.youtube.com/watch?v=D_oXEMu7Rzo
+* Kevin Mitnick: I Am Rebel - http://channel.nationalgeographic.com/i-am-rebel/
+* Zero Days - https://en.wikipedia.org/wiki/Zero_Days
 
 ### Magazines
 
@@ -117,6 +138,11 @@
 * Interesting Times - https://web.archive.org/web/20171216061019/http://interestingtimesmagazine.net
 * it3D Magazine - http://inspiriencethe3d.com/it3Dmag/
 * Kill Screen - https://web.archive.org/web/20170225021508/http://shop.killscreendaily.com/products/issue-0-maturity-ebook
+* Decoder - https://archive.org/details/decoder-10
+* PC Gamer Articles on Virtual Reality - https://imgur.com/a/TpiQW
+* Black Sun Magazine - https://www.behance.net/gallery/683793/Black-Sun-Magazine-Volume-1-Issue-2
+* Cyberpunk - Interface Magazine - https://www.scribd.com/document/317372604/Cyberpunk-Interface-Magazine-Volume-1-Number-4-pdf
+* Boot Magazine
 
 ### eZines
 
@@ -124,6 +150,11 @@
 * 40Hex
 * Computer Underground Digest
 * The Torist - http://thetorist.tumblr.com/
+
+### Books
+
+* Distributed Systems 3rd edition (2017) - https://www.distributed-systems.net/index.php/books/distributed-systems-3rd-edition-2017/
+* Beej's Guide to Network Programming - http://beej.us/guide/bgnet/
 
 ### Index On Anarchivism
 

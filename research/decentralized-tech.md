@@ -18,3 +18,7 @@
 * Wasabinet - http://gowasabi.net/
 * Guifi - https://en.wikipedia.org/wiki/Guifi.net
 * underdark-android - https://github.com/udark/underdark-android
+* NJILLA - https://torrentfreak.com/pirate-bay-founder-launches-anonymous-domain-registration-service-170419/
+* swarm - Decentralized HTTP over IRC - https://github.com/ewimberley/swarm
+* open80211s - https://github.com/o11s/open80211s/wiki/HOWTO
+* Decentralized, P2P Chat in 100 lines of code - https://decentralize.today/decentralized-p2p-chat-in-100-lines-of-code-d6e496034cd4

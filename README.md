@@ -48,11 +48,13 @@ Not a task yet, but something where I've looked into things and taken notes.
 
 - [ ] - [**CONSUME!**](research/consume.md)
 - [ ] - [**Decentralized Tech**](research/decentralized-tech.md)
+- [ ] - [Amateur Radio](research/amateur-radio.md)
 - [ ] - [Amazon Dash Button Hacks](research/amazon-dash-button-hacks.md)
 - [ ] - [Archive.org](research/archive-org.md)
 - [ ] - [Arduino](research/arduino.md)
 - [ ] - [Beaglebone Black](research/beaglebone-black.md)
 - [ ] - [BGP](research/bgp.md)
+- [ ] - [BitTorrent](research/bittorrent.md)
 - [ ] - [Bulletin Board System](research/bbs.md)
 - [ ] - [Cisco ATA 186 SIP](research/cisco-ata-186-sip.md)
 - [ ] - [cjdns](research/cjdns.md)
@@ -61,9 +63,7 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [Floppy Archiving](research/floppy-archiving.md)
 - [ ] - [Google Search Appliance](research/google-search-appliance.md)
 - [ ] - [GPG](research/gpg.md)
-- [ ] - HAM Radio
 - [ ] - [Incentivized Mesh](research/incentivised-mesh.md)
-- [ ] - [IPv6](research/ipv6.md)
 - [ ] - [IPv6](research/ipv6.md)
 - [ ] - [IRC](research/irc.md)
 - [ ] - [JeOS &(Just Enough OS)](research/jeos.md)
@@ -78,10 +78,12 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [Plan9 System](research/plan9-system.md)
 - [ ] - [Pogoplug Hacks](research/pogoplug-hacks.md)
 - [ ] - [Raspberry Pi](research/raspberry-pi.md)
+- [ ] - [RTL-SDR](research/rtl-sdr.md)
 - [ ] - [SILC](research/silc.md)
 - [ ] - [SKS Keyserver](research/sks-keyserver.md)
 - [ ] - [Software](research/software.md)
 - [ ] - [Tor](research/tor.md)
+- [ ] - [Typefaces](research/typefaces.md)
 - [ ] - [Usenet Server](research/usenet-server.md)
 - [ ] - [Webdev Tools](research/webdev-tools.md)
 - [ ] - [WYSE WY-60](research/wyse-wy-60/wyse-wy-60.md)
@@ -102,3 +104,5 @@ Things that I'm looking for.
 	- [ ] - Satellite Watch News
 	- [ ] - Scrambling News
 	- [ ] - American Hacker
+* Hardware
+	- [ ] - Monoprice "telescoping" cable tester - https://www.monoprice.com/product?c_id=105&cp_id=10524&cs_id=1052401&p_id=8138&seq=1&format=2
