@@ -2,6 +2,9 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* org-brain - https://github.com/Kungsgeten/org-brain
+* The Amiga Consciousness - http://countingvirtualsheep.com/the-amiga-consciousness/
+* Implementing FizzBuzz on an FPGA - http://www.righto.com/2018/03/implementing-fizzbuzz-on-fpga.html
 * Project: 2ine - https://www.patreon.com/posts/project-2ine-16513790
 * $2 hardware SSH keys storage - https://news.ycombinator.com/item?id=16409365
 * Securing your Linux web server - https://news.ycombinator.com/item?id=16420335
