@@ -29,3 +29,4 @@
 * How to build your own Raspberry Pi Cluster - https://www.jeffgeerling.com/blog/2017/how-build-your-own-raspberry-pi-cluster
 * Mac Mini to RPi - http://mhmediaonline.myzen.co.uk/Mac_Mini_to_RPi-1.pdf
 * With all the new Pi 3's and 2's. Whats everyone doing with their old pis? - https://www.reddit.com/r/raspberry_pi/comments/4wd5cz/with_all_the_new_pi_3s_and_2s_whats_everyone/
+* Trying OpenWRT Chaos Calmer (15.05 RC1) on Raspberry Pi 2 - https://devzone.nordicsemi.com/b/blog/posts/trying-openwrt-chaos-calmer-1505-rc1-on-raspberry-

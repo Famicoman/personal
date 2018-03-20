@@ -2,6 +2,8 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* Self Atomising Machines: Hypnagogic Cyberpunk, Reality and Utopia - https://nomadicutopianism.wordpress.com/2011/04/02/self-atomising-machines-hypnagogic-cyberpunk-reality-and-utopia/
+* Beyond Cyberpunk - http://www.streettech.com/bcp/
 * org-brain - https://github.com/Kungsgeten/org-brain
 * The Amiga Consciousness - http://countingvirtualsheep.com/the-amiga-consciousness/
 * Implementing FizzBuzz on an FPGA - http://www.righto.com/2018/03/implementing-fizzbuzz-on-fpga.html

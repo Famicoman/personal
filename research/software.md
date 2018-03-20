@@ -17,6 +17,8 @@
 * Gazelle Server Configuration - http://filesharefreak.com/2009/09/24/gazelle-article-one-server-config-gazelle-install/
 * Complete Guide for Linux Seedboxes - http://filesharingtalk.com/threads/281331-NaQ-s-Complete-Setup-Guide-for-Linux-Seedboxes-%28Fedora-Core-CentOS-Debian-Ubuntu%29
 * rtorrent and rutorrent Installation - https://what.cd/wiki.php?action=article&id=582
+* How to Install and Configure: ruTorrent, rTorrent, Libtorrent, XMLRPC, Screen (Debian 8 Jessie) - https://terminal28.com/how-to-install-and-configure-rutorrent-rtorrent-libtorrent-xmlrpc-screen-debian-8-jessie/
+* rTorrent ruTorrent Seedbox Guide - https://jes.sc/kb/rTorrent-ruTorrent-Seedbox-Guide.php#Guide-Configuration
 * Setting up pyWhatAuto - http://wiki.bytesized-hosting.com/wiki/index.php/Setting_up_pyWhatAuto_%28autodownloader%29
 * Set up your own VPN for torrenting - https://what.cd/forums.php?action=viewthread&threadid=104374
 * Build a tor server on a cheap vps - https://web.archive.org/web/20130730032018/http://kendildonic.wordpress.com/2011/08/03/build-a-tor-hidden-service-onion-web-site-with-a-cheap-vps
