@@ -2,6 +2,10 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* ‘WE GOT TO BE COOL ABOUT THIS‘: AN ORAL HISTORY OF THE LØPHT, PART 1 - https://duo.com/decipher/an-oral-history-of-the-l0pht
+* ‘MICROSOFT WAS FREAKING OUT‘: AN ORAL HISTORY OF THE LØPHT, PART 2 - https://duo.com/decipher/microsoft-was-freaking-out-an-oral-history-of-the-l0pht-part-2
+* THIRTY MINUTES OR LESS: AN ORAL HISTORY OF THE LØPHT, PART THREE - https://duo.com/decipher/thirty-minutes-or-less-an-oral-history-of-the-l0pht-part-three
+* ‘NOTHING’S GOING TO LAST FOREVER’: AN ORAL HISTORY OF THE LØPHT, PART FOUR - https://duo.com/decipher/nothings-going-to-last-forever-an-oral-history-of-the-l0pht-part-four
 * Self Atomising Machines: Hypnagogic Cyberpunk, Reality and Utopia - https://nomadicutopianism.wordpress.com/2011/04/02/self-atomising-machines-hypnagogic-cyberpunk-reality-and-utopia/
 * Beyond Cyberpunk - http://www.streettech.com/bcp/
 * org-brain - https://github.com/Kungsgeten/org-brain
