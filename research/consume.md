@@ -2,6 +2,8 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* Dotsies - http://dotsies.org
+* "A Sloppy Machine, Like Me": The History of Video Synthesizers - https://wearethemutants.com/2018/01/09/a-sloppy-machine-like-me-the-history-of-video-synthesizers/
 * NeXTstation Turbo Color Computer from 1992 Running Nextstep 3.3 (2016) [video] - https://news.ycombinator.com/item?id=16788265
 * Building My Ideal Router for $50 - https://blog.tjll.net/building-my-perfect-router/
 * City Hacker - https://minkcv.github.io/city/
