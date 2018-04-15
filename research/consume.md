@@ -2,6 +2,13 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* NeXTstation Turbo Color Computer from 1992 Running Nextstep 3.3 (2016) [video] - https://news.ycombinator.com/item?id=16788265
+* Building My Ideal Router for $50 - https://blog.tjll.net/building-my-perfect-router/
+* City Hacker - https://minkcv.github.io/city/
+* SatNOGS - https://satnogs.org
+* IRATA.online - http://www.irata.online
+* Anonet - http://wiki.ucis.nl/Anonet
+* Hackers Curator - http://hackerscurator.com/home.html
 * ‘WE GOT TO BE COOL ABOUT THIS‘: AN ORAL HISTORY OF THE LØPHT, PART 1 - https://duo.com/decipher/an-oral-history-of-the-l0pht
 * ‘MICROSOFT WAS FREAKING OUT‘: AN ORAL HISTORY OF THE LØPHT, PART 2 - https://duo.com/decipher/microsoft-was-freaking-out-an-oral-history-of-the-l0pht-part-2
 * THIRTY MINUTES OR LESS: AN ORAL HISTORY OF THE LØPHT, PART THREE - https://duo.com/decipher/thirty-minutes-or-less-an-oral-history-of-the-l0pht-part-three

@@ -2,6 +2,8 @@
 
 ## Save These Things
 
+* Let's Remake - http://www.letsremake.info/library_2.html
+* Let's Remake dir - http://letsremake.info/PDFs/
 * Secret life of Machines - http://en.m.wikipedia.org/wiki/The_Secret_Life_of_Machines
 * Computer input - http://www.billbuxton.com/inputTimeline.html
 * Boresight Satellite News - http://boresight.ripco.com/
