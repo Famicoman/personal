@@ -5,12 +5,13 @@
 
 This is a repository to track all of my ongoing projects, research, thoughts, work, code snippets, etc. Some of it may be useful to you, most of it will likely be nonsense. This will hopefully replace, open browser tabs, Google Docs, Pocket, Trello, Evernote, Any.do, text files, wiki pages, and good old fashioned paper, creating one unified place for all of my notes.
 
-* [Tasks](#Tasks)
+* [Tasks](#tasks)
 	* [In Progress](#in-progress)
 	* [Inactive](#inactive)
 	* [Finished](#finished)
 * [Research](#research)
 	* [Uncategorized](#uncategorized)
+* [Today I Learned](#today-i-learned)
 * [Miscellania](#miscellania)
 	* [Wanted](#wanted)
 	* [Archive](#archive)
@@ -88,6 +89,11 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [Usenet Server](research/usenet-server.md)
 - [ ] - [Webdev Tools](research/webdev-tools.md)
 - [ ] - [WYSE WY-60](research/wyse-wy-60/wyse-wy-60.md)
+
+## Today I Learned
+
+Or simply _TIL_. My version of the somewhat-popular "Today I Learned" git repo concept where you create short markdown documents of little things you've learned during the day. [See it here](til/README.md).
+
 
 ## Miscellania
 
