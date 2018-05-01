@@ -74,7 +74,7 @@ Finally enable and start `httpd` using `rcctl`:
 # rcctl start httpd
 ```
 
-`rcctl modifies `/etc/rc.conf.local`, overriding `/etc/rc.conf` to enable the daemon and then flip it on.
+`rcctl` modifies `/etc/rc.conf.local`, overriding `/etc/rc.conf` to enable the daemon and then flip it on.
 
 We can test if our server is functioning by loading the machine's IP address in a browser. If you don't want to access the web page on the same machine, use `ifconfig` to get the IP address.
 
