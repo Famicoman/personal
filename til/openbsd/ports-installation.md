@@ -1,6 +1,6 @@
 # Ports Installation
 
-Additional packages on OpenBSD can be build using `ports`. By default, OpenBSD does not have `ports` included after installation, but it can be added.
+Additional packages on OpenBSD can be built using `ports`. By default, OpenBSD does not have `ports` included after OS installation, but it can be added.
 
 The following commands were performed as root:
 
