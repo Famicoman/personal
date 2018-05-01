@@ -15,18 +15,6 @@ Paste the URL for a mirror, it should be to only line in the file:
 https://ftp.eu.openbsd.org/pub/OpenBSD/
 ```
 
-Alternatively, you can edd/edit an environment var `PKG_PATH` and set it automatically by adding an export line to `.bashrc`:
-
-```
-# vi /root/.bashrc
-```
-
-And paste the following:
-
-```
-export PKG_PATH=https://ftp.openbsd.org/pub/OpenBSD/$(uname -r)/packages/$(machine -a)/
-```
-
 Then, install any package you want:
 
 ```

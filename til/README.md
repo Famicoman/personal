@@ -14,6 +14,7 @@ Check out other _TIL_ repositories like those by [jbranchaud](https://github.com
 
 ### OpenBSD
 * [dmesg](openbsd/dmesg.md)
+* [doas Configuration](openbsd/doas-configuration.md)
 * [httpd Configuration](openbsd/httpd-configuration.md)
 * [pkg Configuration](openbsd/pkg-configuration.md)
 * [Ports Installation](openbsd/ports-installation.md)

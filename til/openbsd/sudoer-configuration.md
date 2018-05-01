@@ -1,5 +1,7 @@
 # Sudoer Configuration
 
+**This is cool and all, but you probably want to use [doas Configuration](openbsd/doas-configuration.md).**
+
 By default, `sudo` is not installed, so let's get it all set up.
 
 First, as root, add the target user you want to make a sudoer into the `wheel` group:
