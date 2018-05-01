@@ -17,7 +17,7 @@ Then install `sudo`:
 Now enter `visudo` to edit sudoers:
 
 ```
-visudo
+# visudo
 ```
 
 Uncomment out the following line and save/exit the file:
@@ -31,7 +31,7 @@ Uncomment out the following line and save/exit the file:
 Now open a new console session and log in as the user `famicoman`. Try a `sudo` command:
 
 ```
-sudo ls /root
+$ sudo ls /root
 ```
 
 ## Sources
