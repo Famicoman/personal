@@ -7,10 +7,14 @@ This folder contains small write-ups of useful things that I might come across o
 Check out other _TIL_ repositories like those by [jbranchaud](https://github.com/jbranchaud/til), [jwworth](https://github.com/jwworth/til), and [thoughtbot](https://github.com/thoughtbot/til) whom I have borrowed ideas from.
 
 ## Categories
+* [FreeBSD](#freebsd)
 * [OpenBSD](#openbsd)
 
 
 ---
+
+### FreeBSD
+* [Gopher Server Setup](freebsd/gopher-server-setup.md)
 
 ### OpenBSD
 * [dmesg](openbsd/dmesg.md)

@@ -22,8 +22,8 @@ HiddenServicePort 80 127.0.0.1:80
 Now enable and start `tor` using `rcctl`:
 
 ```
-# rcctl enable httpd
-# rcctl start httpd
+# rcctl enable tor
+# rcctl start tor
 ```
 
 You can check the syslog to make sure it started:
