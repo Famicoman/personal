@@ -2,6 +2,17 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* Switching.social - https://switching.social/
+* Taskwarrior, where have you been all my life? - https://news.ycombinator.com/item?id=17029560
+* Thermal Paper Polaroid - https://mitxela.com/projects/thermal_paper_polaroid
+* DocDroppers Wiki - https://web.archive.org/web/20101122052617/http://docdroppers.org/wiki/index.php?title=Main_Page
+* vtol - http://vtol.cc/filter/works
+* Connecting Bodies in Space - http://intelligentagent.com/archive/dec_bodies.html
+* Calyx Institute - https://calyxinstitute.org/membership
+* M5Stack - http://m5stack.com/
+* Me and ACTV — an Affair to Remember - https://bullersbackporch.wordpress.com/2015/08/06/me-and-actv-an-affair-to-remember/
+* SiFive Freedom Platform - https://www.sifive.com/products/freedom/#
+* HomebrewServer.club - https://homebrewserver.club/
 * Dotsies - http://dotsies.org
 * "A Sloppy Machine, Like Me": The History of Video Synthesizers - https://wearethemutants.com/2018/01/09/a-sloppy-machine-like-me-the-history-of-video-synthesizers/
 * NeXTstation Turbo Color Computer from 1992 Running Nextstep 3.3 (2016) [video] - https://news.ycombinator.com/item?id=16788265
