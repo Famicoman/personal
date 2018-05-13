@@ -14,9 +14,12 @@ Check out other _TIL_ repositories like those by [jbranchaud](https://github.com
 ---
 
 ### FreeBSD
+* [Change the Hostname](freebsd/change-the-hostname.md)
 * [Gopher Server Setup](freebsd/gopher-server-setup.md)
+* [Sudoer Configuration](freebsd/sudoer-configuration.md)
 
 ### OpenBSD
+* [Change the Hostname](openbsd/change-the-hostname.md)
 * [dmesg](openbsd/dmesg.md)
 * [doas Configuration](openbsd/doas-configuration.md)
 * [httpd Configuration](openbsd/httpd-configuration.md)

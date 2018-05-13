@@ -116,4 +116,6 @@ gopher 127.0.0.1
 
 ## Sources
 * https://github.com/sgolovine/roll-your-gopher/blob/master/README.md
+* https://github.com/prologic/gophernicus/blob/master/README.Gophermap
+* https://github.com/jgoerzen/pygopherd/blob/master/doc/standards/gophermap.txt
 * https://unix.stackexchange.com/questions/398748/what-is-the-freebsd-equivalent-of-linux-update-rc-d
