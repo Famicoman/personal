@@ -2,6 +2,12 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* NSA Postera from the 50s and 60s - https://news.ycombinator.com/item?id=17222827
+* Emulating The AT&T 3B2 Computer - https://loomcom.com/2018/05/22/emulating-the-att-3b2-computer/
+* Private DM on Learning Hardware/Hacking - http://www.blackroomsec.com/private-dm-on-learning-hardware-hacking/
+* The Story of Sun Microsystems PizzaTool - https://medium.com/@donhopkins/the-story-of-sun-microsystems-pizzatool-2a7992b4c797
+* IRIX Network - http://irix.cc
+* Playing Battleship over BGP - https://blog.benjojo.co.uk/post/bgp-battleships
 * Switching.social - https://switching.social/
 * Taskwarrior, where have you been all my life? - https://news.ycombinator.com/item?id=17029560
 * Thermal Paper Polaroid - https://mitxela.com/projects/thermal_paper_polaroid

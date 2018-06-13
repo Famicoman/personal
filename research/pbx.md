@@ -1,5 +1,8 @@
 # PBX
 
+* Help I Can't Hear - http://www.classicrotaryphones.com/forum/index.php?topic=1931.0
+* Voicemail Retrieval from External Landline - https://community.freepbx.org/t/voicemail-retrieval-from-external-landline/14696
+* Russia Telekom Facebook - https://www.facebook.com/russiatelekom/
 * Incredible Pi - http://nerdvittles.com/?p=1784
 * Twilio Hard Phone - https://www.twilio.com/blog/2013/03/build-a-twilio-hard-phone-with-sip-from-twilio-raspberry-pi-asterisk-freepbx-and-the-obihai-obi100.html
 * Incredible PBX for RasPBX - http://www.raspberry-asterisk.org/
