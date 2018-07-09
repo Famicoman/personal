@@ -23,6 +23,7 @@ Let's start with a *task list*. This will list key things I'm working on, couple
 
 ### In Progress
 
+- [ ] - [Hackers Pager](projects/hardware/hackers-pager.md) (2017)
 - [ ] - [dn42 Node](projects/networking/dn42-node.md) (2017)
 - [ ] - [z/OS Mainframe](projects/emulation/zos-mainframe/zos-mainframe.md) (2015)
 - [ ] - [RC2014 Plus](prohects/hardware/rc2014-plus.md) (2018-01-01)
@@ -65,6 +66,7 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [Google Search Appliance](research/google-search-appliance.md)
 - [ ] - [Gopher](research/gopher.md)
 - [ ] - [GPG](research/gpg.md)
+- [ ] - [Humor](research/humor.md)
 - [ ] - [Incentivized Mesh](research/incentivised-mesh.md)
 - [ ] - [IPv6](research/ipv6.md)
 - [ ] - [IRC](research/irc.md)
@@ -72,6 +74,7 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [Mailgun](research/mailgun.md)
 - [ ] - [Matrix](research/matrix.md)
 - [ ] - [Mechanical Keyboards](research/mechanical-keyboards.md)
+- [ ] - [Network Exploring](research/network-exploring.md)
 - [ ] - [N64 Hacks](research/n64-hacks.md)
 - [ ] - [OpenNIC Tier 2 Server](research/opennic-tier-2-server.md)
 - [ ] - [PBX](research/pbx.md)

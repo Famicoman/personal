@@ -2,6 +2,9 @@
 
 ## Save These Things
 
+* THE LIBRARY OF RADIANT OPTIMISM FOR LET'S RE-MAKE THE WORLD - http://www.letsremake.info/library_2.html
+* THE LIBRARY OF RADIANT OPTIMISM FOR LET'S RE-MAKE THE WORLD (index) - http://letsremake.info/PDFs/
+* Usborne coding books for a new generation - https://usborne.com/browse-books/features/computer-and-coding-books/
 * Let's Remake - http://www.letsremake.info/library_2.html
 * Let's Remake dir - http://letsremake.info/PDFs/
 * Secret life of Machines - http://en.m.wikipedia.org/wiki/The_Secret_Life_of_Machines

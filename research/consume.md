@@ -2,6 +2,8 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* Exploring the Amiga - http://blog.thedigitalcatonline.com/categories/amiga/
+* Confessions of a Disk Cracker: the secrets of 4am. - https://paleotronic.com/2018/06/15/confessions-of-a-disk-cracker-the-secrets-of-4am/
 * NSA Postera from the 50s and 60s - https://news.ycombinator.com/item?id=17222827
 * Emulating The AT&T 3B2 Computer - https://loomcom.com/2018/05/22/emulating-the-att-3b2-computer/
 * Private DM on Learning Hardware/Hacking - http://www.blackroomsec.com/private-dm-on-learning-hardware-hacking/
