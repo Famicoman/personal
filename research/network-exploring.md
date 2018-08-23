@@ -3,6 +3,7 @@
 Ideas akin to Ingrid Burrington's Networks of New York - https://www.mhpbooks.com/books/networks-of-new-york/
 
 * Seeing Networks - http://seeingnetworks.in/
+* London Networks - https://cpb-eu-w2.wpmucdn.com/blogs.brighton.ac.uk/dist/a/68/files/2016/02/somersetmap-q1cw4h.pdf
 * Mitchell Shnier's City Infrastructure - http://cityinfrastructure.com/
 * FPC: Day 15 - Ingrid's Walking Tour of NYC Telecommunications History - https://alexdwagner.github.io/Ingrid-ARCH-Walking-Tour/
 
