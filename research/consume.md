@@ -2,6 +2,15 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* ENHANCE.COMPUTER - https://www.enhance.computer/
+* Citadel 9 -https://ixcitadel.com/
+* History of Gopher - https://prgmr.com/blog/gopher/2018/08/23/gopher.html
+* WireGuard VPN review: A new type of VPN offers serious advantages - https://arstechnica.com/gadgets/2018/08/wireguard-vpn-review-fast-connections-amaze-but-windows-support-needs-to-happen/
+* A Mansion Filled with Hidden Worlds: When the Internet Was Young - https://news.ycombinator.com/item?id=17573988
+* Read Only Memory - https://readonlymemory.vg/shop/
+* An Oral History of ‘GoldenEye 007’ on the N64 - https://melmagazine.com/an-oral-history-of-goldeneye-007-on-the-n64-129844f1c5ab
+* James Bond meets Virtua Cop: The development of Rare's GoldenEye 007 - https://www.engadget.com/2012/09/03/james-bond-meets-virtua-cop-the-development-of-rares-goldeneye/
+* Life in the Boy's Dorm: My Career at Sun Microsystems - https://web.archive.org/web/20100806224315/http:/consultingadultblog.blogspot.com/2010/03/life-in-boys-dorm-my-career-at-sun_05.html
 * Build Your Own Internet - https://buildyourowninter.net/
 * Exploring the Amiga - http://blog.thedigitalcatonline.com/categories/amiga/
 * Confessions of a Disk Cracker: the secrets of 4am. - https://paleotronic.com/2018/06/15/confessions-of-a-disk-cracker-the-secrets-of-4am/
