@@ -23,6 +23,7 @@ Let's start with a *task list*. This will list key things I'm working on, couple
 
 ### In Progress
 
+- [ ] - [Mac Modernization](projects/hardware/mac-modernization.md) (2018-09-08)
 - [ ] - [Hackers Pager](projects/hardware/hackers-pager.md) (2017)
 - [ ] - [dn42 Node](projects/networking/dn42-node.md) (2017)
 - [ ] - [z/OS Mainframe](projects/emulation/zos-mainframe/zos-mainframe.md) (2015)

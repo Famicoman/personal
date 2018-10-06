@@ -1,5 +1,10 @@
 # Software
 
+## Federated
+
+* anacus - https://gitlab.com/tuxether/anancus
+* prismo - https://gitlab.com/mbajur/prismo
+
 ## Guides
 
 * Wget Download Specific Folders in Directory - http://stackoverflow.com/questions/17378995/wget-download-specific-folders-under-an-apache-directory

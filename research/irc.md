@@ -1,5 +1,9 @@
 # IRC
 
+## Useful Commands
+
+* Moving Channels - https://wiki.ubuntu.com/IRC/MovingChannels
+
 ## Tools
 
 * PieSpy - http://www.jibble.org/piespy/

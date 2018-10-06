@@ -2,6 +2,12 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* Demoscene - The Art of the Algorithms  - https://news.ycombinator.com/item?id=3840830
+* How to Build a Low-tech Website? - https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/
+* DOCUBYTE - https://www.docubyte.com/works/guide-to-computing/
+* Meet the Community Keeping Obsolete Supercomputers Alive - https://motherboard.vice.com/en_us/article/qvajn7/meet-the-community-keeping-obsolete-supercomputers-alive
+* New York Tech Zine Fair - http://techzinefair.org/
+* REMEMBER WHEN BLOCKBUSTER VIDEO TRIED BURNING GAME CARTRIDGES ON DEMAND? - https://hackaday.com/2018/10/01/remember-when-blockbuster-video-tried-burning-game-cartridges-on-demand/
 * ENHANCE.COMPUTER - https://www.enhance.computer/
 * Citadel 9 -https://ixcitadel.com/
 * History of Gopher - https://prgmr.com/blog/gopher/2018/08/23/gopher.html
