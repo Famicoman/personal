@@ -1,4 +1,4 @@
-# Mac Modenization
+# Mac Modernization
 
 I have some old Macs. Let's make them useful.
 

@@ -40,12 +40,14 @@
 * How to defend your website with ZIP bombs - https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html
 * Attacked Over Tor - https://www.hackerfactor.com/blog/index.php?/archives/762-Attacked-Over-Tor.html
 * The Comprehensive Introduction to Docker - http://blog.brew.com.hk/introduction-to-docker/
+* The pfSense Book - https://www.netgate.com/docs/pfsense/book/
 
 ## Native
 
 * Packet Garden - http://ljudmila.org/~julian/pg/
 * Backup and covert Blu-Rays - http://forum.videohelp.com/threads/296167-How-to-backup-and-convert-Blu-ray-to-MP4-HD-or-MKV-HD
 * Official SDK's for Sony, Sega, Nintendo, Atari, NEC, Panasonic Systems - https://www.emuparadise.me/sdk/
+* VueScan - https://www.hamrick.com/
 
 ## Web-based
 

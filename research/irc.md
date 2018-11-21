@@ -7,6 +7,7 @@
 ## Tools
 
 * PieSpy - http://www.jibble.org/piespy/
+* Miniircd - https://github.com/jrosdahl/miniircd
 
 ## Irssi
 

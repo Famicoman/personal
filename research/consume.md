@@ -2,6 +2,28 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* 1 like = 1 email address that adheres to RFC3696, RFC5321, RFC5322 and RFC6530 -  https://twitter.com/errbufferoverfl/status/1019766775561445376
+* Interview with Stewart Brand on the 50th anniversary of the Whole Earth Catalog - https://boingboing.net/2018/06/21/interview-with-stewart-brand-o.html
+* Shadertoy - https://www.shadertoy.com/
+* phreaker.life - https://sites.google.com/view/phreaker-life
+* Online with the Sega Dreamcast and a DreamPi in 2018 | MVG - https://www.youtube.com/watch?v=9jo8jdvWrBA
+* Satellite TV Pirate History - https://twitter.com/akacastor/status/1055166903717572613
+* Ted Dabney and the Untold Atari Story - http://www.kotaku.co.uk/2018/06/07/ted-dabney-and-the-untold-atari-story
+* The Lost Civilization of Dial-Up Bulletin Board Systems - https://www.theatlantic.com/technology/archive/2016/11/the-lost-civilization-of-dial-up-bulletin-board-systems/506465/
+* The rural South’s invisible public health crisis - https://southerlymag.org/2018/07/05/the-rural-souths-invisible-public-health-crisis/
+* Meet Sphinx: The 30-Year-Old Soviet Smart Home Concept - https://sovietvisuals.com/sphinx-soviet-smart-home-concept/
+* History of computers, part 1 — The bulletin board system - https://www.networkworld.com/article/3220488/servers/history-of-computers-part-1-the-bulletin-board-system.html
+* Building Your Own Bitcoin Satellite Node: Part 1 — Hardware Assembly - https://hackernoon.com/building-your-own-bitcoin-satellite-node-6061d3c93e7
+* The Pioneering Women of Electronic Music - https://thevinylfactory.com/features/the-pioneering-women-of-electronic-music-an-interactive-timeline/
+* Toorcamp 2018/Shadytel Retrospective - https://pastebin.com/7vXDiT5H
+* The farmer who built her own broadband - https://www.bbc.com/news/technology-37974267
+* The cypherpunk revolution - http://projects.csmonitor.com/cypherpunk
+* Yugoslavian Computer Magazine Cover Girls of the 1980s-90s - https://flashbak.com/yugoslavian-computer-magazine-cover-girls-of-the-1980s-90s-370271/
+* Using modems without phone lines - https://www.insentricity.com/a.cl/230/using-modems-without-phone-lines
+* Inside A Nintendo Storage Room, Where They Keep Their Old Stuff - https://kotaku.com/inside-nintendos-storage-room-where-they-keep-all-thei-1787731584
+* Inside the New York Public Library’s Last, Secret Apartments - https://www.atlasobscura.com/articles/inside-the-new-york-public-librarys-last-secret-apartments
+* The self-destructing game of 1986 - https://www.polygon.com/features/2016/10/10/13192240/sub-mission-self-destructing-game-1986
+* CYPHERNOMICON - https://twitter.com/Adam_Tache/status/1060234474892361728
 * Demoscene - The Art of the Algorithms  - https://news.ycombinator.com/item?id=3840830
 * How to Build a Low-tech Website? - https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/
 * DOCUBYTE - https://www.docubyte.com/works/guide-to-computing/

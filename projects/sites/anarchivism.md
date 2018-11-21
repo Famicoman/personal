@@ -83,6 +83,15 @@
 * Silly MS-DOS 5 Promo Video (High Quality) - https://www.youtube.com/watch?v=WxC6PytZMqc
 * Mr. Robot Decoded - https://www.geek.com/news/mr-robot-decoded-explores-how-authentic-the-shows-hacking-is-1658537/
 * Discovery Channel Beyond 2000 Wearable Computers 1992 - https://www.youtube.com/watch?v=qbK-Bo3k9KQ
+* BBC Computer Literacy - https://computer-literacy-project.pilots.bbcconnectedstudio.co.uk/
+* What the Dormouse Said w/ John Markoff & R.U. Sirius - https://www.youtube.com/watch?v=_qDqdpq9_RE
+* Cyberspace - The New Explorers - https://www.youtube.com/watch?v=yYiX42rqbbs
+* The demoscene - Digital Infinities - https://www.youtube.com/watch?v=X8_NqsrnH70
+* Psychonauts 2 · Behind the Launch - https://www.youtube.com/watch?v=Pd8q8hMmKLI
+
+### Audio
+
+* William S. Burroughs + Brion Gysin + P.Orridge - Cold Spring Tape (1989) - http://ubu.com/sound/p-orridge.html
 
 ### Hacker Cons
 
@@ -196,6 +205,8 @@
 * Boot Magazine
 * Hyper Magazine #1 "Virtual Sex" - http://oldgamemags.tumblr.com/post/127400049346/hyper-magazine-1-it-may-be-possible-before
 * OZ - http://ro.uow.edu.au/ozlondon/
+* The Industry Standard - https://en.wikipedia.org/wiki/The_Industry_Standard
+
 
 ### eZines
 
@@ -213,6 +224,11 @@
 * Build Your Own Computer books - https://www.ceddit.com/r/Piracy/comments/4avcqn/trying_to_find_a_pdfebook_for_an_oldrare_book/
 * IT Coloring books - https://www.reddit.com/r/sysadmin/comments/4bm8d5/adult_coloring_books_for_it_professionals/
 * Cyberpunk Coloringbook - https://www.reddit.com/r/Cyberpunk/comments/4irubn/just_finished_my_cyberpunk_colouring_book/
+* CESG_Research_Report_No_3006.pdf - https://www.gchq.gov.uk/file/cesgresearchreportno3006pdf-0
+
+### Directories
+
+* http://dope.org/9x/9x/non9xhp/
 
 ### Index On Anarchivism
 
@@ -220,3 +236,7 @@
 * Alan Kay - https://archive.org/details/AlanKeyD1987
 * Xerox Parc - https://archive.org/search.php?query=xerox%20parc%20mediatype%3A%28movies%29
 * Y2K Family Survival - https://archive.org/details/Y2K_Family_Survival_Guide_With_Leonard_Nimoy_Palso
+* Cyber Surfin : Internet For The Rest Of Us - https://archive.org/details/CyberSurfinInternetForTheRestOfUs
+* Beyond Cyberpunk: A Do-It-Yourself Guide to the Future - https://archive.org/details/BeyondCyberpunkMacintosh
+* Ted Nelson Selected Papers, 1977 - https://archive.org/details/SelectedPapers1977
+* Yahoo! 10-Year-Anniversary Celebration DVD - https://archive.org/details/Yahoo10Year
