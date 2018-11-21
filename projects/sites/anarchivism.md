@@ -88,6 +88,7 @@
 * Cyberspace - The New Explorers - https://www.youtube.com/watch?v=yYiX42rqbbs
 * The demoscene - Digital Infinities - https://www.youtube.com/watch?v=X8_NqsrnH70
 * Psychonauts 2 · Behind the Launch - https://www.youtube.com/watch?v=Pd8q8hMmKLI
+* Citibank/Lexar Axxa System 90 promotional video - https://www.youtube.com/watch?v=1cfM--q_ZFk&feature=youtu.be
 
 ### Audio
 
@@ -206,7 +207,8 @@
 * Hyper Magazine #1 "Virtual Sex" - http://oldgamemags.tumblr.com/post/127400049346/hyper-magazine-1-it-may-be-possible-before
 * OZ - http://ro.uow.edu.au/ozlondon/
 * The Industry Standard - https://en.wikipedia.org/wiki/The_Industry_Standard
-
+* ACE Magazine - https://twitter.com/simoncarless/status/927321281371836416
+* FringeWare Review - https://twitter.com/gonzopancho/status/998325728499335168
 
 ### eZines
 
@@ -240,3 +242,4 @@
 * Beyond Cyberpunk: A Do-It-Yourself Guide to the Future - https://archive.org/details/BeyondCyberpunkMacintosh
 * Ted Nelson Selected Papers, 1977 - https://archive.org/details/SelectedPapers1977
 * Yahoo! 10-Year-Anniversary Celebration DVD - https://archive.org/details/Yahoo10Year
+* Build Your Own XT Clone American Computer Centers 1988 Tape - https://archive.org/details/Build_Your_Own_XT_Clone_American_Computer_Centers_1988_Tape

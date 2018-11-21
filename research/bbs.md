@@ -1,5 +1,6 @@
 # BBS
 
+* [HELP] BBS Configuration - https://old.reddit.com/r/bbs/comments/9xmwef/help_bbs_configuration/
 * Break Into Chat Wiki - http://breakintochat.com/wiki/
 * BBS over VoIP - https://www.reddit.com/r/bbs/comments/5btgfa/would_anyone_here_call_a_dialup_bbs/
 * Unix/Linux BBS server written from scratch (not port of old code) - https://www.reddit.com/r/bbs/comments/2s8k82/unixlinux_bbs_server_written_from_scratch_not/

@@ -82,6 +82,7 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [PC Engines](research/pc-engines.md)
 - [ ] - [Pirate Radio](research/pirate-radio.md)
 - [ ] - [Plan9 System](research/plan9-system.md)
+- [ ] - [Podcast Ideas](research/podcast-ideas.md)
 - [ ] - [Pogoplug Hacks](research/pogoplug-hacks.md)
 - [ ] - [Raspberry Pi](research/raspberry-pi.md)
 - [ ] - [RTL-SDR](research/rtl-sdr.md)

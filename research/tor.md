@@ -1,5 +1,6 @@
 # Tor
 
+* Resources on reliably hosting .onion site? - https://old.reddit.com/r/onions/comments/8kyclv/resources_on_reliably_hosting_onion_site/
 * CthulhuSec - https://www.thecthulhu.com/services/
 * Setting up a hidden service with NGINX - https://www.thecthulhu.com/setting-up-a-hidden-service-with-nginx/
 * Onion Balance - https://github.com/DonnchaC/onionbalance

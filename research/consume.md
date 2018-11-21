@@ -2,6 +2,20 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* Concise electronics for geeks - http://lcamtuf.coredump.cx/electronics/
+* Navy Electricity and Electronics Training Series - http://www.fcctests.com/neets/Neets.htm
+* iPod Classic Revival - New battery and SD card storage mod - https://imgur.com/a/7JPB6
+* Introduction to Voice Over IP - https://www.youtube.com/watch?v=2x3Ie6VZ_sg
+* A quick guide to The Free Network - https://medium.com/we-distribute/a-quick-guide-to-the-free-network-c069309f334
+* Watch the Virtual Reality Recreation of the LSD Trip That Inspired the Whole Earth Catalog - http://time.com/5286135/virtual-reality-lsd-trip-whole-earth-catalog/?utm_source=reddit.com
+* The Wild, Baffling, and Sometimes Terrifying History of Crypto-Anarchy - https://breakermag.com/the-wild-baffling-and-sometimes-terrifying-history-of-crypto-anarchy/
+* How to build the network for a Tier 1(?) tournament - https://www.reddit.com/r/GlobalOffensive/comments/9coktg/how_to_build_the_network_for_a_tier_1_tournament/
+* Soviet Movies - https://sovietmoviesonline.com/fantastic/7-stalker.html
+* How to build a Low-Tech website: Software & Hardware - https://homebrewserver.club/low-tech-website-howto.html
+* Alice4 - https://lkesteloot.github.io/alice/alice4/
+* dank-selfhosted - https://github.com/cullum/dank-selfhosted
+* Best of vintage calculator watch keyboard round-up - https://twitter.com/i/moments/818216418382647296
+* Monoskop - https://monoskop.org/Monoskop
 * 1 like = 1 email address that adheres to RFC3696, RFC5321, RFC5322 and RFC6530 -  https://twitter.com/errbufferoverfl/status/1019766775561445376
 * Interview with Stewart Brand on the 50th anniversary of the Whole Earth Catalog - https://boingboing.net/2018/06/21/interview-with-stewart-brand-o.html
 * Shadertoy - https://www.shadertoy.com/

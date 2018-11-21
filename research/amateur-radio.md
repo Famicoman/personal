@@ -13,5 +13,7 @@ Reprogramming
 
 * CS580 UHF - http://www.csi-radios.com/cs580-uhf/
 * VA3XPR - http://www.va3xpr.net/
+* Morse Typing Trainer - https://morse.withgoogle.com/learn/
+* AX.25 and Direwolf under Linux - https://g7vrd.co.uk/ax25-direwolf-linux
 
 * HamWAN - http://hamwan.org/

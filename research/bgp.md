@@ -1,5 +1,6 @@
 # BGP (Border Gateway Protocol)
 
+* Deploying Anycast DNS using OpenBSD and BGP - https://jonwillia.ms/2018/09/23/anycast-dns-openbsd
 * anoNet - http://anonet.org/index.htm
 * Setting up BGP on the MetaNET - http://wiki.wlug.org.nz/MetaNetBGPNotes
 * Creating an Internet Exchange for Even More Fun and Less Profit - http://blog.thelifeofkenneth.com/2018/04/creating-internet-exchange-for-even.html?m=1
