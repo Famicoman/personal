@@ -67,6 +67,7 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [Google Search Appliance](research/google-search-appliance.md)
 - [ ] - [Gopher](research/gopher.md)
 - [ ] - [GPG](research/gpg.md)
+- [ ] - [Humor](research/hardware-hacking.md)
 - [ ] - [Humor](research/humor.md)
 - [ ] - [Incentivized Mesh](research/incentivised-mesh.md)
 - [ ] - [IPv6](research/ipv6.md)

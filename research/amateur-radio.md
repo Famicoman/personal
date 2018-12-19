@@ -1,5 +1,7 @@
 # Amateur Radio
 
+* Packet Radio Zine - http://dennisdebel.nl/2017/2014-packet_radio/
+
 ## RTL-SDR
 
 * RPITX V2 RELEASED: EASILY RECORD AND REPLAY WITH RTL-SDR AND A RASPBERRY PI - https://www.rtl-sdr.com/rpitx-v2-released-easily-record-and-replay-with-rtl-sdr-and-a-raspberry-pi/

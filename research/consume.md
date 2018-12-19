@@ -2,6 +2,7 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* HOW THE DREAMCAST COPY PROTECTION WAS DEFEATED - http://fabiensanglard.net/dreamcast_hacking/
 * Concise electronics for geeks - http://lcamtuf.coredump.cx/electronics/
 * Navy Electricity and Electronics Training Series - http://www.fcctests.com/neets/Neets.htm
 * iPod Classic Revival - New battery and SD card storage mod - https://imgur.com/a/7JPB6

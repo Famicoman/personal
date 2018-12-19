@@ -17,3 +17,6 @@ Ideas akin to Ingrid Burrington's Networks of New York - https://www.mhpbooks.co
 * A Tour of the AC-1 Transatlantic Submarine Cable - https://vimeo.com/65776201
 * Views of a Former Verizon Building - https://vimeo.com/65778055
 * Private Circulation Video - https://web.archive.org/web/20170221052830/http://privatecirculation.com/
+
+* treenet topology - http://www.trygve.com/treenet.html
+* New York Net - http://www.new-york.net/pics_nyc_pop/
