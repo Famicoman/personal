@@ -29,7 +29,7 @@ Now enable and start `tor` using `rcctl`:
 You can check the syslog to make sure it started:
 
 ```
-# tail /var/log/message
+# tail /var/log/messages
 
 Apr 29 18:44:22 openbsd Tor[39811]: Tor 0.3.2.10 (git-31cc63deb69db819) running on OpenBSD with Libevent 2.0.22-stable, OpenSSL LibreSSL 2.7.2, Zlib 1.2.3, Liblzma N/A, and Libzstd N/A.
 Apr 29 18:44:22 openbsd Tor[39811]: Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
