@@ -6,7 +6,6 @@ If you are starting up OpenBSD for the first time and want to install packages v
 
 ```
 # vi /etc/installurl
-
 ```
 
 ~~Paste the URL for a mirror, it should be to only line in the file:~~
