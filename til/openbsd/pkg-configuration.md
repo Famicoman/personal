@@ -2,14 +2,14 @@
 
 If you are starting up OpenBSD for the first time and want to install packages via the handy `pkg` tool, you might discover that it cannot seem to locate any packages. Well, it needs to be configured first.
 
-As root, we need to modify `/etc/installurl` and add a mirror to this file:
+~~As root, we need to modify `/etc/installurl` and add a mirror to this file:~~ As of OpenBSD 6.4, this is already configured!
 
 ```
 # vi /etc/installurl
 
 ```
 
-Paste the URL for a mirror, it should be to only line in the file:
+~~Paste the URL for a mirror, it should be to only line in the file:~~
 
 ```
 https://ftp.eu.openbsd.org/pub/OpenBSD/

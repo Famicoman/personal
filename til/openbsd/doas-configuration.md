@@ -29,10 +29,10 @@ By default, the `wheel` group is already included:
 permit keepenv :wheel
 ```
 
-If your target user is not in the `wheel` group, add them:
+If your target user is not in the `wheel` group, add them. As of OpenBSD 6.4, it looks like the primary user created during installation (if any) is already in `wheel`.
 
 ```
-# pw user  mod  famicoman -G wheel
+# usermod -G famicoman wheel
 ```
 
 Or check with `groups` to make sure they are there:
