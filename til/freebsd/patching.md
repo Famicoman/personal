@@ -13,7 +13,7 @@ It's smart to do this as a cron job that runs periodically and uses the `cron` f
 
 ```
 @daily                                  root    freebsd-update cron
-``
+```
 
 ## Sources
 * https://www.freebsd.org/doc/handbook/updating-upgrading-freebsdupdate.html
