@@ -2,6 +2,10 @@
 
 * Packet Radio Zine - http://dennisdebel.nl/2017/2014-packet_radio/
 
+## APRS
+
+* Best portable APRS solution - https://www.reddit.com/r/amateurradio/comments/b0zngc/best_portable_aprs_solution/
+
 ## RTL-SDR
 
 * RPITX V2 RELEASED: EASILY RECORD AND REPLAY WITH RTL-SDR AND A RASPBERRY PI - https://www.rtl-sdr.com/rpitx-v2-released-easily-record-and-replay-with-rtl-sdr-and-a-raspberry-pi/

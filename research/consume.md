@@ -2,6 +2,42 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* All Creatures Welcome - https://media.ccc.de/v/all_creatures_welcome
+* tilde usenet with inn2 - https://gist.github.com/vilmibm/45c4e6a3db58a641960e
+* alphaarchive - http://alphaarchive.net/
+* acclaim discs - https://archive.org/details/acclaim_discs
+* lhs.nu - https://lhs.nu/archive
+* Alternative DNS - https://wikileaks.org/wiki/Alternative_DNS/
+* Digitalcourage - https://en.m.wikipedia.org/wiki/Digitalcourage
+* New York Tech Zine Fair - https://techzinefair.org/
+* Dreamcast Quake 3 Hosting - https://www.dreamcast-talk.com/forum/viewtopic.php?f=3&t=10792
+* Dreamcast Software - https://sparrdrem.github.io/homeware/roms/dreamroms
+* Dreamcast Live - https://www.dreamcastlive.net/connection-guide
+* neflabs - https://neflabs.com/
+* walkaway handbook - https://walkaway.wiki/
+* Optical Telegraphs: an early Internet - http://www.douglas-self.com/MUSEUM/COMMS/telegraf/telegraf.htm
+* A Lost Treasure of Xanadu - http://habitatchronicles.com/2019/03/a-lost-treasure-of-xanadu/
+* Homebrew Server Club - https://homebrewserver.club/
+* History of Science and Technology - https://techhistory.wordpress.com/
+* A Short History of Chaosnet  - https://twobithistory.org/2018/09/30/chaosnet.html
+* How to add site to IPFS - https://medium.com/coinmonks/how-to-add-site-to-ipfs-and-ipns-f121b4cfc8ee
+* How to update files on a site publish with IPNS? - https://www.reddit.com/r/ipfs/comments/67z7ig/how_to_update_files_on_a_site_publish_with_ipns/
+* Rick Carlino's Blog - http://rickcarlino.com/
+* The Legacy of 3dfx - https://www.kickstarter.com/projects/mgp1982/the-legacy-of-3dfx-el-legado-de-3dfx
+* Running an Open Source Cellular Network for $169 - https://twitter.com/BourascomD/status/1091452667736612866
+* Search Engines for Hackers - https://twitter.com/trimstray/status/1086705742793658369
+* 8 Linux Commands: To Find Out Wireless Network Speed, Signal Strength And Other Information - https://www.cyberciti.biz/tips/linux-find-out-wireless-network-speed-signal-strength.html
+* N64 Z Buffering - https://twitter.com/LuigiThirty/status/1110404237090045953
+* Even Doorbell - https://soundcloud.com/evan-doorbell/sets/group-1
+* Paged Out zine - https://pagedout.institute/
+* Voultar Amazon List - https://www.amazon.com/shop/voultar
+* BO2K Presentation Behind-the-Scenes - https://www.youtube.com/watch?v=oHxNEvklKqE&feature=youtu.be
+* Decentralized discussion forum - https://www.reddit.com/r/selfhosted/comments/9zwwks/decentralized_discussion_forum_reddit/
+* Apollo Guidance Computer Restoration - https://www.youtube.com/watch?v=2KSahAoOLdU&list=PL-_93BVApb59FWrLZfdlisi_x7-Ut_-w7
+* Commercial Breaks - Imagine and Ocean Software documentary - https://www.youtube.com/watch?v=Bj-KZdiSrg4
+* Space Decentral - https://spacedecentral.net/
+* Bell Labs, Skunk Works, and the Crowd Sourcing of Innovation - https://hackaday.com/2019/02/19/bell-labs-skunk-works-and-the-crowd-sourcing-of-innovation/
+* Reverse Engineering For Beginners - https://beginners.re/
 * HOW THE DREAMCAST COPY PROTECTION WAS DEFEATED - http://fabiensanglard.net/dreamcast_hacking/
 * Concise electronics for geeks - http://lcamtuf.coredump.cx/electronics/
 * Navy Electricity and Electronics Training Series - http://www.fcctests.com/neets/Neets.htm

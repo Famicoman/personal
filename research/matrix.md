@@ -1,5 +1,7 @@
 # Matrix
 
+* MSC1711 Certificates FAQ - https://github.com/matrix-org/synapse/blob/master/docs/MSC1711_certificates_FAQ.md
+
 ## Notes on IRC Bridge
 
 ```# NixOS matrix configuration

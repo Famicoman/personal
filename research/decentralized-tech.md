@@ -1,5 +1,6 @@
 # Decentralized Tech
 
+* Setting up batman-adv on OpenWRT - https://www.reddit.com/r/openwrt/comments/ava7dq/advice_on_setting_up_a_batmanadv_mesh_on_openwrt/
 * Ricochet-irc - https://github.com/wfr/ricochet-irc
 * RetroShare - http://retroshare.sourceforge.net/
 * Alliance P2P - http://www.alliancep2p.com/

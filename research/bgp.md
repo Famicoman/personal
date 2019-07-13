@@ -1,5 +1,7 @@
 # BGP (Border Gateway Protocol)
 
+* The Long Life of a Quick Fix - https://www.washingtonpost.com/sf/business/2015/05/31/net-of-insecurity-part-2/?noredirect=on&utm_term=.3eecd1ddcb37
+* Learn About BGP with the Internet of Eve - https://hackaday.com/2019/02/11/learn-about-bgp-with-the-internet-of-eve/
 * Deploying Anycast DNS using OpenBSD and BGP - https://jonwillia.ms/2018/09/23/anycast-dns-openbsd
 * anoNet - http://anonet.org/index.htm
 * Setting up BGP on the MetaNET - http://wiki.wlug.org.nz/MetaNetBGPNotes

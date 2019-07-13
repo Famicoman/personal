@@ -2,6 +2,7 @@
 
 I'm building an 8-bit microcomputer from a kit!
 
+* Dual Serial Pinout - https://twitter.com/Famicoman/status/962090715915399169
 * RC2014 Plus - Homebrew Z80 Computer Kit - https://www.tindie.com/products/Semachthemonkey/rc2014-plus-homebrew-z80-computer-kit/
 * SIO/2 Dual Serial Module for RC2014 - https://www.tindie.com/products/Semachthemonkey/sio2-dual-serial-module-for-rc2014/
 * Full Monty Assembly Guide - http://rc2014.co.uk/wp-content/uploads/2016/07/Full-Monty-Assembly-Guide.pdf

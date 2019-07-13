@@ -1,5 +1,7 @@
 # Tor
 
+* onion-redir - https://github.com/epidemics-scepticism/onion-redir/blob/master/redir.php
+* Securing Services with Tor and alt-svc - https://write.privacytools.io/jonah/securing-services-with-tor-and-alt-svc
 * Resources on reliably hosting .onion site? - https://old.reddit.com/r/onions/comments/8kyclv/resources_on_reliably_hosting_onion_site/
 * CthulhuSec - https://www.thecthulhu.com/services/
 * Setting up a hidden service with NGINX - https://www.thecthulhu.com/setting-up-a-hidden-service-with-nginx/
