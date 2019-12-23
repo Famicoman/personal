@@ -2,6 +2,20 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* The community network manual : how to build the Internet yourself - http://bibliotecadigital.fgv.br/dspace/handle/10438/25696
+* subnodes - http://subnodes.org/
+* Drowning in Aether, Matthias Hurtl - https://radicalnetworks.org/archives/2019/participants/matthias-hurtl/
+* Awesome Mainframe Hacking - https://github.com/samanL33T/Awesome-Mainframe-Hacking/blob/master/README.md
+* C*NET - https://www.ckts.info/
+* The Art of Warez - https://vimeo.com/341663153
+* DocDroppers - https://web.archive.org/web/20110820082210/http://www.docdroppers.org:80/wiki/index.php?title=Main_Page
+* Area 51 Archives - https://web.archive.org/web/20151026014642/http://area51archives.com:80/index.php?title=Main_Page
+* Identifying North American Phone Switches - https://news.ycombinator.com/item?id=11994428
+* Identifying Phone Switches - https://web.archive.org/web/20160428232823/http://thoughtphreaker.omghax.ca/switchid.txt
+* SMIRCH - https://github.com/tuxxy/SMIRCH
+* Submarine Cable Map - https://www.submarinecablemap.com/
+* Solderless 18650 Battery Holder - http://endless-sphere.com/forums/viewtopic.php?f=14&t=60517&start=25
+* LoRa Mesh Radio - https://www.instructables.com/id/LoRa-Mesh-Radio/
 * All Creatures Welcome - https://media.ccc.de/v/all_creatures_welcome
 * tilde usenet with inn2 - https://gist.github.com/vilmibm/45c4e6a3db58a641960e
 * alphaarchive - http://alphaarchive.net/

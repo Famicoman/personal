@@ -1,6 +1,11 @@
 # Amateur Radio
 
 * Packet Radio Zine - http://dennisdebel.nl/2017/2014-packet_radio/
+* CS580 UHF - http://www.csi-radios.com/cs580-uhf/
+* VA3XPR - http://www.va3xpr.net/
+* Morse Typing Trainer - https://morse.withgoogle.com/learn/
+* AX.25 and Direwolf under Linux - https://g7vrd.co.uk/ax25-direwolf-linux
+* HamWAN - http://hamwan.org/
 
 ## APRS
 
@@ -17,9 +22,8 @@ Reprogramming
 & Paging Protocols - https://web.archive.org/web/20170730062742/https://www.hackcanada.com/blackcrawl/cell/pager/pager.html
 * The Wireless Badger - https://hackaday.io/project/160997-the-wireless-badger
 
-* CS580 UHF - http://www.csi-radios.com/cs580-uhf/
-* VA3XPR - http://www.va3xpr.net/
-* Morse Typing Trainer - https://morse.withgoogle.com/learn/
-* AX.25 and Direwolf under Linux - https://g7vrd.co.uk/ax25-direwolf-linux
+### Satellite Radio
 
-* HamWAN - http://hamwan.org/
+* SDR: Satellite Death Receiver - https://hackaday.com/2014/11/04/sdr-satellite-death-receiver/
+* NOAA Satellite Signals With a PVC QFH Antenna and Laptop - https://www.instructables.com/id/NOAA-Satellite-Signals-with-a-PVC-QFH-Antenna-and-/
+* How To Build A QFH (Quadrifilar Helix Antenna) to Download Images From Weather Satellites - http://tinhatranch.com/how-to-build-a-qfh-quadrifilar-helix-antenna-to-download-images-from-weather-satellites/

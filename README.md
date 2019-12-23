@@ -58,6 +58,7 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [Beaglebone Black](research/beaglebone-black.md)
 - [ ] - [BGP](research/bgp.md)
 - [ ] - [BitTorrent](research/bittorrent.md)
+- [ ] - [Blue Box](research/blue-box.md)
 - [ ] - [Bulletin Board System](research/bbs.md)
 - [ ] - [Cisco ATA 186 SIP](research/cisco-ata-186-sip.md)
 - [ ] - [cjdns](research/cjdns.md)
@@ -94,6 +95,7 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [Typefaces](research/typefaces.md)
 - [ ] - [Usenet Server](research/usenet-server.md)
 - [ ] - [Webdev Tools](research/webdev-tools.md)
+- [ ] - [WiFi232](research/wifi232.md)
 - [ ] - [WYSE WY-60](research/wyse-wy-60/wyse-wy-60.md)
 
 ## Today I Learned
