@@ -4,7 +4,7 @@
 
 | Title       | Author      | ISBN     |
 | ----------- | ----------- | -------- |
-| High Tech Heretic: Why Computers Don't Belong in the Classroom and Other Reflections by a Computer Contrarian (1999) | Clifford Stoll | 0385489757 |
+| The Undersea Network (2015) | Nicole Starosielski | 0822357550 |
 
 ## Read
 
@@ -12,6 +12,7 @@
 
 | Title       | Author      | ISBN     |
 | ----------- | ----------- | -------- |
+| High Tech Heretic: Why Computers Don't Belong in the Classroom and Other Reflections by a Computer Contrarian (1999) | Clifford Stoll | 0385489757 |
 | Where Wizards Stay Up Late: The Origins Of The Internet (1996) | Katie Hafner | 9780684832678 |
 | The Cluetrain Manifesto: 10th Anniversary Edition (2011) | Rick Levine, Christopher Locke, Doc Searls, David Weinberger | 0465024092 |
 
