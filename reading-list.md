@@ -64,3 +64,19 @@
 | Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age (1999) | Michael A. Hiltzik | 0887309895 |
 | Microserfs (1995) | Douglas Coupland | 0060987049 |
 | Direct from Dell: Strategies that Revolutionized an Industry (1999) | Michael Dell | 000653127X |
+
+### Older
+
+| Title       | Author      | ISBN     |
+| ----------- | ----------- | -------- |
+| A Clockwork Orange (1962) | Anthony Burgess | 0393312836 |
+| There Are No Electrons: Electronics for Earthlings (1991) | Amdahl Kenn | 0962781592 |
+| White Noise (1985) | Don DeLillo | 0140283307 |
+| The Hacker Diaries: Confessions of Teenage Hackers (2001) | Dan Verton | 0072223642 |
+| Snow Crash (1992) | Neal Stephenson | 0553380958 |
+| Private Parts (1993) | Howard Stern | 0671009443 |
+| Commodork: Sordid Tales from a BBS Junkie (2006) | Rob O'Hara | 1847285821 |
+| What's the Matter with the Internet? (2001) | Mark Poster | 0816638349 |
+| Invisible Monsters (1999) | Chuck Palahniuk | |
+| The Great Gatsby (1925) | F. Scott Fitzgerald | 0743273567 |
+| The Anarchist Cookbook (1971) | William Powell | 0974458902 | 
