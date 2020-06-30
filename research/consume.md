@@ -2,6 +2,9 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* Handshake - https://handshake.org/
+* Rotary Cellphone - https://justine-haupt.com/rotarycellphone/
+* Cicada 3301 - https://en.wikipedia.org/wiki/Cicada_3301
 * The community network manual : how to build the Internet yourself - http://bibliotecadigital.fgv.br/dspace/handle/10438/25696
 * subnodes - http://subnodes.org/
 * Drowning in Aether, Matthias Hurtl - https://radicalnetworks.org/archives/2019/participants/matthias-hurtl/
