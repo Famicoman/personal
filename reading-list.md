@@ -1,5 +1,7 @@
 # Reading List
 
+Books I'm reading, books I have read, and books I want to read. ISBN may not be the exact printing of the book I have/want but should be the proper edition where applicable.
+
 ## Reading
 
 | Title | Author | ISBN |
@@ -173,3 +175,26 @@
 | Free as in Freedom: Richard Stallman's Crusade for Free Software (2002) | Sam Williams | 0596002874 |
 | Hackers & Painters: Big Ideas from the Computer Age (2004) | Paul Graham | 0596006624 |
 | 10 Print Chr$(205.5+rnd(1)); Goto 10 (2012) | Nick Montfort, Patsy Baudoin, John Bell | 0262018462 |
+| Once Upon a Time in Computerland (1987) | Jon Littman | 0895865025 |
+| The Story of Commodore: A Company on the Edge (2006) | Brian Bagnall | 0973864907 |
+| Commodore: A Company on the Edge (2010) | Brian Bagnall | 0973864966 |
+| Commodore: The Amiga Years (2012) | Brian Bagnall | 0973864990 |
+| Requiem for a Dream (1978) | Hubert Selby Jr. | 1560252480 |
+| Moebius 4: The Long Tomorrow and Other Science Fiction (1988) | Jean Giraud | 0871352818 |
+| The Rules of Attraction (1987) | Bret Easton Ellis | 067978148X |
+| The Doors of Perception (1954) | Aldous Huxley | 0060801719 |
+| Tulsa (1971) | Larry Clark | 0802137482 |
+| Machine of Death: A Collection of Stories About People Who Know How They Will Die (2010) | Ryan North | 0982167121 |
+| Tropic of Cancer (1934) | Henry Miller | 0802131786 |
+| Fishtown (2008) | Kevin Colden | 1600102735 |
+| The Crying of Lot 49 (1966) | Thomas Pynchon | 006091307X |
+| Terrible Nerd (2012) | Kevin Savetz | 1939169003 |
+| Stand on Zanzibar (1968) | John Brunner | 1857988361 |
+| Cypherpunks: Freedom and the Future of the Internet (2012) | Julian Assange, Jacob Appelbaum | 1939293006 |
+| Et Tu, Babe (1992) | Mark Leyner | 0679745068 |
+| Hack This: 24 Incredible Hackerspace Projects from the DIY Movement (2011) | John Baichtal | 0789748975 |
+| House of Leaves (2000) | Mark Z. Danielewski | 038560310X |
+| John Dies at the End (2007) | David Wong | 0978970764 |
+| Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today's Computers (2012) | John MacCormick | 9780691147147 |
+| The Cyberthief and the Samurai: The True Story of Kevin Mitnick-And the Man Who Hunted Him Down (1996) | Jeff Goodell | 0440222052 |
+| Takedown: The Pursuit and Capture of Kevin Mitnick, America's Most Wanted Computer Outlaw - By the Man Who Did It (1996) | Tsutomu Shimomura, John Markoff | 0786889136 |
