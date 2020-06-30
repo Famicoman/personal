@@ -84,8 +84,7 @@
 | The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers (2005) | Kevin Mitnick | 0471782661 |
 | Ghost in the Wires: My Adventures as the World's Most Wanted Hacker (2011) | Kevin Mitnick | 0316037702 |
 | Phone Losers of America (2010) | Brad Carter | 1452876169 |
-| VHS: Absurd, Odd, and Ridiculous Relics from the Videotape Era (2011) | Joe Pickett,
-Nick Prueher | 076244259X | 
+| VHS: Absurd, Odd, and Ridiculous Relics from the Videotape Era (2011) | Joe Pickett, Nick Prueher | 076244259X | 
 | Rice Tea (2008) | Julien McArdle | |
 | Generation X: Tales for an Accelerated Culture (1991) | Douglas Coupland | 0349108390 |
 | Netnography: Doing Ethnographic Research Online (2009) | Robert V. Kozinets | 1848606451 |
@@ -94,8 +93,7 @@ Nick Prueher | 076244259X |
 | Coming of Age in Second Life: An Anthropologist Explores the Virtually Human (2008) | Tom Boellstorff | 0691135282 |
 | Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (1974) | Robert M. Pirsig | 0060589469 |
 | The Things They Carried (1990) | Tim O'Brien | 0767902890 |
-| Masters of Deception: The Gang That Ruled Cyberspace (1995) | Michelle Slatalla,
-Joshua Quittner | 0060926945 |
+| Masters of Deception: The Gang That Ruled Cyberspace (1995) | Michelle Slatalla, Joshua Quittner | 0060926945 |
 | Apathy and Other Small Victories (2006) | Paul Neilan | 0312351747 |
 | Trainspotting (1993) | Irvine Welsh | 0099465892 |
 | The Toy Collector (2000) | James Gunn | 1582341494 |
