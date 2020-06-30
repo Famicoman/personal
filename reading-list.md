@@ -5,6 +5,7 @@
 | Title | Author | ISBN |
 | ----------- | ----------- | -------- |
 | The Undersea Network (2015) | Nicole Starosielski | 0822357550 |
+| Computer Lib/Dream Machines (1974) | Ted Nelson | 0893470023 |
 
 ## Read
 
