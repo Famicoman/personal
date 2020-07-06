@@ -151,13 +151,13 @@ Books I'm reading, books I have read, and books I want to read. ISBN may not be 
 | Lord of the Flies (1954) | William Golding | 0140283331 |
 | The Road (2006) | Cormac McCarthy | 0307265439 |
 
-## Want To Read
+## Want To Read (Already Obtained)
 | Title | Author | ISBN |
 | ----------- | ----------- | -------- |
 | Cryptonomicon (1999) | Neal Stephenson | 0380788624 |
 | Battle Royale (1999) | Koushun Takami | 156931778X |
 
-## Want To Obtain
+## Want To Obtain (To Read)
 
 | Title | Author | ISBN |
 | ----------- | ----------- | -------- |
@@ -198,3 +198,78 @@ Books I'm reading, books I have read, and books I want to read. ISBN may not be 
 | Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today's Computers (2012) | John MacCormick | 9780691147147 |
 | The Cyberthief and the Samurai: The True Story of Kevin Mitnick-And the Man Who Hunted Him Down (1996) | Jeff Goodell | 0440222052 |
 | Takedown: The Pursuit and Capture of Kevin Mitnick, America's Most Wanted Computer Outlaw - By the Man Who Did It (1996) | Tsutomu Shimomura, John Markoff | 0786889136 |
+| The Other Hollywood: The Uncensored Oral History of the Porn Film Industry (2005) | Legs McNeil | 0060096594 |
+| Permutation City (1994) | Greg Egan | 006105481X |
+| Infinite Reality: The Hidden Blueprint of Our Virtual Lives (2012) | Jim Blascovich, Jeremy Bailenson | 9780061809514 |
+| Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration (2009) | Ed Catmull, Amy Wallace | 0812993012 |
+| Video Revolutions: On the History of a Medium (2012) | Michael Z. Newman | 0231169515 |
+| Outposts: A Catalog of Rare And Disturbing Alternative Information (1995) | Russ Kick, Richard West | 0786702028 |
+| The New Media Reader (2003) | Noah Wardrip-Fruin | 0262232278 |
+| Home Computer Revolution (1978) | Ted Nelson | 0893470252 |
+| The Microcomputer Builder's Bible (1982) | Chris Johnston | 0830624732 |
+| The Knowledge: How to Rebuild Our World from Scratch (2014) | Lewis Dartnell | 159420523X |
+| TV Typewriter Cookbook (1976) | Don Lancaster | 0672213133 |
+| Inherent Vice: Bootleg Histories of Videotape and Copyright (2009) | Lucas Hilderbrand | 0822343762 |
+| Discovering Computers (1981) | V. X. Gledhill | 0574282475 |
+| Dieter Rams: As Little Design as Possible (2010) | Sophie Lovell | 0714849189 |
+| Headcrash (1995) | Bruce Bethke | 0446673145 |
+| Enchanted Objects: Design, Human Desire, and the Internet of Things (2014) | David Rose | 1476725632 |
+| Fumbling the Future: How Xerox Invented Then Ignored the First Personal Computer (1988) | Douglas K. Smith, Robert C. Alexander | 1583482660 |
+| Crash (1973) | J.G. Ballard | 0312420331 |
+| The Contortionist's Handbook (2002) | Craig Clevenger | 1931561486 |
+| Kiss Me, Judas (1998) | Will Christoper Baer | 1596921862 |
+| Pocket Ref 4th Edition (2010) | Thomas Glover | 1885071620 | 
+| Ratio: The Simple Codes Behind the Craft of Everyday Cooking (2009) | Michael Ruhlman | 1416566112 |
+| Instant: The Story of Polaroid (2012) | Christopher Bonanos | 1616890851 |
+| Instructional Media and the New Technologies of Instruction 4th Edition (1992) | Robert Heinich, Michael Moldenda, James D. Russell | 002353060X |
+| The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution (2014) | Walter Isaacson | 147670869X |
+| Casting the Net: From ARPANET to INTERNET and Beyond (1995) | Peter H. Salus | 0201876744 |
+| Elevator Traffic Handbook (2011) | Gina Carol Barney | 0415511003 |
+| Turing's Cathedral: The Origins of the Digital Universe (2012) | George Dyson | 1400075998 |
+| Nerds 2.0.1 (1998) | Stephen Segaller | 1575000881 |
+| Bootstrapping: Douglas Engelbart, Coevolution, and the Origins of Personal Computing (2000) | Thierry Bardini | 0804738718 |
+| Smalltalk-80: The Language and its Implementation (1983) | Adele Goldberg, David Robson | 0201113716 |
+| Art of Electronics (1980) | Paul Horowitz | 0521370957 |
+| The Art of Computer Programming, Volumes 1-4A Boxed Set (2011) | Donald E. Knuth | 0321751043 |
+| Look Me in the Eye: My Life with Asperger's (2007) | John Elder Robison | 0307395987 |
+| How to Sharpen Pencils: A Practical & Theoretical Treatise on the Artisanal Craft of Pencil Sharpening for Writers, Artists, Contractors, Flange Turners, Anglesmiths, & Civil Servants (2012) | David Rees | 1612190405 |
+| The Pragmatic Programmer: From Journeyman to Master (1999) | Andrew Hunt, David Thomas | 9780201616224 |
+| What On Earth is a Mainframe? (2008) | David Stephens | 1409225356 |
+| Introduction to VLSI Systems (1979) | Carver Mead, Lynn Conway | 0201043580 |
+| Marc Andreessen and Jim Clark: The Founders of Netscape (2006) | Simone Payment | 1404207198 |
+| Understanding Intelligence (1999) | Rold Pfeifer, Christian Scheier | 026266125X |
+| Neural Networks: A Comprehensive Foundation (1994) | Simon Haykin | 0023527617 |
+| A Field Guide to Genetic Programming (2008) | Riccardo Poli, William B. Langdon | 1409200736 |
+| Cybernetics, Art, and Ideas (1971) | Jasia Reichardt | 0821204319 |
+| The Singularity Is Near: When Humans Transcend Biology (2005) | Ray Kurzweil | 0143037889 |
+| Handbook of Peer-to-Peer Networking (2009) | Xuemin Shen, John Buford, Heather Yu, Mursalin Akon | 0387097503 |
+| Jacked: The Unauthorised Behind the Scenes Story of Grand Theft Auto (2012) | David Kushner | 0007434855 |
+| Tokyo Cyberpunk: Posthumanism in Japanese Visual Culture (2010) | Steven T. Brown | 023010360X |
+| Urawaza: Secret Everyday Tips and Tricks from Japan (2008) | Lisa Katayama | 0811862151 |
+| The Virtual Reality Programmer's Kit (1994) | Joseph D. Gradecki | 0471052531 |
+| Virtual Reality: The Revolutionary Technology of Computer-Generated Artificial Worlds - and How It Promises to Transform Society (1992) | Howard Rheingold | 0671778978 |
+| Sex, Drugs and Tessellation: The truth about Virtual Reality, as revealed in the pages of CyberEdge Journal (2014) | Ben Delaney | 1500893293 |
+| The Black Art of Xbox Mods (2004) | Jonathan Harbour | 0672326833 |
+| Black Art of Halo Mods (2006) | Stephen Cawood | 0672328046 |
+| SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL (3rd Edition) (2014) | John L. Viescas, Michael J. Hernandez | 0321992474 |
+| Chaos & Cyber Culture (1994) | Timothy Leary | 0914171771 |
+| Underground: Tales of Hacking, Madness and Obsession on the Electronic Frontier (2012) | Julian Assange, Suelette Dreyfus | 0857862594 |
+| PGP: Source Code and Internals (1995) | Philip R. Zimmermann | 0262240394 |
+| Operating System Concepts 8th Ed (2008) | Abraham Silberschatz, Peter B. Galvin, Greg Gagne | 0470128720 |
+| Applied Cryptography: Protocols, Algorithms, and Source Code in C 2nd Edition (1996) | Bruce Schneier | 9780471117094 |
+| Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design 3rd Edition (2013) | Michael J. Hernandez | 9780321884497 |
+| The Metamorphosis of Prime Intellect (2010) | Roger Williams | 1411602196 |
+| Digital Design and Computer Architecture 2nd Edition (2012) | David Harris, Sarah Harris | 9789382291527 | 
+| Code: The Hidden Language of Computer Hardware and Software (2000) | Charles Petzoid | 9780735611313 |
+| The Elements of Computing Systems: Building a Modern Computer from First Principles (2005) | Noam Nisan, Shimon Schocken | 0262640686 |
+| Structures: Or Why Things Don't Fall Down (2003) | J. E. Gordon | 0306812835 |
+| The Design of Everyday Things: Revised and Expanded Edition (2013) | Don Norman | 9780465050659 |
+| The Soul of A New Machine (2000) | Tracy Kidder | 0316491977 |
+| Rendezvous with Rama (1973) | Arthur C. Clarke | 1857231589 |
+| Microprocessor and Peripheral Handbook; Volume 1 Microprocessor (Volume 1 Microprocessor (1988) | Intel | 1555120733 |
+| Television's Pirates: Hiding behind your picture tube (2006) | Robert B. Cooper | 097779802X |
+| Possiplex (2011) | Ted Nelson | 089347004X |
+| The Art of Capacity Planning: Scaling Web Resources (2008) | John Allspaw | 0596518579 |
+| The Happy Mutant Handbook (1995) | Carla Sinclair | 1573225029 |
+| Rainbows End (2006) | Vernor Vinge | 0812536363 |
+| Borg Like Me: & Other Tales of Art, Eros, and Embedded Systems (2014) | Gareth Branwyn | B00N0AHFKA |
