@@ -179,6 +179,7 @@ Books I'm reading, books I have read, and books I want to read. ISBN may not be 
 | The Story of Commodore: A Company on the Edge (2006) | Brian Bagnall | 0973864907 |
 | Commodore: A Company on the Edge (2010) | Brian Bagnall | 0973864966 |
 | Commodore: The Amiga Years (2012) | Brian Bagnall | 0973864990 |
+| Commodore: The Final Years (2019) | Brian Bagnall | 0994031033 |
 | Requiem for a Dream (1978) | Hubert Selby Jr. | 1560252480 |
 | Moebius 4: The Long Tomorrow and Other Science Fiction (1988) | Jean Giraud | 0871352818 |
 | The Rules of Attraction (1987) | Bret Easton Ellis | 067978148X |
@@ -273,3 +274,124 @@ Books I'm reading, books I have read, and books I want to read. ISBN may not be 
 | The Happy Mutant Handbook (1995) | Carla Sinclair | 1573225029 |
 | Rainbows End (2006) | Vernor Vinge | 0812536363 |
 | Borg Like Me: & Other Tales of Art, Eros, and Embedded Systems (2014) | Gareth Branwyn | B00N0AHFKA |
+| The New Organic Grower: A Master's Manual of Tools and Techniques for the Home and Market Gardener, 2nd Edition (1995) | Eliot Coleman | 9780930031756 |
+| Covert Culture Sourcebook (1993) | Richard Kadrey | 031209776X |
+| Cool Tools: A Catalog of Possibilities (2013) | Kevin Kelly | 1940689007 |
+| The Virtual Reality Construction Kit (1994) | Joseph D. Gradecki | 0471009539 |
+| Cyberarts: Exploring Art & Technology (1992) | Linda Jacobson | 0879302534 |
+| Torso: A True Crime Graphic Novel (2000) | Brian Michael Bendis | 1582406979 |
+| The Killer Omnibus Volume 1 (2012) | Luc Jacamon Matz | 1936393751 |
+| Dirk Gently's Holistic Detective Agency (1987) | Douglas Adams | 1476782997 |
+| Hokkaido Highway Blues: Hitchhiking Japan (2003) | Will Ferguson | 9781841952888 |
+| Orwell versus the Terrorists: A Digital Short (2015) | Jamie Bartlett | B00QJLNM2W |
+| Rtfm: Red Team Field Manual 1.0 Edition (2014) | Ben Clark | 1494295504 |
+| What If?: Serious Scientific Answers to Absurd Hypothetical Questions (2014) | Randall Munroe | 0544272994 |
+| Thing Explainer: Complicated Stuff in Simple Words (2015) | Randal Munroe | 0544668251 |
+| The New New Thing: A Silicon Valley Story (2014) | Michael Lewis | 0393347818 |
+| Cyberia: Life in the Trenches of Hyperspace (1995) | Douglas Rushkoff | 0062510096 |
+| From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism (2006) | Fred Turner | 0226817415 |
+| The Wiki Way: Quick Collaboration on the Web (2001) | Bo Leuf, Ward Cunningham | 020171499X |
+| In the Beginning... was the Command Line (1999) | Neal Stephenson | 9780380815937 |
+| The Virtual Reality Homebrewer's Handbook (1996) | Robin Hollands | 0471958719 |
+| Amok: Sourcebook of the Extremes of Information in Print (1989) | Stuart Swezey | B005APLBG2 |
+| Amok: Third Dispatch (1988) | Brian King, Stuart Swezy | B008ZHX56Q |
+| Amok Fourth Dispatch: Sourcebook of Extremes of Information in Print (1990) | Brian King, Stuart Swezy | 1878923005 |
+| Amok Fifth Dispatch: Sourcebook for the Extremes of Information (1999) | Stuart Swezey | 1878923129 |
+| No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State (2015) | Glenn Greenwald | 1250062586 |
+| Flowers for Algernon (1966) | Daniel Keyes | 0156030306 |
+| Cybernetics of the sacred (1974) | Paul Ryan | 0385065809 |
+| Video Art: An Anthology (1976) | Ira Schneider, Beryl Korot | 0151936323 |
+| II Cybernetic Frontiers (1974) | Stewart Brand | 0394706897 |
+| Soft-tech (1978) | Stewart Brand, J. Baldwin | 0140048065 |
+| Space Colonies (1977) | Stewart Brand | 0140048057 |
+| Communes USA: A Personal Tour (1972) | Richard Fairfield | 0140034897 |
+| Droppers: America’s First Hippie Commune, Drop City (2010) | Mark Matthews | 0806140585 |
+| The Modern Utopian: Alternative Communities of the '60s and '70s (2010) | Richard Fairfield, Timothy Miller | 1934170151 |
+| All the Rave: The Rise and Fall of Shawn Fanning's Napster (2003) | Joseph Menn | 0609610937 |
+| Reamde: A Novel (2012) | Neal Stephenson | 0062191497 |
+| Cybernetic Samurai (1986) | Victor Milan | 0441132340 |
+| The Shockwave Rider (1995) | John Brunner | 0345467175 |
+| Makers (2009) | Cory Doctorow | 0765312794 |
+| The Supermen: The Story of Seymour Cray and the Technical Wizards Behind the Supercomputer (1997) | Charles J. Murray | 0471048852 |
+| The Social Life of Information (2002) | John Seely Brown, Paul Duguid | 1578517087 |
+| In Search of Stupidity: Over Twenty Years of High Tech Marketing Disasters 2nd Edition (2006) | Merrill R. Chapman | 1590597214 |
+| Console Wars: Sega, Nintendo, and the Battle that Defined a Generation (2015) | Blake J. Harris | 0062276700 |
+| Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition (2010) | Steven Levy | 1449388396 |
+| The Making of Karateka: Journals 1982-1985 (2012) | Jordan Mechner | 1480297232 |
+| The Making of Prince of Persia: Journals 1985 - 1993 (2011) | Jordan Mechner | 1468093657 |
+| MR. ROBOT: Red Wheelbarrow: (eps1.91_redwheelbarr0w.txt) (2016) | Sam Esmail, Courtney Looney | 1419724428 |
+| Open: How Compaq Ended IBM's PC Domination and Helped Invent Modern Computing (2013) | Rod Canion | 1937856992 |
+| Designing Virtual Worlds (2003) | Richard A. Bartle | 9780131018167 |
+| Gödel, Escher, Bach: An Eternal Golden Braid (1999) | Douglas R. Hofstadter | 0465026567 |
+| The Age of Intelligent Machines (1992) | Ray Kurzweil | 0262610795 |
+| Surfing the High Tech Wave: A History of Novell 1980-1990 (2010) | Roger Bourke White Jr. | 1452023034 |
+| Man into Superman (1974) | R. Ettinger | 0380000474 |
+| Cyberspace: First Steps (1992) | Michael Benedikt | 0262521776 |
+| Semiotext[e] SF (1991) | Rudy Rucker, Robert Anton Wilson | 0936756438 |
+| JPod (2007) | Douglas Coupland | 9781596911055 |
+| True Names: And the Opening of the Cyberspace Frontier (2001) | Vernor Vinge | 0312862075 |
+| How to Mutate and Take Over the World (1996) | St. Jude, R. U. Sirius | 0345392167 |
+| Reality Check (1996) | David Pescovitz | 1888869038 |
+| The Media Lab: Inventing the Future at M.I.T. (1987) | Stewart Brand | 0670814423 |
+| Media Virus! Hidden Agendas in Popular Culture (1994) | Douglas Rushkoff | 0345397746 |
+| Tools for Conviviality (2001) | Ivan Illich | 1842300113 |
+| The Network Revolution: Confessions of a Computer Scientist (1993) | Jacques Vallee | 091590473X |
+| Revolution in The Valley: The Insanely Great Story of How the Mac Was Made (2011) | Andy Hertzfeld | 1449316247 |
+| Sunburst: The Ascent of Sun Microsystems (1990) | Mark Hall, John Barry | 0809243687 |
+| The Ultimate Entrepreneur: The Story of Ken Olsen and Digital Equipment Corporation (1988) | Glenn Rifkin, George Harrar | 0809245590 |
+| Bug (2012) | Ellen Ullman | 1250002494 |
+| A History of Modern Computing 2nd Edition (2003) | Paul E. Ceruzzi | 0262532034 |
+| Introduction to the New Mainframe: z/OS Basics (2011) | Mike Ebbers, John Kettner | 0738435341 |
+| Gates: How Microsoft's Mogul Reinvented an Industry--and Made Himself the Richest Man in America by Stephen Manes (1992) | Stephen Manes, Paul Andrews | 0671880748 |
+| Mind Grenades: Manifestos from the Future (1996) | John Plunkett | 1888869003 |
+| Wired - A Romance (2003) | Gary Wolf | 0375502904 |
+| The Road Ahead (1995) | Bill Gates | 0670772895 |
+| We (1993) | Yevgeny Zamyatin | 0140185852 |
+| Minitel: Welcome to the Internet (2017) | Julien Mailland, Kevin Driscoll | 0262036223 |
+| Without Their Permission: The Story of Reddit and a Blueprint for How to Change the World (2016) | Alexis Ofhanian | 1455520012 |
+| How to be your own phone company (1985) | Alexander G. Gellert | 0830618694 |
+| The Hardware Hacker: Adventures in Making and Breaking Hardware (2017) | Andrew Bunnie Huang | 159327758X |
+| Crypto Anarchy, Cyberstates, and Pirate Utopias (2001) | Reter Ludlow | 0262621517 |
+| Complete Stories (2017) | Kurt Vonnegut | 1609808088 |
+| Cyberpunk: Stories of Hardware, Software, Wetware, Evolution, and Revolution (2013) | Pat Cadigan, Benjamin Parzybok | 1937163083 |
+| Hackers (1996) | Jack Dann, Garder Dozois | 0441003753 |
+| Broad Band: The Untold Story of the Women Who Made the Internet (2018) | Claire L. Evans | 9780735211759 | 
+| Freedom (2010) | Daniel Suarez | 9780451231895 |
+| Cyberiad (2014) | Lem Stanislaw | 0141394595 |
+| My Tiny Life: Crime and Passion in a Virtual World (1999) | Julian Dibbell | 0805036261 |
+| The Telephone Book: Technology, Schizophrenia, Electric Speech (1991) | Avital Ronnell | 0803289383 |
+| Essential System Administration: Tools and Techniques for Linux and Unix Administration, 3rd Edition (2002) | Æleen Frisch | 0596003439 |
+| Cybernetic Revolutionaries: Technology and Politics in Allende's Chile (2014) | Eden Medina | 0262525968 |
+| How Not to Network a Nation: The Uneasy History of the Soviet Internet (Information Policy) (2017) | Benjamin Peters | 0262534665 |
+| Hard Boiled (2000) | Frank Miller | 1878574582 |
+| The Little Kingdom: The Private Story of Apple Computer (1984) | Michael Moritz | 0688039731 |
+| Bright Lights, Big City (1984) | Jay McInerney | 0394726413 |
+| The Race for a New Game Machine: Creating the Chips Inside the XBox 360 and the Playstation 3 (2009) | David Shippy, Mickie Phipps | 0806531010 |
+| Defying Gravity: The Making of Newton (1993) | Markos Kounalakis | 0941831949 |
+| The Puzzle Palace: Inside the National Security Agency, America's Most Secret Intelligence Organization (1983) | James Bamford | 0140067485 |
+| The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet (1996) | David Kahn | 0684831309 |
+| Spies Against Armageddon: Inside Israel's Secret Wars: Updated & Revised 2nd Edition (2014) | Dan Raviv, Yossi Melman | 0985437898 |
+| Start-up Nation: The Story of Israel's Economic Miracle (2011) | Dan Senor, Saul Singer | 0446541478 |
+| The Master Switch: The Rise and Fall of Information Empires (2010) | Tim Wu | 0307269930 |
+| Storming the Reality Studio: A Casebook of Cyberpunk & Postmodern Science Fiction (2012) | Larry McCafferty | B00I9AX7Q2 |
+| The Ultimate Cyberpunk (2002) | Martin Greenberg | 0743452399 |
+| Speed Tribes: Days and Night's with Japan's Next Generation (1995) | Karl Taro Greenfeld | 0060926651 |
+| Counterculture Through the Ages: From Abraham to Acid House (2004) | Kenn Goffman, Dan Joy | 0375507582 |
+| Game Engine Black Book: Wolfenstein 3D (2017) | Fabien Sanglard | 1539692876 |
+| Corporate Espionage: What It Is, Why It's Happening in Your Company, What You Must Do About It (1999) | Ira Winkler | 0761518096 |
+| Spies Among Us: How to Stop the Spies, Terrorists, Hackers, and Criminals You Don't Even Know You Encounter Every Day (2005) | Ira Winkler | 0764584685 |
+| Through the Eyes of the Enemy: The Autobiography of Stanislav Lunev (1998) | Stanislav Lunev | 0895263904 |
+| Gaming the Iron Curtain: How Teenagers and Amateurs in Communist Czechoslovakia Claimed the Medium of Computer Games (2018) | Jaroslav Svelch | 0262038846 |
+| UNIX: A History and a Memoir (2019) | Brian W. Kernighan | 1695978552 |
+| Super Pumped: The Battle for Uber (2019) | Mike Isaac | 0393652246 |
+| The Dream Machine (2018) | M. Mitchell Waldrop | 1732265119 |
+| The GCHQ Puzzle Book: Pit Your Wits Against the People Who Cracked Engima (2016) | GCHQ | 0718185544 |
+| GCHQ 2 (2018) | GCHQ | 0241365430 |
+| The History of the Future: Oculus, Facebook, and the Revolution That Swept Virtual Reality (2019) | Blake J. Harris | 0062455966 |
+| Digital Cash: The Unknown History of the Anarchists, Utopians, and Technologists Who Created Cryptocurrency (2019) | Finn Brunton | 0691179492 |
+| Mobile Solar Power Made Easy!: Mobile 12 volt off grid solar system design and installation. RV's, Vans, Cars and boats! Do-it-yourself step by step instructions. (2017) | William Errol Prowse IV | 1546567119 |
+| Uncanny Valley: A Memoir (2020) | Anna Wiener | 0374278016 |
+| Saving Bletchley Park (2016) | Sue Black | 1908717920 |
+| Breaking and Entering: The Extraordinary Story of a Hacker Called "Alien" (2019) | Jeremy N. Smith | 0544903218 | 
+| The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data (2017) | Kevin Mitnick | 0316380504 |
+| Arcade Game Typography: The Art of Pixel Type (2019) | Toshi Omigari | 0500021740 |
