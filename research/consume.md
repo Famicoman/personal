@@ -2,6 +2,12 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* OMEMO - https://en.m.wikipedia.org/wiki/OMEMO
+* Beyond 2000 - https://www.google.com/search?q=beyond+2000+satellite&oq=beyond+2000+satellite&aqs=chrome..69i57.5478j0j4&sourceid=chrome-mobile&ie=UTF-8
+* The Memory Card Podcast - https://www.stitcher.com/podcast/the-memory-card-podcast
+* Lego Computer Typology - http://blog.presentandcorrect.com/typology-of-lego-computers
+* The Dork Web - https://thedorkweb.substack.com/
+* Electronics Lab Tools - https://jeff.glass/2019/12/01/electronics-lab-tools/
 * Handshake - https://handshake.org/
 * Rotary Cellphone - https://justine-haupt.com/rotarycellphone/
 * Cicada 3301 - https://en.wikipedia.org/wiki/Cicada_3301

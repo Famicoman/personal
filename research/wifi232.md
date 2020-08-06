@@ -4,3 +4,4 @@
 * https://backofficeshow.com/shop/retronetpcb
 * https://www.simulant.uk/shop/retro-vintage-computer-wifi-modem-rs232-serial-hayes-compatible
 * https://www.cbmstuff.com/proddetail.php?prod=WiModem232OLED
+* https://www.tindie.com/products/theoldnet/serial-wifi-modem-for-vintage-computers/

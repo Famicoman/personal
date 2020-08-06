@@ -1,5 +1,8 @@
 # LoRa
 
+* Custom LoRa Pager - https://hackaday.com/2019/03/24/custom-lora-pager-designed-with-care/
+* Beartooth - https://beartooth.com/
+
 ## Ripple Messenger
 
 * https://www.instructables.com/id/LoRa-Mesh-Radio/

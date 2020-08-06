@@ -16,3 +16,9 @@
 * Dialing Rules & Patterns - http://wiki.voip.ms/article/Dialing_Rules_and_Patterns
 * Phone Losers Of America Telephone Network Interface - http://www.phonelosers.org/tni/
 * ProjectMF - http://www.projectmf.org/
+
+* Arduino Blue Box - https://www.instructables.com/id/Arduino-12-mode-Blue-Box-Introduction/
+* Linksys SPA-3102 Asterisk Config - https://community.asterisk.org/t/linksys-spa-3102-a-asterisk-configuration-howto/17938
+* Dialplan Basics - https://www.oreilly.com/library/view/asterisk-the-future/9780596510480/ch05.html
+* Obi FXO Gateway - https://wiki.freepbx.org/plugins/servlet/mobile?contentId=4161594#content/view/4161594
+* Best way to wire a collection - http://www.classicrotaryphones.com/forum/index.php?topic=16144.45
