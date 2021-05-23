@@ -10,6 +10,10 @@
 ## APRS
 
 * Best portable APRS solution - https://www.reddit.com/r/amateurradio/comments/b0zngc/best_portable_aprs_solution/
+* Building and testing Dire Wolf KISS TCP on Mac - https://thomask.sdf.org/blog/2018/12/10/building-testing-dire-wolf-kiss-tcp-on-mac.html
+* TNC-Pi - https://m.facebook.com/groups/997833240323220/?ref=group_header&view=group
+* OpenModem - https://hackaday.com/2020/06/09/an-open-hardware-modem-for-the-modern-era/
+* NinoTNC - http://tarpn.net/t/nino-tnc/n9600a/n9600a3/n9600a3-assembly.html
 
 ## RTL-SDR
 
@@ -17,10 +21,9 @@
 * RTL-SDR TUTORIAL: POCSAG PAGER DECODING - https://www.rtl-sdr.com/rtl-sdr-tutorial-pocsag-pager-decoding/
 * A PRE-BUILT RASPBERRY PI IMAGE FOR USING AN RTL-SDR AS AN APRS RX IGATE - https://www.rtl-sdr.com/a-pre-built-raspberry-pi-image-for-using-an-rtl-sdr-as-an-aprs-rx-igate/
 * Updated guide to setting up an APRS RX only iGate using a Raspberry Pi, RTL-SDR dongle and a pre-built image - http://qso365.co.uk/2018/04/updated-guide-to-setting-up-an-aprs-rx-only-igate-using-a-raspberry-pi-rtl-sdr-dongle-and-a-pre-built-image/
-* Pager Hardware
-Reprogramming
-& Paging Protocols - https://web.archive.org/web/20170730062742/https://www.hackcanada.com/blackcrawl/cell/pager/pager.html
 * The Wireless Badger - https://hackaday.io/project/160997-the-wireless-badger
+* Quick Start Guide - https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/
+* A Good Quickstart Guide for RTL-SDR Linux Users - https://www.rtl-sdr.com/a-good-quickstart-guide-for-rtl-sdr-linux-users/
 
 ### Satellite Radio
 

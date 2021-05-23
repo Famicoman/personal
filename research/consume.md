@@ -2,6 +2,17 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* Cemetary of Soviet Computers - https://rusue.com/cemetery-of-soviet-computers/
+* Halt And Catch Fire Syllabus - https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/
+* Computer Mouse Conference - https://complicatingthecomputermouse.net/
+* AppleCrate II: A New Apple II-Based Parallel Computer - http://michaeljmahon.com/AppleCrateII.html
+* Booting from a vinyl record - http://boginjr.com/it/sw/dev/vinyl-boot/
+* Kiss-488 gpib webserver - https://www.eevblog.com/forum/testgear/kiss-488-gpib-webserver-anybody-used-one/
+* AMB: the Ancient Machine Book format - http://amb.osdn.io/
+* Space Nerds In Space - https://smcameron.github.io/space-nerds-in-space/
+* Facial Recognition - https://www.loom.com/share/9b37bb31fce9402cb0c5d9def8813899
+* ALTEXXANET - http://altexxanet.org/about.html
+* Dave Fischer's Home Computer - https://www.cca.org/dave/tech/machine.html
 * OMEMO - https://en.m.wikipedia.org/wiki/OMEMO
 * Beyond 2000 - https://www.google.com/search?q=beyond+2000+satellite&oq=beyond+2000+satellite&aqs=chrome..69i57.5478j0j4&sourceid=chrome-mobile&ie=UTF-8
 * The Memory Card Podcast - https://www.stitcher.com/podcast/the-memory-card-podcast

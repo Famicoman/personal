@@ -10,8 +10,12 @@ Here are some useful links:
 * Dial UP and PPP server in modern Linux - https://hackaday.io/project/20353-the-retroserver-networking-for-old-computers/log/54966-dial-up-and-ppp-server-in-modern-linux
 * How To Set Up Linux As A Dial-In Server  - https://www.howtoforge.com/linux_dialin_server
 * TELECOM TIME MACHINE - http://www.instructables.com/id/Telecom-Time-Machine/
+* Guest Wifi Access point without access to parent network - https://superuser.com/questions/1310242/guest-wifi-access-point-without-access-to-parent-network
+* Dial up server - https://dogemicrosystems.ca/wiki/Dial_up_server
+* iptables block 1 ip, nat - https://serverfault.com/questions/290955/iptables-block-1-ip-nat
+* How to provide a “guest LAN” on one ethernet device - https://unix.stackexchange.com/questions/46104/how-to-provide-a-guest-lan-on-one-ethernet-device
+* Raspberry Pi WireGuard VPN gateway - https://mgnk.it/2019/03/raspberry-pi-as-a-vpn-gateway-using-wireguard/
+* Dialup In The Age Of Broadband - https://gekk.info/articles/ata-dialup.html
 
-Also fun, some people are making software that allows you to connect the dial-up adapter on the Sega Dreamcast to a computer acting as something of an Ethernet Bridge. Now you can play all of your online Dreamcast games without needing to shell out for that pricey RJ-45 network adapter.
-* DreamPi - http://blog.kazade.co.uk/p/dreampi.html
-* You Can Still Use Dial-Up To Surf The Internet With A Dreamcast - http://www.thedreamcastjunkyard.co.uk/2017/03/you-can-still-use-dial-up-to-surf.html
-* PC-DC Server Setup (Win98) - http://dreamcast.onlineconsoles.com/phpBB2/guides_pcdcwin98.php
+Other stuff:
+* Retro.link - http://retro.link/

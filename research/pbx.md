@@ -22,3 +22,5 @@
 * Dialplan Basics - https://www.oreilly.com/library/view/asterisk-the-future/9780596510480/ch05.html
 * Obi FXO Gateway - https://wiki.freepbx.org/plugins/servlet/mobile?contentId=4161594#content/view/4161594
 * Best way to wire a collection - http://www.classicrotaryphones.com/forum/index.php?topic=16144.45
+
+* Setting up a SIP phone with SDF VoIP - https://sdf.org/?tutorials/sdf_voip
