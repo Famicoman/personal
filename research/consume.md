@@ -2,6 +2,7 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* A New Session - https://twitter.com/caraesten/status/1393239911797452800
 * Cemetary of Soviet Computers - https://rusue.com/cemetery-of-soviet-computers/
 * Halt And Catch Fire Syllabus - https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/
 * Computer Mouse Conference - https://complicatingthecomputermouse.net/
