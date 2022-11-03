@@ -7,3 +7,5 @@
 * https://wiki.ampr.org/wiki/Ubuntu_Linux_Gateway_Example
 * https://www.qsl.net/kb9mwr/wapr/tcpip/startampr
 * Bringing Net44 and IPV6 to your Ham Radio Station via VPN - https://www.youtube.com/watch?v=OxsmGaFZ2MM
+
+* Building a Raspberry Pi AMPRNet IPIP Gateway - https://ioclarity.ca/building-a-raspberry-pi-amprnet-ipip-gateway/

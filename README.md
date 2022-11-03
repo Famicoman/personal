@@ -120,9 +120,6 @@ Or simply _TIL_. My version of the somewhat-popular "Today I Learned" git repo c
 Things that I'm looking for.
 
 * Books
-	- [ ] - Domebook
-	- [ ] - Domebook 2
-	- [ ] - Hog Farm
 	- [ ] - LOOMPANICS BOOKS!
 * Magazines
 	- [ ] - Electric Word / Language Technology

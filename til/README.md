@@ -9,7 +9,7 @@ Check out other _TIL_ repositories like those by [jbranchaud](https://github.com
 ## Categories
 * [FreeBSD](#freebsd)
 * [OpenBSD](#openbsd)
-
+* [Git](#git)
 
 ---
 
@@ -30,3 +30,6 @@ Check out other _TIL_ repositories like those by [jbranchaud](https://github.com
 * [Ports Installation](openbsd/ports-installation.md)
 * [Sudoer Configuration](openbsd/sudoer-configuration.md)
 * [Tor Hidden Service Setup](openbsd/tor-hidden-service-setup.md)
+
+### Git
+* [Turn an existing project into a git repo](git/existing-project-to-repo.md)
