@@ -10,6 +10,18 @@ Books I'm reading, books I have read, and books I want to read. ISBN may not be 
 
 ## Read
 
+### 2022
+
+| Title | Author | ISBN |
+| ----------- | ----------- | -------- |
+| Broad Band: The Untold Story of the Women Who Made the Internet (2018( | Claire L. Evans | 9780735211759 |
+| Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World (2019) | Joseph Menn | 1549126202 |
+| How Not to Network a Nation: The Uneasy History of the Soviet Internet (2016) | Benjamin Peters | 0262034182 |
+
+### 2021
+
+This was a sad year
+
 ### 2020
 
 | Title | Author | ISBN |
