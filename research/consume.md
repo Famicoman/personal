@@ -2,6 +2,13 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* Sacred Servers - https://one.compost.digital/sacred-servers/
+* Elijah Miller’s NEC v30 on a Pi hat - https://virtuallyfun.com/2021/06/04/elijah-millers-nec-v30-on-a-pi-hat/
+* What have we got to lose? - https://douglasadams.com/dna/980707-05-a.html
+* How a Cable Modem Works - https://support.usr.com/support/6000/6000-ug/two.html
+* diode - https://www.withdiode.com/
+* Taking over a Dead IoT Company - https://blog.kchung.co/taking-over-a-dead-iot-company/
+* ‘Luddite’ Teens Don’t Want Your Likes - https://www.nytimes.com/2022/12/15/style/teens-social-media.html
 * A New Session - https://twitter.com/caraesten/status/1393239911797452800
 * Cemetary of Soviet Computers - https://rusue.com/cemetery-of-soviet-computers/
 * Halt And Catch Fire Syllabus - https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/

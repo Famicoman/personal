@@ -178,6 +178,10 @@ This was a sad year
 
 | Title | Author | ISBN |
 | ----------- | ----------- | -------- |
+| How Buildings Learn: What Happens After They're Built (1995) | Stewart Brand | 0140139966 |
+| World Satellite TV and Scrambling Methods 3rd Ed (1993) | Baylin, McCormac, Maddox | 0917893190 |
+| Crackers I: The Gold Rush (2021) | Microzeit |  |
+| WCrackers II: The Data Storm (2022) | Microzeit |  |
 | Literary Machines (1988) | Theodor Holm Nelson | 0893470554 |
 | Hypertext/Hypermedia (1989) | David H. Jonassen | 0877782172 |
 | Altered Carbon (2002) | Richard K. Morgan | 0345457684 |
