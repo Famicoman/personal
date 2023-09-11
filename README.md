@@ -65,7 +65,8 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [Cisco ATA 186 SIP](research/cisco-ata-186-sip.md)
 - [ ] - [cjdns](research/cjdns.md)
 - [ ] - [coreboot](research/coreboot.md)
-- [ ] - [Dial-up ISP](research/dial-up-isp.md)
+- [ ] - [Dial-up ISP](research/isp.md)
+- [ ] - [Electronic Circuits](research/electronic-circuits.md)
 - [ ] - [Emulation](research/emulation.md)
 - [ ] - [Food](research/food.md)
 - [ ] - [Floppy Archiving](research/floppy-archiving.md)
@@ -106,6 +107,7 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [Webdev Tools](research/webdev-tools.md)
 - [ ] - [WiFi232](research/wifi232.md)
 - [ ] - [WYSE WY-60](research/wyse-wy-60/wyse-wy-60.md)
+- [ ] - [Xbox](research/xbox.md)
 - [ ] - [YubiKey](research/yubikey.md)
 
 ## Today I Learned

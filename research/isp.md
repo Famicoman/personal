@@ -48,3 +48,8 @@ Other stuff:
 ## General
 
 * BBSs and early Internet access in the 1990ies  - https://media.ccc.de/v/34c3-9034-bbss_and_early_internet_access_in_the_1990ies
+
+## Other ISPs
+
+* 2600.network - https://2600.network/
+* DosLab Telecom DIal-Up - https://dialin.doslabelectronics.com/

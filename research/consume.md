@@ -2,6 +2,16 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* Chipdrop - https://getchipdrop.com/
+* JTAGulator - http://www.grandideastudio.com/jtagulator/
+* Agent 64 - https://store.steampowered.com/app/1574480/Agent_64_Spies_Never_Die/
+* I wrote a static web page and accidentally started a community - https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page
+* Hundred Rabbits - https://100r.co/site/home.html
+* Gewt.net - https://gewt.net/
+* A Certain Kind of Love, or Why my Apartment Qualifies as a Phone Network Now - https://medium.com/@gewt/a-certain-kind-of-love-or-why-my-apartment-qualifies-as-a-phone-network-now-bd9e25aba773
+* You Can Still Use a Pager in 2023 - https://debugger.medium.com/howto-using-a-pager-in-the-21st-century-6a57454ecde8
+* Microsecond accurate NTP with a Raspberry Pi and PPS GPS - https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/
+* loriemerson - https://loriemerson.net/blog/
 * Sacred Servers - https://one.compost.digital/sacred-servers/
 * Elijah Miller’s NEC v30 on a Pi hat - https://virtuallyfun.com/2021/06/04/elijah-millers-nec-v30-on-a-pi-hat/
 * What have we got to lose? - https://douglasadams.com/dna/980707-05-a.html

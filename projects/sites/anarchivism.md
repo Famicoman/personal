@@ -2,6 +2,11 @@
 
 ## Save These Things
 
+* HyrdoponicTrash Library - https://drive.google.com/file/d/1pqJPKT-eZUNuaL2-lo3jeJLr_Oyxj1t4/view?pli=1
+* EarthShip Store - https://earthshipstore.com/collections/books?page=1
+* Water from the Sky - https://www.ebay.com/sch/i.html?_nkw=%22water+from+the+sky%22&_trksid=p2334524.m4084.l1313&_odkw=water+from+the+sky&_sop=15
+* Resurgence / Ecologist - https://en.m.wikipedia.org/wiki/Resurgence_%26_Ecologist
+* Undercurrents Magazine - https://issuu.com/undercurrents1972/docs/uc01_dec19b
 * THE LIBRARY OF RADIANT OPTIMISM FOR LET'S RE-MAKE THE WORLD - http://www.letsremake.info/library_2.html
 * THE LIBRARY OF RADIANT OPTIMISM FOR LET'S RE-MAKE THE WORLD (index) - http://letsremake.info/PDFs/
 * Usborne coding books for a new generation - https://usborne.com/browse-books/features/computer-and-coding-books/
