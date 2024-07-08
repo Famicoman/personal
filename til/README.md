@@ -32,9 +32,9 @@ Check out other _TIL_ repositories like those by [jbranchaud](https://github.com
 * [Mirror an FTP site/directories with lftp](linux/mirror-with-lftp.md)
 
 ### Nginx
-* [Generate an SSL Certificate with Let's Encrypt](nginx\letsencrypt-ssl.md)
-* [Set Up A Password-Protected Directory](nginx/password-protected.md)
-* [Set Up a Reverse Proxy](nginx/setup-proxy.md)
+* [Generate an SSL Certificate with Let's Encrypt](nginx/letsencrypt-ssl.md)
+* [Set Up A Password-Protected Directory](nginx/password-protection.md)
+* [Set Up a Reverse Proxy](nginx/reverse-proxy.md)
 
 ### OpenBSD
 * [Change the Hostname](openbsd/change-the-hostname.md)
