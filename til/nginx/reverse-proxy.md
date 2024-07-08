@@ -48,7 +48,3 @@ Make sure there is a hole in the firewall for our new proxy (note that `wg0` is 
 # cat /etc/iptables/rules.v4 | grep 8080
 -A INPUT -i wg0 -p tcp -m tcp --dport 8080 -j ACCEPT
 ```
-
-## Sources
-* https://randyzwitch.com/mirror-ftp-lftp/
-* http://root42.blogspot.com/2013/09/how-to-get-directory-recursively-with.html
