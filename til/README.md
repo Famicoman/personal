@@ -8,8 +8,11 @@ Check out other _TIL_ repositories like those by [jbranchaud](https://github.com
 
 ## Categories
 * [FreeBSD](#freebsd)
-* [OpenBSD](#openbsd)
 * [Git](#git)
+* [Linux](#linux)
+* [Nginx](#nginx)
+* [OpenBSD](#openbsd)
+
 
 ---
 
@@ -21,6 +24,18 @@ Check out other _TIL_ repositories like those by [jbranchaud](https://github.com
 * [Patching the System](freebsd/patching.md)
 * [Sudoer Configuration](freebsd/sudoer-configuration.md)
 
+### Git
+* [Turn an existing project into a git repo](git/existing-project-to-repo.md)
+
+### Linux
+* [Format a Large (<2TB) Disk](linux/format-large-disk.md)
+* [Mirror an FTP site/directories with lftp](linux/mirror-with-lftp.md)
+
+### Nginx
+* [Generate an SSL Certificate with Let's Encrypt](nginx\letsencrypt-ssl.md)
+* [Set Up A Password-Protected Directory](nginx/password-protected.md)
+* [Set Up a Reverse Proxy](nginx/setup-proxy.md)
+
 ### OpenBSD
 * [Change the Hostname](openbsd/change-the-hostname.md)
 * [dmesg](openbsd/dmesg.md)
@@ -31,5 +46,4 @@ Check out other _TIL_ repositories like those by [jbranchaud](https://github.com
 * [Sudoer Configuration](openbsd/sudoer-configuration.md)
 * [Tor Hidden Service Setup](openbsd/tor-hidden-service-setup.md)
 
-### Git
-* [Turn an existing project into a git repo](git/existing-project-to-repo.md)
+
