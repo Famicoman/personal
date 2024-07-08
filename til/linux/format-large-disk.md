@@ -1,4 +1,4 @@
-# Format a Large (<2TB) Disk
+# Format a Large (>2TB) Disk
 
 We have a 4TB drive and we want to use the entirety of the drive in one partition.
 

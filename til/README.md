@@ -28,7 +28,7 @@ Check out other _TIL_ repositories like those by [jbranchaud](https://github.com
 * [Turn an existing project into a git repo](git/existing-project-to-repo.md)
 
 ### Linux
-* [Format a Large (<2TB) Disk](linux/format-large-disk.md)
+* [Format a Large (>2TB) Disk](linux/format-large-disk.md)
 * [Mirror an FTP site/directories with lftp](linux/mirror-with-lftp.md)
 
 ### Nginx
