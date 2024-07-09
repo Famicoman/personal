@@ -29,6 +29,7 @@ Check out other _TIL_ repositories like those by [jbranchaud](https://github.com
 
 ### Linux
 * [Format a Large (>2TB) Disk](linux/format-large-disk.md)
+* [Grub: No such device](linux/grub-no-such-device.md)
 * [Mirror an FTP site/directories with lftp](linux/mirror-with-lftp.md)
 
 ### Nginx
