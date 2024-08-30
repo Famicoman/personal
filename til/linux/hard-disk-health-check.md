@@ -21,6 +21,7 @@ sr0     11:0    1  1024M  0 rom
 First, we start with checking to see if the drive supports SMART:
 
 ```
+# apt install smartmontools
 # smartctl -i /dev/sdi
 smartctl 7.2 2020-12-30 r5155 [x86_64-linux-5.10.0-26-amd64] (local build)
 Copyright (C) 2002-20, Bruce Allen, Christian Franke, www.smartmontools.org
