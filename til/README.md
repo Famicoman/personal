@@ -28,10 +28,14 @@ Check out other _TIL_ repositories like those by [jbranchaud](https://github.com
 * [Turn an existing project into a git repo](git/existing-project-to-repo.md)
 
 ### Linux
+* [Email notifications for SMART health and mdadm RAID health](linux/email-notifications-smart-mdadm.md)
 * [Format a Large (>2TB) Disk](linux/format-large-disk.md)
 * [Grub: No such device](linux/grub-no-such-device.md)
 * [Hard Disk Health Check](linux/hard-disk-health-check.md)
 * [Mirror an FTP site/directories with lftp](linux/mirror-with-lftp.md)
+* [Monitor ECC RAM with rasdaemon](linux/monitor-ecc-ram-with-rasdaemon.md)
+* [Redirect root Email with msmtp](linux/redirect-root-email-with-msmtp.md)
+* [Software RAID](linux/software-raid.md)
 
 ### Nginx
 * [Generate an SSL Certificate with Let's Encrypt](nginx/letsencrypt-ssl.md)
