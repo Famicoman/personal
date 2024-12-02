@@ -4,3 +4,8 @@
 * Pocsag Quickstart Guide - https://einstein.amsterdam/?page_id=2130
 * DAPNET Pagers - https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20201202193627&SearchText=Dapnet
 * UniPager GM300 - https://bad-radio.solutions/notes_unipager_gm300
+
+## POCSAF Snigger
+
+* [Research In Motion’s BlackBerry Wireless E-Mail Devices: Decoding the Mobitex protocol](/pocsag/blackberry_decoding_paper.pdf)
+* [Schematic](/pocsag/pocsag_schematic.pdf)

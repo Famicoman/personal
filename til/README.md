@@ -36,6 +36,7 @@ Check out other _TIL_ repositories like those by [jbranchaud](https://github.com
 * [Monitor ECC RAM with rasdaemon](linux/monitor-ecc-ram-with-rasdaemon.md)
 * [Redirect root Email with msmtp](linux/redirect-root-email-with-msmtp.md)
 * [Software RAID](linux/software-raid.md)
+* [yt-dlp Tricks](linux/yt-dlp-tricks.md)
 
 ### Nginx
 * [Generate an SSL Certificate with Let's Encrypt](nginx/letsencrypt-ssl.md)

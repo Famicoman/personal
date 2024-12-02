@@ -21,3 +21,14 @@ C:\Users\Mike\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\2.6.1/espt
 ## Disaster radio
 
 * https://disaster.radio/
+
+## Tools for RF
+
+* Line of Sight Mapper - https://www.scadacore.com/tools/rf-path/rf-line-of-sight/
+* MeshMap (Meshtastic) - https://meshmap.net/
+
+## Antennas 
+
+* https://www.mouser.com/ProductDetail/Taoglas/TI.92.2113?qs=P1JMDcb91o7ty6jAS%2Fx1TA%3D%3D
+* https://www.mouser.com/ProductDetail/Pulse-Electronics/W1063M?qs=opBjA1TV90175GTfjmKkCg%3D%3D
+* https://www.mouser.com/ProductDetail/Maxtena/MEA-915-SW-SMA?qs=aP1CjGhiNiGjQNdaSEvwhg%3D%3D

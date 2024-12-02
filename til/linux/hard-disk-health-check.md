@@ -99,3 +99,13 @@ Cheaper USB drive adapters can go to sleep after a while and half the test. Moni
 ```
 #  while true; do smartctl -d sat -c /dev/sdi; sleep 30; done
 ```
+
+
+## Sources
+* https://help.ubuntu.com/community/Smartmontools
+* https://linuxconfig.org/how-to-check-an-hard-drive-health-from-the-command-line-using-smartctl
+* https://www.reddit.com/r/DataHoarder/comments/186x50s/got_my_hdds_delivered_how_can_i_test_them_all/
+* https://www.truenas.com/community/threads/does-this-smart-result-indicates-a-failing-drive.94848/
+* https://codeyarns.com/tech/2016-12-21-how-to-use-smartctl.html#gsc.tab=0
+* https://unix.stackexchange.com/questions/202400/smartmontools-how-can-i-know-if-there-is-any-smartctl-test-running-on-my-hard-d
+* https://wiki.archlinux.org/title/Badblocks
