@@ -26,6 +26,8 @@ C:\Users\Mike\AppData\Local\Arduino15\packages\esp32\tools\esptool_py\2.6.1/espt
 
 * Line of Sight Mapper - https://www.scadacore.com/tools/rf-path/rf-line-of-sight/
 * MeshMap (Meshtastic) - https://meshmap.net/
+* Meshtastic Coverage Estimator - https://meshplanner.mpatrick.dev/
+* Meshtastic Maps & Mapping Tools - https://pole1.co.uk/maps/
 
 ## Antennas 
 

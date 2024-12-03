@@ -416,3 +416,7 @@ This was a sad year
 | Breaking and Entering: The Extraordinary Story of a Hacker Called "Alien" (2019) | Jeremy N. Smith | 0544903218 | 
 | The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data (2017) | Kevin Mitnick | 0316380504 |
 | Arcade Game Typography: The Art of Pixel Type (2019) | Toshi Omigari | 0500021740 |
+
+## Things to Check
+
+* Earthship Books - https://earthshipstore.com/collections/bundles

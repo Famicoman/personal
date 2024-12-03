@@ -2,6 +2,13 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* Walkaway Handbook - https://web.archive.org/web/20200821203824/https://walkaway.wiki/
+* How to make a CRT video wall matrix - https://nuvotion.live/tutorials/how-to-make-a-crt-video-wall-matrix
+* Low Cost Mini PCs - https://lowcostminipcs.com/
+* gbpxl build instructions - https://github.com/xx0x/gbpxl/blob/master/build-instructions/BUILD_INSTRUCTIONS.md
+* Hang Up Documentary - https://vimeo.com/95554820
+* DocDroppers - https://web.archive.org/web/20060626061454/http://www.docdroppers.org/wiki/index.php?title=Special:Allpages
+* Solar Sunrise - https://archive.org/details/Solar_Sunrise_Dawn_Of_A_New_Threat_NIPC_1999_Tape
 * Chipdrop - https://getchipdrop.com/
 * JTAGulator - http://www.grandideastudio.com/jtagulator/
 * Agent 64 - https://store.steampowered.com/app/1574480/Agent_64_Spies_Never_Die/

@@ -48,6 +48,7 @@ Other stuff:
 ## General
 
 * BBSs and early Internet access in the 1990ies  - https://media.ccc.de/v/34c3-9034-bbss_and_early_internet_access_in_the_1990ies
+* Brand New USB Modem in the 2020s - https://hackaday.com/2024/09/17/a-brand-new-usb-modem-in-the-2020s/
 
 ## Other ISPs
 

@@ -97,6 +97,8 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [PK232](research/pk232.md)
 - [ ] - [Plan9 System](research/plan9-system.md)
 - [ ] - [Podcast Ideas](research/podcast-ideas.md)
+- [ ] - [Podcasts](research/podcasts.md)
+- [ ] - [Podcasting](research/podcasting.md)
 - [ ] - [Pogoplug Hacks](research/pogoplug-hacks.md)
 - [ ] - [Raspberry Pi](research/raspberry-pi.md)
 - [ ] - [RC2014](research/rc2014.md)
@@ -105,6 +107,7 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [SKS Keyserver](research/sks-keyserver.md)
 - [ ] - [Software](research/software.md)
 - [ ] - [Solar](research/solar.md)
+- [ ] - [Telephony](research/telephony.md)
 - [ ] - [Tor](research/tor.md)
 - [ ] - [Typefaces](research/typefaces.md)
 - [ ] - [Usenet Server](research/usenet-server.md)
@@ -133,4 +136,9 @@ Things that I'm looking for.
 	- [ ] - Scrambling News
 	- [ ] - American Hacker
 * Hardware
-	- [ ] - Monoprice "telescoping" cable tester - https://www.monoprice.com/product?c_id=105&cp_id=10524&cs_id=1052401&p_id=8138&seq=1&format=2
+	- [ ] - Blue2 ESR - https://evbesrmeter.pt/blue2esr.htm
+	- [ ] - Jameco Benc top Transformer - https://www.jameco.com/z/GRP-1200-Jameco-ReliaPro-Benchtop-Transformer-Isolation-120VAC-7A-60Hz-450VA_2214336.html?CID=GOOG&gad_source=1
+	- [ ] - FPV DVR - https://www.amazon.com/OKJHFD-Recorder-Module-Switchable-Battery/dp/B0CHWB3K5R/
+	- [ ] - Clifford Heath HackRF - https://m.youtube.com/watch?v=sZ-uEp5_4rQ
+	- [ ] - Dell FDDM-101 - https://www.vogons.org/viewtopic.php?t=89432
+	- [ ] - VinTelecom PBX - https://www.aliexpress.us/item/2251832513365933.html
