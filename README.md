@@ -94,6 +94,7 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [OpenNIC Tier 2 Server](research/opennic-tier-2-server.md)
 - [ ] - [PBX](research/pbx.md)
 - [ ] - [PC Engines](research/pc-engines.md)
+- [ ] - [PCIe 1x GPU](research/pcie-1x-gpu.md)
 - [ ] - [Pirate Radio](research/pirate-radio.md)
 - [ ] - [PK232](research/pk232.md)
 - [ ] - [Plan9 System](research/plan9-system.md)
