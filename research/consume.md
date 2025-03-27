@@ -2,6 +2,7 @@
 
 These things need to be read and processed. Newest stuff goes on top!
 
+* So long, home T1 line; hello, hacking the T1 router - http://oldvcr.blogspot.com/2022/05/so-long-home-t1-line-hello-hacking-t1.html?m=1
 * A Million Random Digits - https://www.rand.org/pubs/monograph_reports/MR1418.html
 * Walkaway Handbook - https://web.archive.org/web/20200821203824/https://walkaway.wiki/
 * How to make a CRT video wall matrix - https://nuvotion.live/tutorials/how-to-make-a-crt-video-wall-matrix
