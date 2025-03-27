@@ -79,6 +79,7 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [Incentivized Mesh](research/incentivised-mesh.md)
 - [ ] - [IPv6](research/ipv6.md)
 - [ ] - [IRC](research/irc.md)
+- [ ] - [ISDN](research/isdn.md)
 - [ ] - [Jekyll](research/jekyll.md)
 - [ ] - [JeOS &(Just Enough OS)](research/jeos.md)
 - [ ] - [KVM Stuff](research/kvm-stuff.md)
