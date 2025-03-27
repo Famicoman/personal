@@ -83,6 +83,7 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [JeOS &(Just Enough OS)](research/jeos.md)
 - [ ] - [KVM Stuff](research/kvm-stuff.md)
 - [ ] - [Lantronix UDS-10](research/lantronix-uds10.md)
+- [ ] - [Logic Analyzer](research/logic-analyzer.md)
 - [ ] - [LoRa](research/lora.md)
 - [ ] - [Mailgun](research/mailgun.md)
 - [ ] - [Matrix](research/matrix.md)
@@ -107,13 +108,16 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [SKS Keyserver](research/sks-keyserver.md)
 - [ ] - [Software](research/software.md)
 - [ ] - [Solar](research/solar.md)
+- [ ] - [Switchvox](research/switchvox.md)
 - [ ] - [Telephony](research/telephony.md)
 - [ ] - [Tor](research/tor.md)
 - [ ] - [Typefaces](research/typefaces.md)
 - [ ] - [Usenet Server](research/usenet-server.md)
+- [ ] - [vhs-decode](research/vhs-decode.md)
 - [ ] - [Webdev Tools](research/webdev-tools.md)
 - [ ] - [WiFi232](research/wifi232.md)
 - [ ] - [WYSE WY-60](research/wyse-wy-60/wyse-wy-60.md)
+- [ ] - [Wyze v2](research/wyze-v2.md)
 - [ ] - [Xbox](research/xbox.md)
 - [ ] - [YubiKey](research/yubikey.md)
 
@@ -142,3 +146,4 @@ Things that I'm looking for.
 	- [ ] - Clifford Heath HackRF - https://m.youtube.com/watch?v=sZ-uEp5_4rQ
 	- [ ] - Dell FDDM-101 - https://www.vogons.org/viewtopic.php?t=89432
 	- [ ] - VinTelecom PBX - https://www.aliexpress.us/item/2251832513365933.html
+	- [ ] - OpticPro A320L - https://plustek.com/us/products/flatbed-scanners/opticpro-a320l/

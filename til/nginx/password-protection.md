@@ -32,7 +32,13 @@ Note that the root of this site will proxy to `http://10.10.10.20:8080` which is
 Now we need to create the basic auth user file using `-c` to create (updates for the same user can be done without this flag) and `-B` to specify bcrypt for the password hashing algorithm:
 
 ```
-#  htpasswd -c -B /etc/ntinx/.htpasswd famicoman
+# htpasswd -c -B /etc/nginx/.htpasswd famicoman
+```
+
+We can also use a higher cost to make the password take longer to validate. "With a cost of 12 your server will likely not be able to try passwords more than a few times a second, increase that to say 14 and you'll probably be looking at around 1s per password attempt."
+
+```
+# htpasswd -c -B -C 14 /etc/nginx/.htpasswd famicoman
 ```
 
 Now link this config into `sites-enabled`:
@@ -59,3 +65,7 @@ Make sure there is a hole in the firewall for our new proxy:
 # cat /etc/iptables/rules.v4 | grep 80
 -A INPUT -p tcp -m tcp --dport 80 -j ACCEPT
 ```
+
+## Sources
+
+* https://serverfault.com/questions/421046/how-to-limit-nginx-auth-basic-re-tries
