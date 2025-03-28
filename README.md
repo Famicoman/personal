@@ -76,6 +76,7 @@ Not a task yet, but something where I've looked into things and taken notes.
 - [ ] - [GPG](research/gpg.md)
 - [ ] - [Hardware Hacking](research/hardware-hacking.md)
 - [ ] - [Humor](research/humor.md)
+- [ ] - [IM-ME](research/im-me.md)
 - [ ] - [Incentivized Mesh](research/incentivised-mesh.md)
 - [ ] - [IPv6](research/ipv6.md)
 - [ ] - [IRC](research/irc.md)
