@@ -141,6 +141,7 @@ Things that I'm looking for.
 	- [ ] - Satellite Watch News
 	- [ ] - Scrambling News
 	- [ ] - American Hacker
+ 	- [ ] - Perspectives on Public Communication
 * Hardware
 	- [ ] - Blue2 ESR - https://evbesrmeter.pt/blue2esr.htm
 	- [ ] - Jameco Benc top Transformer - https://www.jameco.com/z/GRP-1200-Jameco-ReliaPro-Benchtop-Transformer-Isolation-120VAC-7A-60Hz-450VA_2214336.html?CID=GOOG&gad_source=1
