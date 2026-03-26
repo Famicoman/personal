@@ -1,6 +1,6 @@
 # Hard Disk Health Check
 
-Got refurbished drives from GoHardDrive and need to test them out.
+Got refurbished drives from GoHardDrive and need to test them out. For future me, the UGreen SATA/USB adapter works well for this, but the cinglink does not and seems to cause drive timeouts.
 
 First, we need to identify the disk to test, we will be targeting `/dev/sdi`:
 
