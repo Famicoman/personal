@@ -5,7 +5,7 @@ Got refurbished drives from GoHardDrive and need to test them out. For future me
 First, we need to identify the disk to test, we will be targeting `/dev/sdi`:
 
 ```
-# lsblk
+lsblk
 NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
 sda      8:0    0   3.6T  0 disk
 └─sda1   8:1    0   3.6T  0 part /mnt/storage
@@ -21,8 +21,8 @@ sr0     11:0    1  1024M  0 rom
 First, we start with checking to see if the drive supports SMART:
 
 ```
-# apt install smartmontools
-# smartctl -i /dev/sdi
+apt install smartmontools
+smartctl -i /dev/sdi
 smartctl 7.2 2020-12-30 r5155 [x86_64-linux-5.10.0-26-amd64] (local build)
 Copyright (C) 2002-20, Bruce Allen, Christian Franke, www.smartmontools.org
 
@@ -46,7 +46,7 @@ SMART support is: Enabled
 Next, a short test:
 
 ```
-# smartctl -t short /dev/sdi
+smartctl -t short /dev/sdi
 smartctl 7.2 2020-12-30 r5155 [x86_64-linux-5.10.0-26-amd64] (local build)
 Copyright (C) 2002-20, Bruce Allen, Christian Franke, www.smartmontools.org
 
@@ -62,7 +62,7 @@ Use smartctl -X to abort test.
 The test is run on the drive controller itself so after some time we can check the drive and look for `Self-test execution status`:
 
 ```
-# smartctl --capabilities /dev/sdi
+smartctl --capabilities /dev/sdi
 smartctl 7.2 2020-12-30 r5155 [x86_64-linux-5.10.0-26-amd64] (local build)
 Copyright (C) 2002-20, Bruce Allen, Christian Franke, www.smartmontools.org
 
@@ -79,25 +79,25 @@ Self-test execution status:      (   0) The previous self-test routine completed
 Not supported on all drives, but it can be good to run a conveyance test:
 
 ```
-# smartctl -t conveyance /dev/sdi
+smartctl -t conveyance /dev/sdi
 ```
 
 Now a `badblocks` test to check for bad sectors, this will perform 4 rounds of write/verify. Note that this test took ~6 days for a 12TB drive.
 
 ```
-# badblocks -b 4096 -ws /dev/sdi
+badblocks -b 4096 -ws /dev/sdi
 ```
 
 Finally, a long SMART test. Note that this test took ~1 day for a 12TB drive.
 
 ```
-# smartctl -t long /dev/sdi
+smartctl -t long /dev/sdi
 ```
 
 Cheaper USB drive adapters can go to sleep after a while and half the test. Monitor it with a loop to keep things awake:
 
 ```
-#  while true; do smartctl -d sat -c /dev/sdi; sleep 30; done
+while true; do smartctl -d sat -c /dev/sdi; sleep 30; done
 ```
 
 
