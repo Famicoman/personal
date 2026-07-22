@@ -15,27 +15,27 @@ This is a repository to track all of my ongoing projects, research, thoughts, wo
 	
 ## Tasks
 
-Let's start with a *task list*. This will list key things I'm working on, coupled with the date they were added to the list (not necessarily the date that I started working on them, but that may be used if I can find it). This will be used to track how long a project has been open. Tasks will move to **completed** when they have been finished.
+Let's start with a *task list*. This will list key things I'm working on, coupled with the date they were added to the list (not necessarily the date that I started working on them, but that may be used if I can find it). This will be used to track how long a project has been open. Tasks will move to **completed** when they have been finished. **Backlog** tasks are a mix of work I want to do and projects that have started work but have since been deprioritized.
 
 
 ### In Progress
 
+- [ ] - 56K via Portmaster 3 and Adtran TA (2026)
+- [ ] - NABTS encoder (2026)
+- [ ] - Payphone.club (2025)
+
+### Backlog
+- [ ] - TDMoIP with a T-Marc (2026)
 - [ ] - [Mac Modernization](projects/hardware/mac-modernization.md) (2018-09-08)
-- [ ] - [Hackers Pager](projects/hardware/hackers-pager.md) (2017)
 - [ ] - [dn42 Node](projects/networking/dn42-node.md) (2017)
-- [ ] - [z/OS Mainframe](projects/emulation/zos-mainframe/zos-mainframe.md) (2015)
-- [ ] - [RC2014 Plus](prohects/hardware/rc2014-plus.md) (2018-01-01)
+- [ ] - RC2014 (2018-01-01)
 - [ ] - [Magazine Scans](projects/scans/magazine-scans.md) (2013)
 - [ ] - [Philly Mesh](projects/groups/phillymesh.md) (2014)
 - [ ] - [Anarchivism](projects/sites/anarchivism.md) (2012)
 
-
-### Inactive
-
-- [x] - **Nothing here yet!**
-
 ### Finished
-
+- [x] - [Hackers Pager](projects/hardware/hackers-pager.md) (2017)
+- [x] - [z/OS Mainframe](projects/emulation/zos-mainframe/zos-mainframe.md) (2015)
 - [x] - [archivebotjr](projects/software/archivebotjr.md) (2016)
 - [x] - [Bitcoin Mining](projects/software/bitcoin-mining) (2013)
 - [x] - [Boxee Hacks](projects/software/boxee-hacks.md) (2013)
