@@ -4,7 +4,7 @@ This is a repository to track all of my ongoing projects, research, thoughts, wo
 
 * [Tasks](#tasks)
 	* [In Progress](#in-progress)
-	* [Inactive](#inactive)
+	* [Backlog](#backlog)
 	* [Finished](#finished)
 * [Research](#research)
 	* [Uncategorized](#uncategorized)
@@ -144,8 +144,7 @@ Things that I'm looking for.
 	- [ ] - American Hacker
  	- [ ] - Perspectives on Public Communication
 * Hardware
-	- [ ] - Blue2 ESR - https://evbesrmeter.pt/blue2esr.htm
-	- [ ] - Jameco Benc top Transformer - https://www.jameco.com/z/GRP-1200-Jameco-ReliaPro-Benchtop-Transformer-Isolation-120VAC-7A-60Hz-450VA_2214336.html?CID=GOOG&gad_source=1
+	- [ ] - Jameco Bench top Transformer - https://www.jameco.com/z/GRP-1200-Jameco-ReliaPro-Benchtop-Transformer-Isolation-120VAC-7A-60Hz-450VA_2214336.html?CID=GOOG&gad_source=1
 	- [ ] - FPV DVR - https://www.amazon.com/OKJHFD-Recorder-Module-Switchable-Battery/dp/B0CHWB3K5R/
 	- [ ] - Clifford Heath HackRF - https://m.youtube.com/watch?v=sZ-uEp5_4rQ
 	- [ ] - Dell FDDM-101 - https://www.vogons.org/viewtopic.php?t=89432
