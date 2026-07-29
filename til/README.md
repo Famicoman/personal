@@ -35,6 +35,7 @@ Check out other _TIL_ repositories like those by [jbranchaud](https://github.com
 * [Mirror an FTP site/directories with lftp](linux/mirror-with-lftp.md)
 * [Monitor ECC RAM with rasdaemon](linux/monitor-ecc-ram-with-rasdaemon.md)
 * [Redirect root Email with msmtp](linux/redirect-root-email-with-msmtp.md)
+* [rsync Server](linux/rsync-server.md)
 * [Software RAID](linux/software-raid.md)
 * [yt-dlp Tricks](linux/yt-dlp-tricks.md)
 
