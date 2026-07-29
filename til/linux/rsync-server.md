@@ -28,6 +28,8 @@ log file = /var/log/rsyncd.log
     comment = Public mirror
     read only = yes
     list = yes
+	# Optional max connections
+	# max connections = 10
 	# Optional exclude
 	# exclude = /subdirectory/under/path/
 ```
