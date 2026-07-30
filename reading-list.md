@@ -10,6 +10,13 @@ Books I'm reading, books I have read, and books I want to read. ISBN may not be 
 
 ## Read
 
+### 2026
+
+| Title | Author | ISBN |
+| ----------- | ----------- | -------- |
+| The Accidental Network: How a Small Company Sparked a Global Broadband Transformation (2025) | Rouzbeh Yassini-Fard | 1959000608 |
+| Poorly Made in China: An Insider's Account of the China Production Game (2009) | Paul Midler | 0470928077 |
+
 ### 2022
 
 | Title | Author | ISBN |
