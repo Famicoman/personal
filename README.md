@@ -26,6 +26,9 @@ Let's start with a *task list*. This will list key things I'm working on, couple
 
 ### Backlog
 - [ ] - TDMoIP with a T-Marc (2026)
+- [ ] - Avocent MPU Noctua mod (2025)
+- [ ] - Leitch CSD PSU recap (2025)
+- [ ] - Nortel Displayphone ROM dump and PSU build (2026)
 - [ ] - [Mac Modernization](projects/hardware/mac-modernization.md) (2018-09-08)
 - [ ] - [dn42 Node](projects/networking/dn42-node.md) (2017)
 - [ ] - RC2014 (2018-01-01)
